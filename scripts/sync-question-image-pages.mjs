@@ -28,6 +28,34 @@ const groups = groupBy(
   questions.filter((question) => question.pdf_path?.startsWith("data/pdf/") && existsSync(join(root, question.pdf_path))),
   (question) => question.pdf_path,
 );
+const manualPdfPageOffsetByPdf = new Map([
+  ["data/pdf/2006_center_main_physics1.pdf", 0],
+  ["data/pdf/2007_center_main_physics1.pdf", 2],
+  ["data/pdf/2008_center_main_physics1.pdf", 2],
+  ["data/pdf/2009_center_main_physics1.pdf", 2],
+  ["data/pdf/2010_center_main_physics1.pdf", 2],
+  ["data/pdf/2011_center_main_physics1.pdf", 2],
+  ["data/pdf/2012_center_main_physics1.pdf", 55],
+  ["data/pdf/2013_center_main_physics1.pdf", 55],
+  ["data/pdf/2014_center_main_physics1.pdf", 59],
+  ["data/pdf/2015_center_main_physics.pdf", 4],
+  ["data/pdf/2015_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2016_center_main_physics.pdf", 4],
+  ["data/pdf/2016_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2017_center_main_physics.pdf", 4],
+  ["data/pdf/2017_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2018_center_main_physics.pdf", 4],
+  ["data/pdf/2018_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2019_center_main_physics.pdf", 4],
+  ["data/pdf/2019_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2020_center_main_physics.pdf", 4],
+  ["data/pdf/2020_center_main_physics_basic.pdf", 4],
+  ["data/pdf/2021_common_main_physics.pdf", 4],
+  ["data/pdf/2021_common_main_physics_basic.pdf", 4],
+  ["data/pdf/2022_common_main_physics.pdf", 4],
+  ["data/pdf/2022_common_main_physics_basic.pdf", 4],
+]);
+const pageCountByPdf = new Map();
 
 const syncedQuestionPages = new Map();
 const audit = {
@@ -37,6 +65,7 @@ const audit = {
   partial_groups: 0,
   fallback_groups: 0,
   synced_questions: 0,
+  manual_offset_questions: 0,
   fallback_questions: 0,
   generated_crop_rows: 0,
   groups: [],
@@ -45,6 +74,7 @@ const audit = {
 for (const [pdfPath, items] of [...groups.entries()].sort(([a], [b]) => a.localeCompare(b, "ja"))) {
   const sourcePdf = join(root, pdfPath);
   const pageCount = getPageCount(sourcePdf);
+  pageCountByPdf.set(pdfPath, pageCount);
   const pageTexts = extractPageTexts(sourcePdf, pageCount);
   const inferred = inferQuestionPdfPages(items, pageTexts, pageCount);
   let synced = 0;
@@ -84,6 +114,13 @@ for (const question of questions) {
     continue;
   }
 
+  const manualPdfPages = manualPdfPagesFromQuestion(question, pageCountByPdf.get(question.pdf_path));
+  if (manualPdfPages.length) {
+    audit.manual_offset_questions += 1;
+    newCrops.push(...createCrops(question, manualPdfPages));
+    continue;
+  }
+
   const fallback = previousByQuestion.get(question.id);
   if (fallback?.length) {
     audit.fallback_questions += 1;
@@ -110,6 +147,7 @@ console.log(`synced groups: ${audit.synced_groups}`);
 console.log(`partial groups: ${audit.partial_groups}`);
 console.log(`fallback groups: ${audit.fallback_groups}`);
 console.log(`synced questions: ${audit.synced_questions}`);
+console.log(`manual offset questions: ${audit.manual_offset_questions}`);
 console.log(`fallback questions: ${audit.fallback_questions}`);
 console.log(`image crop rows: ${audit.generated_crop_rows}`);
 
@@ -190,6 +228,14 @@ function createCrops(question, pdfPages) {
   });
 }
 
+function manualPdfPagesFromQuestion(question, pageCount) {
+  const offset = manualPdfPageOffsetByPdf.get(question.pdf_path);
+  if (offset == null || !pageCount) return [];
+  return unique(expandPages(question.page)
+    .map((page) => page + offset)
+    .filter((page) => page >= 1 && page <= pageCount));
+}
+
 function findMajorStartPage(majorNo, compactTexts) {
   const patterns = [
     new RegExp(`第${escapeRegExp(toAsciiDigits(majorNo))}問`),
@@ -266,6 +312,10 @@ function range(start, end) {
   const pages = [];
   for (let page = start; page <= end; page += 1) pages.push(page);
   return pages;
+}
+
+function unique(values) {
+  return [...new Set(values)];
 }
 
 function compact(value) {
