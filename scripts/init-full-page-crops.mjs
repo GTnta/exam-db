@@ -10,6 +10,9 @@ const questions = JSON.parse(readFileSync(questionsPath, "utf8"));
 const crops = existsSync(cropsPath) ? JSON.parse(readFileSync(cropsPath, "utf8")) : [];
 const existingKeys = new Set(crops.map((crop) => cropKey(crop)));
 const firstPrintedPageByPdf = getFirstPrintedPageByPdf(questions);
+const skippedPrintedPagesByPdf = new Map([
+  ["data/pdf/2024_common_main_physics_basic.pdf", [15]],
+]);
 let added = 0;
 
 for (const question of questions) {
@@ -47,7 +50,7 @@ crops.sort((a, b) => (
 ));
 
 for (const crop of crops) {
-  if (crop.pdf_page == null) crop.pdf_page = toPdfPage(crop.source_pdf, crop.page);
+  crop.pdf_page = toPdfPage(crop.source_pdf, crop.page);
 }
 
 writeFileSync(cropsPath, `${JSON.stringify(crops, null, 2)}\n`);
@@ -93,5 +96,9 @@ function getFirstPrintedPageByPdf(items) {
 function toPdfPage(sourcePdf, printedPage) {
   const firstPrintedPage = firstPrintedPageByPdf.get(sourcePdf);
   if (firstPrintedPage == null) return Number(printedPage);
-  return Number(printedPage) - firstPrintedPage + 1;
+  let pdfPage = Number(printedPage) - firstPrintedPage + 1;
+  for (const skippedPage of skippedPrintedPagesByPdf.get(sourcePdf) ?? []) {
+    if (Number(printedPage) > skippedPage) pdfPage -= 1;
+  }
+  return pdfPage;
 }
