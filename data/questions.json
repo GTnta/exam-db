@@ -9756,8 +9756,7 @@
     "image_paths": [
       "data/images/questions/2022_common_main_physics_basic_a13_p1.webp",
       "data/images/questions/2022_common_main_physics_basic_a13_p2.webp",
-      "data/images/questions/2022_common_main_physics_basic_a13_p3.webp",
-      "data/images/questions/2022_common_main_physics_basic_a13_p4.webp"
+      "data/images/questions/2022_common_main_physics_basic_a13_p3.webp"
     ]
   },
   {
@@ -9792,8 +9791,7 @@
     "image_paths": [
       "data/images/questions/2022_common_main_physics_basic_a14_p1.webp",
       "data/images/questions/2022_common_main_physics_basic_a14_p2.webp",
-      "data/images/questions/2022_common_main_physics_basic_a14_p3.webp",
-      "data/images/questions/2022_common_main_physics_basic_a14_p4.webp"
+      "data/images/questions/2022_common_main_physics_basic_a14_p3.webp"
     ]
   },
   {
@@ -9828,8 +9826,7 @@
     "image_paths": [
       "data/images/questions/2022_common_main_physics_basic_a15_p1.webp",
       "data/images/questions/2022_common_main_physics_basic_a15_p2.webp",
-      "data/images/questions/2022_common_main_physics_basic_a15_p3.webp",
-      "data/images/questions/2022_common_main_physics_basic_a15_p4.webp"
+      "data/images/questions/2022_common_main_physics_basic_a15_p3.webp"
     ]
   },
   {
@@ -13465,11 +13462,10 @@
     "correct_rate": null,
     "page": "35-36",
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_a23_p1.webp",
+    "image_path": "data/images/questions/2019_center_main_physics_a23.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
     "image_paths": [
-      "data/images/questions/2019_center_main_physics_a23_p1.webp",
-      "data/images/questions/2019_center_main_physics_a23_p2.webp"
+      "data/images/questions/2019_center_main_physics_a23.webp"
     ]
   },
   {
@@ -13901,8 +13897,7 @@
     "notes": "出典: 東進 センター試験2019解答速報。",
     "image_paths": [
       "data/images/questions/2019_center_main_physics_basic_a11_p1.webp",
-      "data/images/questions/2019_center_main_physics_basic_a11_p2.webp",
-      "data/images/questions/2019_center_main_physics_basic_a11_p3.webp"
+      "data/images/questions/2019_center_main_physics_basic_a11_p2.webp"
     ]
   },
   {
@@ -13934,8 +13929,7 @@
     "notes": "出典: 東進 センター試験2019解答速報。",
     "image_paths": [
       "data/images/questions/2019_center_main_physics_basic_a12_p1.webp",
-      "data/images/questions/2019_center_main_physics_basic_a12_p2.webp",
-      "data/images/questions/2019_center_main_physics_basic_a12_p3.webp"
+      "data/images/questions/2019_center_main_physics_basic_a12_p2.webp"
     ]
   },
   {
@@ -14861,11 +14855,10 @@
     "correct_rate": null,
     "page": "37-38",
     "pdf_path": "data/pdf/2018_center_main_physics.pdf",
-    "image_path": "data/images/questions/2018_center_main_physics_a24_p1.webp",
+    "image_path": "data/images/questions/2018_center_main_physics_a24.webp",
     "notes": "出典: 東進 センター試験2018解答速報。",
     "image_paths": [
-      "data/images/questions/2018_center_main_physics_a24_p1.webp",
-      "data/images/questions/2018_center_main_physics_a24_p2.webp"
+      "data/images/questions/2018_center_main_physics_a24.webp"
     ]
   },
   {
@@ -16212,11 +16205,10 @@
     "correct_rate": null,
     "page": "35-36",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a22_p1.webp",
+    "image_path": "data/images/questions/2017_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
     "image_paths": [
-      "data/images/questions/2017_center_main_physics_a22_p1.webp",
-      "data/images/questions/2017_center_main_physics_a22_p2.webp"
+      "data/images/questions/2017_center_main_physics_a22.webp"
     ]
   },
   {
@@ -17593,11 +17585,10 @@
     "correct_rate": null,
     "page": "31-32",
     "pdf_path": "data/pdf/2016_center_main_physics.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_a22_p1.webp",
+    "image_path": "data/images/questions/2016_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
     "image_paths": [
-      "data/images/questions/2016_center_main_physics_a22_p1.webp",
-      "data/images/questions/2016_center_main_physics_a22_p2.webp"
+      "data/images/questions/2016_center_main_physics_a22.webp"
     ]
   },
   {
@@ -18879,11 +18870,10 @@
     "correct_rate": null,
     "page": "27-28",
     "pdf_path": "data/pdf/2015_center_main_physics.pdf",
-    "image_path": "data/images/questions/2015_center_main_physics_a22_p1.webp",
+    "image_path": "data/images/questions/2015_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2015解答速報。",
     "image_paths": [
-      "data/images/questions/2015_center_main_physics_a22_p1.webp",
-      "data/images/questions/2015_center_main_physics_a22_p2.webp"
+      "data/images/questions/2015_center_main_physics_a22.webp"
     ]
   },
   {
