@@ -1,5 +1,5 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
-import { dirname, join, resolve } from "node:path";
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
+import { basename, dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
 
@@ -105,11 +105,21 @@ function findCommand(candidates) {
 function renderPage(sourcePdf, page, questionId) {
   const prefix = join(tempDir, `${safeName(questionId)}-${page}`);
   run(tools.pdftoppm, ["-f", String(page), "-l", String(page), "-r", "160", "-png", sourcePdf, prefix]);
-  const output = `${prefix}-${page}.png`;
+  const output = findRenderedPage(prefix);
   if (!existsSync(output)) {
     throw new Error(`pdftoppmの出力が見つかりません: ${output}`);
   }
   return output;
+}
+
+function findRenderedPage(prefix) {
+  const directory = dirname(prefix);
+  const filePrefix = basename(prefix);
+  const matches = readdirSync(directory)
+    .filter((file) => file.startsWith(`${filePrefix}-`) && file.endsWith(".png"))
+    .sort();
+  if (matches.length === 0) return `${prefix}.png`;
+  return join(directory, matches[matches.length - 1]);
 }
 
 function identifyImage(path) {
