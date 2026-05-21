@@ -19,12 +19,13 @@ jobs:
         run: |
           node scripts/infer-pages-from-pdf-text.mjs
           node scripts/init-full-page-crops.mjs
+          node scripts/sync-question-image-pages.mjs
           node scripts/build-question-images.mjs
           node scripts/check-db.mjs
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/images data/questions.json data/image-crops.json
+          git add data/images data/questions.json data/image-crops.json data/image-page-audit.json
           git diff --cached --quiet || git commit -m "Build question images"
           git push
