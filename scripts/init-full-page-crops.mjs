@@ -9,6 +9,7 @@ const cropsPath = join(root, "data", "image-crops.json");
 const questions = JSON.parse(readFileSync(questionsPath, "utf8"));
 const crops = existsSync(cropsPath) ? JSON.parse(readFileSync(cropsPath, "utf8")) : [];
 const existingKeys = new Set(crops.map((crop) => cropKey(crop)));
+const firstPrintedPageByPdf = getFirstPrintedPageByPdf(questions);
 let added = 0;
 
 for (const question of questions) {
@@ -24,6 +25,7 @@ for (const question of questions) {
       question_id: question.id,
       source_pdf: question.pdf_path,
       page,
+      pdf_page: toPdfPage(question.pdf_path, page),
       box: null,
       output,
       label: pages.length > 1 ? `${index + 1}/${pages.length}` : "",
@@ -43,6 +45,10 @@ crops.sort((a, b) => (
   Number(a.page) - Number(b.page) ||
   String(a.question_id).localeCompare(String(b.question_id), "ja")
 ));
+
+for (const crop of crops) {
+  if (crop.pdf_page == null) crop.pdf_page = toPdfPage(crop.source_pdf, crop.page);
+}
 
 writeFileSync(cropsPath, `${JSON.stringify(crops, null, 2)}\n`);
 console.log(`image crop rows: ${crops.length}`);
@@ -68,4 +74,24 @@ function expandPages(value) {
     if (single) pages.add(Number(trimmed));
   }
   return [...pages].sort((a, b) => a - b);
+}
+
+function getFirstPrintedPageByPdf(items) {
+  const firstPages = new Map();
+  for (const question of items) {
+    if (!question.pdf_path || !question.page || !question.pdf_path.startsWith("data/pdf/")) continue;
+    if (!existsSync(join(root, question.pdf_path))) continue;
+    const pages = expandPages(question.page);
+    for (const page of pages) {
+      const current = firstPages.get(question.pdf_path);
+      if (current == null || page < current) firstPages.set(question.pdf_path, page);
+    }
+  }
+  return firstPages;
+}
+
+function toPdfPage(sourcePdf, printedPage) {
+  const firstPrintedPage = firstPrintedPageByPdf.get(sourcePdf);
+  if (firstPrintedPage == null) return Number(printedPage);
+  return Number(printedPage) - firstPrintedPage + 1;
 }

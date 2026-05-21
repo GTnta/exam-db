@@ -7,7 +7,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a01.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 1
   },
   {
     "question_id": "2024_common_main_physics_basic_a02",
@@ -17,7 +18,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a02.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 2
   },
   {
     "question_id": "2024_common_main_physics_basic_a03",
@@ -27,7 +29,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a03.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 3
   },
   {
     "question_id": "2024_common_main_physics_basic_a04",
@@ -37,7 +40,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a04.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 4
   },
   {
     "question_id": "2024_common_main_physics_basic_a05",
@@ -47,7 +51,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a05.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 5
   },
   {
     "question_id": "2024_common_main_physics_basic_a06",
@@ -57,7 +62,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a06_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 6
   },
   {
     "question_id": "2024_common_main_physics_basic_a06",
@@ -67,7 +73,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a06_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 7
   },
   {
     "question_id": "2024_common_main_physics_basic_a07",
@@ -77,7 +84,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a07_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 8
   },
   {
     "question_id": "2024_common_main_physics_basic_a07",
@@ -87,7 +95,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a07_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 9
   },
   {
     "question_id": "2024_common_main_physics_basic_a08",
@@ -97,7 +106,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a08_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 9
   },
   {
     "question_id": "2024_common_main_physics_basic_a08",
@@ -107,7 +117,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a08_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 10
   },
   {
     "question_id": "2024_common_main_physics_basic_a09",
@@ -117,7 +128,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a09.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 11
   },
   {
     "question_id": "2024_common_main_physics_basic_a10",
@@ -127,7 +139,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a10.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 13
   },
   {
     "question_id": "2024_common_main_physics_basic_a11",
@@ -137,7 +150,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a11.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 14
   },
   {
     "question_id": "2024_common_main_physics_basic_a12",
@@ -147,7 +161,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a12.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 14
   },
   {
     "question_id": "2024_common_main_physics_basic_a13",
@@ -157,7 +172,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a13.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 14
   },
   {
     "question_id": "2024_common_main_physics_basic_a14",
@@ -167,7 +183,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a14.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 15
   },
   {
     "question_id": "2024_common_main_physics_basic_a15",
@@ -177,7 +194,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a15.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 16
   },
   {
     "question_id": "2024_common_main_physics_basic_a16",
@@ -187,7 +205,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a16.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 17
   },
   {
     "question_id": "2024_common_main_physics_basic_a17",
@@ -197,7 +216,8 @@
     "output": "data/images/questions/2024_common_main_physics_basic_a17.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 18
   },
   {
     "question_id": "2024_common_main_physics_a01",
@@ -207,7 +227,8 @@
     "output": "data/images/questions/2024_common_main_physics_a01.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 1
   },
   {
     "question_id": "2024_common_main_physics_a02",
@@ -217,7 +238,8 @@
     "output": "data/images/questions/2024_common_main_physics_a02.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 2
   },
   {
     "question_id": "2024_common_main_physics_a03",
@@ -227,7 +249,8 @@
     "output": "data/images/questions/2024_common_main_physics_a03.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 2
   },
   {
     "question_id": "2024_common_main_physics_a04",
@@ -237,7 +260,8 @@
     "output": "data/images/questions/2024_common_main_physics_a04_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 3
   },
   {
     "question_id": "2024_common_main_physics_a04",
@@ -247,7 +271,8 @@
     "output": "data/images/questions/2024_common_main_physics_a04_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 4
   },
   {
     "question_id": "2024_common_main_physics_a05",
@@ -257,7 +282,8 @@
     "output": "data/images/questions/2024_common_main_physics_a05.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 5
   },
   {
     "question_id": "2024_common_main_physics_a06",
@@ -267,7 +293,8 @@
     "output": "data/images/questions/2024_common_main_physics_a06.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 6
   },
   {
     "question_id": "2024_common_main_physics_a07",
@@ -277,7 +304,8 @@
     "output": "data/images/questions/2024_common_main_physics_a07_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 7
   },
   {
     "question_id": "2024_common_main_physics_a07",
@@ -287,7 +315,8 @@
     "output": "data/images/questions/2024_common_main_physics_a07_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 8
   },
   {
     "question_id": "2024_common_main_physics_a08",
@@ -297,7 +326,8 @@
     "output": "data/images/questions/2024_common_main_physics_a08_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 8
   },
   {
     "question_id": "2024_common_main_physics_a09",
@@ -307,7 +337,8 @@
     "output": "data/images/questions/2024_common_main_physics_a09_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 8
   },
   {
     "question_id": "2024_common_main_physics_a08",
@@ -317,7 +348,8 @@
     "output": "data/images/questions/2024_common_main_physics_a08_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 9
   },
   {
     "question_id": "2024_common_main_physics_a09",
@@ -327,7 +359,8 @@
     "output": "data/images/questions/2024_common_main_physics_a09_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 9
   },
   {
     "question_id": "2024_common_main_physics_a10",
@@ -337,7 +370,8 @@
     "output": "data/images/questions/2024_common_main_physics_a10_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 9
   },
   {
     "question_id": "2024_common_main_physics_a10",
@@ -347,7 +381,8 @@
     "output": "data/images/questions/2024_common_main_physics_a10_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 10
   },
   {
     "question_id": "2024_common_main_physics_a11",
@@ -357,7 +392,8 @@
     "output": "data/images/questions/2024_common_main_physics_a11_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 10
   },
   {
     "question_id": "2024_common_main_physics_a11",
@@ -367,7 +403,8 @@
     "output": "data/images/questions/2024_common_main_physics_a11_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 11
   },
   {
     "question_id": "2024_common_main_physics_a12",
@@ -377,7 +414,8 @@
     "output": "data/images/questions/2024_common_main_physics_a12.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 11
   },
   {
     "question_id": "2024_common_main_physics_a13",
@@ -387,7 +425,8 @@
     "output": "data/images/questions/2024_common_main_physics_a13_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 12
   },
   {
     "question_id": "2024_common_main_physics_a13",
@@ -397,7 +436,8 @@
     "output": "data/images/questions/2024_common_main_physics_a13_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 13
   },
   {
     "question_id": "2024_common_main_physics_a14",
@@ -407,7 +447,8 @@
     "output": "data/images/questions/2024_common_main_physics_a14.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 13
   },
   {
     "question_id": "2024_common_main_physics_a15",
@@ -417,7 +458,8 @@
     "output": "data/images/questions/2024_common_main_physics_a15.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 14
   },
   {
     "question_id": "2024_common_main_physics_a16",
@@ -427,7 +469,8 @@
     "output": "data/images/questions/2024_common_main_physics_a16.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 15
   },
   {
     "question_id": "2024_common_main_physics_a17",
@@ -437,7 +480,8 @@
     "output": "data/images/questions/2024_common_main_physics_a17.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 16
   },
   {
     "question_id": "2024_common_main_physics_a18",
@@ -447,7 +491,8 @@
     "output": "data/images/questions/2024_common_main_physics_a18_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 17
   },
   {
     "question_id": "2024_common_main_physics_a18",
@@ -457,7 +502,8 @@
     "output": "data/images/questions/2024_common_main_physics_a18_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 18
   },
   {
     "question_id": "2024_common_main_physics_a19",
@@ -467,7 +513,8 @@
     "output": "data/images/questions/2024_common_main_physics_a19.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 19
   },
   {
     "question_id": "2024_common_main_physics_a20",
@@ -477,7 +524,8 @@
     "output": "data/images/questions/2024_common_main_physics_a20_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 20
   },
   {
     "question_id": "2024_common_main_physics_a20",
@@ -487,7 +535,8 @@
     "output": "data/images/questions/2024_common_main_physics_a20_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 21
   },
   {
     "question_id": "2024_common_main_physics_a21",
@@ -497,7 +546,8 @@
     "output": "data/images/questions/2024_common_main_physics_a21.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 22
   },
   {
     "question_id": "2024_common_main_physics_a22",
@@ -507,6 +557,7 @@
     "output": "data/images/questions/2024_common_main_physics_a22.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる",
+    "pdf_page": 23
   }
 ]

@@ -55,7 +55,15 @@ for (const crop of selected) {
   }
 
   mkdirSync(dirname(outputPath), { recursive: true });
-  const pagePng = renderPage(sourcePdf, Number(crop.page), crop.question_id);
+  let pagePng;
+  try {
+    pagePng = renderPage(sourcePdf, Number(crop.pdf_page ?? crop.page), crop.question_id);
+  } catch (error) {
+    console.warn(`skip render failed: ${crop.question_id} page ${crop.page} pdf_page ${crop.pdf_page ?? crop.page}`);
+    console.warn(error.message);
+    skipped += 1;
+    continue;
+  }
   const { width, height } = identifyImage(pagePng);
   const box = resolveCropBox(crop.box, width, height);
   const cropPng = join(tempDir, `${safeName(crop.question_id)}-${crop.page}-crop.png`);

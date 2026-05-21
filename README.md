@@ -86,6 +86,7 @@ powershell -ExecutionPolicy Bypass -File scripts/download-public-pdfs.ps1
   "question_id": "2024_common_main_physics_a01",
   "source_pdf": "data/pdf/2024_common_main_physics.pdf",
   "page": 4,
+  "pdf_page": 1,
   "box": { "x": 0.08, "y": 0.12, "width": 0.84, "height": 0.28 },
   "output": "data/images/questions/2024_common_main_physics_a01.webp"
 }
