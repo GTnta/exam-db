@@ -12,6 +12,7 @@ const existingKeys = new Set(crops.map((crop) => cropKey(crop)));
 const firstPrintedPageByPdf = getFirstPrintedPageByPdf(questions);
 const skippedPrintedPagesByPdf = new Map([
   ["data/pdf/2024_common_main_physics_basic.pdf", [15]],
+  ["data/pdf/2024_common_makeup_physics.pdf", [20, 21]],
 ]);
 let added = 0;
 
