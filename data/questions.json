@@ -26,10 +26,13 @@
     "correct_rate": 56.9,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a01.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a01.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a02",
@@ -60,10 +63,13 @@
     "correct_rate": 81.57,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a02.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a02.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a03",
@@ -94,10 +100,13 @@
     "correct_rate": 22.43,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a03.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a03.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a04",
@@ -125,10 +134,14 @@
     "correct_rate": 38.03,
     "page": "6-7",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a04_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a04_p1.webp",
+      "data/images/questions/2024_common_main_physics_a04_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a05",
@@ -160,10 +173,13 @@
     "correct_rate": 45.66,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a05.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a05.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a06",
@@ -193,10 +209,13 @@
     "correct_rate": 68.36,
     "page": "9",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a06.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a06.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a07",
@@ -225,10 +244,14 @@
     "correct_rate": 85.12,
     "page": "10-11",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a07_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a07_p1.webp",
+      "data/images/questions/2024_common_main_physics_a07_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a08",
@@ -258,10 +281,14 @@
     "correct_rate": 80.75,
     "page": "11-12",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a08_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a08_p1.webp",
+      "data/images/questions/2024_common_main_physics_a08_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a09",
@@ -290,10 +317,14 @@
     "correct_rate": 69.16,
     "page": "11-12",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a09_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a09_p1.webp",
+      "data/images/questions/2024_common_main_physics_a09_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a10",
@@ -324,10 +355,14 @@
     "correct_rate": 64.7,
     "page": "12-13",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a10_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a10_p1.webp",
+      "data/images/questions/2024_common_main_physics_a10_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a11",
@@ -357,10 +392,14 @@
     "correct_rate": 61.16,
     "page": "13-14",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a11_p1.webp",
     "notes": "正解表注記: 3を解答した場合は1点。",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a11_p1.webp",
+      "data/images/questions/2024_common_main_physics_a11_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a12",
@@ -389,10 +428,13 @@
     "correct_rate": 41.18,
     "page": "14",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a12.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a12.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a13",
@@ -426,10 +468,14 @@
     "correct_rate": 65.5,
     "page": "15-16",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a13_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a13_p1.webp",
+      "data/images/questions/2024_common_main_physics_a13_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a14",
@@ -459,10 +505,13 @@
     "correct_rate": 86.05,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a14.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a14.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a15",
@@ -493,10 +542,13 @@
     "correct_rate": 70.45,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a15.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a15.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a16",
@@ -530,10 +582,13 @@
     "correct_rate": 78.51,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a16.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a16.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a17",
@@ -564,10 +619,13 @@
     "correct_rate": 71.73,
     "page": "19",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a17.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a17.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a18",
@@ -596,10 +654,14 @@
     "correct_rate": 61.5,
     "page": "20-21",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a18_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a18_p1.webp",
+      "data/images/questions/2024_common_main_physics_a18_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a19",
@@ -628,10 +690,13 @@
     "correct_rate": 74.64,
     "page": "22",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a19.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a19.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a20",
@@ -660,10 +725,14 @@
     "correct_rate": 43.63,
     "page": "23-24",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a20_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a20_p1.webp",
+      "data/images/questions/2024_common_main_physics_a20_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a21",
@@ -692,10 +761,13 @@
     "correct_rate": 56.98,
     "page": "25",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a21.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a21.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_a22",
@@ -725,10 +797,13 @@
     "correct_rate": 45.94,
     "page": "26",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_a22.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_a22.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a01",
@@ -757,10 +832,13 @@
     "correct_rate": 54.53,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a01.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a01.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a02",
@@ -789,10 +867,13 @@
     "correct_rate": 47.98,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a02.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a02.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a03",
@@ -823,10 +904,13 @@
     "correct_rate": 49.96,
     "page": "6",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a03.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a03.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a04",
@@ -860,10 +944,13 @@
     "correct_rate": 67.78,
     "page": "7",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a04.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a04.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a05",
@@ -893,10 +980,13 @@
     "correct_rate": 50.28,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a05.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a05.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a06",
@@ -927,10 +1017,14 @@
     "correct_rate": 43.4,
     "page": "9-10",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a06_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a06_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a06_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a07",
@@ -961,10 +1055,14 @@
     "correct_rate": 45.5,
     "page": "11-12",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a07_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a07_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a07_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a08",
@@ -995,10 +1093,14 @@
     "correct_rate": 72.67,
     "page": "12-13",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a08_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a08_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a08_p2.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a09",
@@ -1028,10 +1130,13 @@
     "correct_rate": 61.49,
     "page": "14",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a09.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a09.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a10",
@@ -1061,10 +1166,13 @@
     "correct_rate": 59.22,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a10.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a10.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a11",
@@ -1095,10 +1203,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a11.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a11.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a12",
@@ -1129,10 +1240,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a12.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a12.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a13",
@@ -1163,10 +1277,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a13.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a13.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a14",
@@ -1196,10 +1313,13 @@
     "correct_rate": 61.9,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a14.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a14.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a15",
@@ -1230,10 +1350,13 @@
     "correct_rate": 64.84,
     "page": "19",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a15.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a15.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a16",
@@ -1265,10 +1388,13 @@
     "correct_rate": 63.34,
     "page": "20",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a16.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a16.webp"
+    ]
   },
   {
     "id": "2024_common_main_physics_basic_a17",
