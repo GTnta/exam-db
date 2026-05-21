@@ -1,0 +1,75 @@
+{
+  "scope": {
+    "from_year": 2000,
+    "to_year": 2026,
+    "subjects": ["物理", "物理基礎", "物理I", "物理II"],
+    "sessions": ["main", "makeup"]
+  },
+  "notes": [
+    "大学入試センター公式サイトで問題PDFと正解PDFを確認できるものを優先して登録する。",
+    "2026年度は現時点で正解PDFのみ確認でき、問題PDFは公式ページ上で未掲載のため本文登録対象外。",
+    "2000年度以降のセンター試験は、年度によって科目名が物理I、物理II、物理I・物理II、物理などに分かれるため、PDF本文確認後にsubjectへ反映する。"
+  ],
+  "official_entry_pages": [
+    {
+      "year": 2026,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r8/index.html",
+      "status": "blocked_problem_pdf_not_yet_published"
+    },
+    {
+      "year": 2025,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/kakomondai/r7/",
+      "status": "in_progress"
+    },
+    {
+      "year": 2024,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/kakomondai/r6/",
+      "status": "in_progress"
+    },
+    {
+      "year": 2023,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/kakomondai/r5/",
+      "status": "pending"
+    },
+    {
+      "year": 2022,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/kakomondai/r4/",
+      "status": "link_discovery_in_progress",
+      "notes": [
+        "DNCの令和4年度トップページには本試験・追再試験の問題/正解ページへのリンクが表示されるが、直接アクセスすると一部404になる。",
+        "外部検索結果では r4_jisshikekka 配下の旧URLが参照されているが、2026-05-20時点では404を返す。",
+        "2026-05-21に東進の共通テスト解答速報2022で本試験の物理・物理基礎の問題PDF、解答PDF、設問別分析を確認し、DB登録に使用した。",
+        "追再試験については引き続き探索対象。"
+      ]
+    },
+    {
+      "year": 2021,
+      "exam_system": "common",
+      "url": "https://www.dnc.ac.jp/kyotsu/kakomondai/r3/",
+      "status": "blocked_problem_pdf_not_published_on_official_archive",
+      "notes": [
+        "DNCの令和3年度ページは https://www.dnc.ac.jp/kyotsu/kako_shiken_jouhou/r3/ に存在するが、実施結果・受験案内・参考資料が中心。",
+        "問題冊子の表紙参考イメージや受験案内PDFは確認できるが、物理・物理基礎の試験問題PDFと正解PDFの公式掲載は確認できない。",
+        "公式確認済みだけ登録する条件では登録対象外。"
+      ]
+    }
+  ],
+  "blocked_ranges": [
+    {
+      "from_year": 2000,
+      "to_year": 2020,
+      "exam_system": "center",
+      "status": "blocked_problem_pdf_not_published_on_official_archive",
+      "notes": [
+        "DNCの過去のセンター試験情報ページは年度別に残っているが、多くは実施結果、平均点、受験案内、出題方法、参考問題例などの資料が中心。",
+        "例として平成27年度ページでは物理PDFが確認できるが、これは平成27年度からの新課程向け試作問題であり、実際の本試験・追再試験問題ではない。",
+        "本試験・追再試験の問題本文と正解PDFを公式ページで同時確認できるものは、この探索範囲では確認できていない。"
+      ]
+    }
+  ]
+}

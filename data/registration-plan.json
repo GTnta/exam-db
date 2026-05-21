@@ -1,0 +1,87 @@
+{
+  "policy": "公式ページから問題PDFと正解PDFを確認できる年度・科目から登録する。問題PDFが未掲載の年度は正解のみでは登録しない。",
+  "registered": [
+    {
+      "year": 2025,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "done"
+    },
+    {
+      "year": 2024,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "done"
+    }
+  ],
+  "blocked": [
+    {
+      "year": 2026,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "blocked",
+      "reason": "大学入試センター公式ページでは正解PDFのみ掲載。問題PDFは著作権等の処理が終了し次第掲載と案内されているため、本文確認ができない。"
+    }
+  ],
+  "next": [
+    {
+      "year": 2025,
+      "exam_system": "common",
+      "session": "makeup",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2024,
+      "exam_system": "common",
+      "session": "makeup",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2023,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2023,
+      "exam_system": "common",
+      "session": "makeup",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2022,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2022,
+      "exam_system": "common",
+      "session": "makeup",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2021,
+      "exam_system": "common",
+      "session": "main",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    },
+    {
+      "year": 2021,
+      "exam_system": "common",
+      "session": "makeup",
+      "subjects": ["物理", "物理基礎"],
+      "status": "pending"
+    }
+  ]
+}

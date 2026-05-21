@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>物理入試問題DB</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>物理入試問題DB</h1>
+      <p>センター試験・共通テストの物理系問題をローカル検索</p>
+    </div>
+    <div class="count" id="count">0件</div>
+  </header>
+
+  <main class="layout">
+    <aside class="filters" aria-label="検索条件">
+      <label>
+        検索語
+        <input id="query" type="search" placeholder="例: ドップラー 回転">
+      </label>
+
+      <label>
+        科目
+        <select id="subject">
+          <option value="">すべて</option>
+        </select>
+      </label>
+
+      <label>
+        試験
+        <select id="examSystem">
+          <option value="">すべて</option>
+          <option value="common">共通テスト</option>
+          <option value="center">センター試験</option>
+        </select>
+      </label>
+
+      <label>
+        本試/追試
+        <select id="session">
+          <option value="">すべて</option>
+          <option value="main">本試</option>
+          <option value="makeup">追試・再試</option>
+        </select>
+      </label>
+
+      <label>
+        典型度
+        <select id="typicality">
+          <option value="">すべて</option>
+          <option value="高">高</option>
+          <option value="中">中</option>
+          <option value="低">低</option>
+        </select>
+      </label>
+
+      <label>
+        年度
+        <input id="year" type="number" placeholder="例: 2024">
+      </label>
+
+      <label>
+        並び順
+        <select id="sortOrder">
+          <option value="relevance">関連度順</option>
+          <option value="year_desc">年度順（新しい順）</option>
+          <option value="year_asc">年度順（古い順）</option>
+        </select>
+      </label>
+    </aside>
+
+    <section class="results" aria-label="検索結果">
+      <div class="result-list" id="results"></div>
+    </section>
+
+    <section class="detail" aria-label="問題詳細">
+      <div id="detailPanel" class="empty">
+        問題を選択すると詳細が表示されます。
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
