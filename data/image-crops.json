@@ -1785,243 +1785,221 @@
     "question_id": "2012_center_main_physics1_a01",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 1,
-    "pdf_page": 1,
+    "pdf_page": 3,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a01.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a02",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 2,
-    "pdf_page": 2,
+    "pdf_page": 4,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a02.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a03",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 3,
-    "pdf_page": 3,
+    "pdf_page": 5,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a03.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a04",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 4,
-    "pdf_page": 4,
+    "pdf_page": 6,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a04.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a05",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 5,
-    "pdf_page": 5,
+    "pdf_page": 7,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a05.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a06",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 6,
-    "pdf_page": 6,
+    "pdf_page": 8,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a06.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a07",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 7,
-    "pdf_page": 7,
+    "pdf_page": 9,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a07.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a08",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 8,
-    "pdf_page": 8,
+    "pdf_page": 10,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a08.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a09",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 9,
-    "pdf_page": 9,
+    "pdf_page": 11,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a09.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a10",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 10,
-    "pdf_page": 10,
+    "pdf_page": 12,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a10.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a11",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 11,
-    "pdf_page": 11,
+    "pdf_page": 13,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a11.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a12",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 12,
-    "pdf_page": 12,
+    "pdf_page": 14,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a12.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a13",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 13,
-    "pdf_page": 13,
+    "pdf_page": 15,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a13.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a14",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 14,
-    "pdf_page": 14,
+    "pdf_page": 16,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a14.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a15",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 15,
-    "pdf_page": 15,
+    "pdf_page": 17,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a15.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a16",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 16,
-    "pdf_page": 16,
+    "pdf_page": 18,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a16.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a17",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 17,
-    "pdf_page": 17,
+    "pdf_page": 19,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a17.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a18",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 18,
-    "pdf_page": 18,
+    "pdf_page": 20,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a18.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a19",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 19,
-    "pdf_page": 19,
+    "pdf_page": 21,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a19_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a20",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 19,
-    "pdf_page": 19,
+    "pdf_page": 21,
     "box": null,
     "output": "data/images/questions/2012_center_main_physics1_a20_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
-  },
-  {
-    "question_id": "2012_center_main_physics1_a19",
-    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
-    "page": 20,
-    "pdf_page": 20,
-    "box": null,
-    "output": "data/images/questions/2012_center_main_physics1_a19_p2.webp",
-    "label": "2/2",
-    "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
-  },
-  {
-    "question_id": "2012_center_main_physics1_a20",
-    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
-    "page": 20,
-    "pdf_page": 20,
-    "box": null,
-    "output": "data/images/questions/2012_center_main_physics1_a20_p2.webp",
-    "label": "2/2",
-    "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a21",
@@ -2033,6 +2011,28 @@
     "label": "",
     "status": "full-page-placeholder",
     "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+  },
+  {
+    "question_id": "2012_center_main_physics1_a19",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "page": 20,
+    "pdf_page": 22,
+    "box": null,
+    "output": "data/images/questions/2012_center_main_physics1_a19_p2.webp",
+    "label": "2/2",
+    "status": "full-page-placeholder",
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
+  },
+  {
+    "question_id": "2012_center_main_physics1_a20",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "page": 20,
+    "pdf_page": 22,
+    "box": null,
+    "output": "data/images/questions/2012_center_main_physics1_a20_p2.webp",
+    "label": "2/2",
+    "status": "full-page-placeholder",
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2012_center_main_physics1_a22",
@@ -2049,650 +2049,617 @@
     "question_id": "2013_center_main_physics1_a01",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 1,
-    "pdf_page": 1,
+    "pdf_page": 3,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a01.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a02",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 2,
-    "pdf_page": 2,
+    "pdf_page": 4,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a02.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a03",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 3,
-    "pdf_page": 3,
+    "pdf_page": 5,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a03.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a04",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 4,
-    "pdf_page": 4,
+    "pdf_page": 6,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a04.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a05",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 5,
-    "pdf_page": 5,
+    "pdf_page": 7,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a05.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a06",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 6,
-    "pdf_page": 6,
+    "pdf_page": 8,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a06_p1.webp",
     "label": "1/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a06",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 7,
-    "pdf_page": 7,
+    "pdf_page": 9,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a06_p2.webp",
     "label": "2/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a06",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 8,
-    "pdf_page": 8,
+    "pdf_page": 10,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a06_p3.webp",
     "label": "3/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a07",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 9,
-    "pdf_page": 9,
+    "pdf_page": 11,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a07.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a08",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 10,
-    "pdf_page": 10,
+    "pdf_page": 12,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a08.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a09",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 11,
-    "pdf_page": 11,
+    "pdf_page": 13,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a09_p1.webp",
     "label": "1/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a10",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 11,
-    "pdf_page": 11,
+    "pdf_page": 13,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a10_p1.webp",
     "label": "1/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a09",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 12,
-    "pdf_page": 12,
+    "pdf_page": 14,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a09_p2.webp",
     "label": "2/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a10",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 12,
-    "pdf_page": 12,
+    "pdf_page": 14,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a10_p2.webp",
     "label": "2/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a09",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 13,
-    "pdf_page": 13,
+    "pdf_page": 15,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a09_p3.webp",
     "label": "3/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a10",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 13,
-    "pdf_page": 13,
+    "pdf_page": 15,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a10_p3.webp",
     "label": "3/3",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a11",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 14,
-    "pdf_page": 14,
+    "pdf_page": 16,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a11_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a11",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 15,
-    "pdf_page": 15,
+    "pdf_page": 17,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a11_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a12",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 16,
-    "pdf_page": 16,
+    "pdf_page": 18,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a12.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a13",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 17,
-    "pdf_page": 17,
+    "pdf_page": 19,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a13.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a14",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 18,
-    "pdf_page": 18,
+    "pdf_page": 20,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a14.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a15",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 19,
-    "pdf_page": 19,
+    "pdf_page": 21,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a15_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a15",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 20,
-    "pdf_page": 20,
+    "pdf_page": 22,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a15_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a16",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 21,
-    "pdf_page": 21,
+    "pdf_page": 23,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a16.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a17",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 22,
-    "pdf_page": 22,
+    "pdf_page": 24,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a17.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a18",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 23,
-    "pdf_page": 23,
+    "pdf_page": 25,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a18.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a19",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 24,
-    "pdf_page": 24,
+    "pdf_page": 26,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a19.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a20",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 25,
-    "pdf_page": 25,
+    "pdf_page": 27,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a20.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a21",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 26,
-    "pdf_page": 26,
+    "pdf_page": 28,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a21.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a22",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 27,
-    "pdf_page": 27,
+    "pdf_page": 29,
     "box": null,
     "output": "data/images/questions/2013_center_main_physics1_a22.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2013_center_main_physics1_a23",
     "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
     "page": 28,
-    "pdf_page": 28,
-    "box": null,
-    "output": "data/images/questions/2013_center_main_physics1_a23_p1.webp",
-    "label": "1/3",
-    "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
-  },
-  {
-    "question_id": "2013_center_main_physics1_a23",
-    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
-    "page": 29,
-    "pdf_page": 29,
-    "box": null,
-    "output": "data/images/questions/2013_center_main_physics1_a23_p2.webp",
-    "label": "2/3",
-    "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
-  },
-  {
-    "question_id": "2013_center_main_physics1_a23",
-    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
-    "page": 30,
     "pdf_page": 30,
     "box": null,
-    "output": "data/images/questions/2013_center_main_physics1_a23_p3.webp",
-    "label": "3/3",
+    "output": "data/images/questions/2013_center_main_physics1_a23.webp",
+    "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a01",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 1,
-    "pdf_page": 1,
+    "pdf_page": 3,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a01.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a02",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 2,
-    "pdf_page": 2,
+    "pdf_page": 4,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a02.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a03",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 3,
-    "pdf_page": 3,
+    "pdf_page": 5,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a03.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a04",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 4,
-    "pdf_page": 4,
+    "pdf_page": 6,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a04.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a05",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 5,
-    "pdf_page": 5,
+    "pdf_page": 7,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a05.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a06",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 6,
-    "pdf_page": 6,
+    "pdf_page": 8,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a06_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a06",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 7,
-    "pdf_page": 7,
+    "pdf_page": 9,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a06_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a07",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 8,
-    "pdf_page": 8,
+    "pdf_page": 10,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a07.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a08",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 9,
-    "pdf_page": 9,
+    "pdf_page": 11,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a08_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a09",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 9,
-    "pdf_page": 9,
+    "pdf_page": 11,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a09_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a08",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 10,
-    "pdf_page": 10,
+    "pdf_page": 12,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a08_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a09",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 10,
-    "pdf_page": 10,
+    "pdf_page": 12,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a09_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a10",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 11,
-    "pdf_page": 11,
+    "pdf_page": 13,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a10.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a11",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 12,
-    "pdf_page": 12,
+    "pdf_page": 14,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a11_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a11",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 13,
-    "pdf_page": 13,
+    "pdf_page": 15,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a11_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a12",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 14,
-    "pdf_page": 14,
+    "pdf_page": 16,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a12.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a13",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 15,
-    "pdf_page": 15,
+    "pdf_page": 17,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a13.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a14",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 16,
-    "pdf_page": 16,
+    "pdf_page": 18,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a14.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a15",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 17,
-    "pdf_page": 17,
+    "pdf_page": 19,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a15_p1.webp",
     "label": "1/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a15",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 18,
-    "pdf_page": 18,
+    "pdf_page": 20,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a15_p2.webp",
     "label": "2/2",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a16",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 19,
-    "pdf_page": 19,
+    "pdf_page": 21,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a16.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a17",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 20,
-    "pdf_page": 20,
+    "pdf_page": 22,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a17.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a18",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 21,
-    "pdf_page": 21,
+    "pdf_page": 23,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a18.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a19",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 22,
-    "pdf_page": 22,
+    "pdf_page": 24,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a19.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a20",
     "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
     "page": 23,
-    "pdf_page": 23,
+    "pdf_page": 25,
     "box": null,
     "output": "data/images/questions/2014_center_main_physics1_a20.webp",
     "label": "",
     "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
-  },
-  {
-    "question_id": "2014_center_main_physics1_a21",
-    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
-    "page": 24,
-    "pdf_page": 24,
-    "box": null,
-    "output": "data/images/questions/2014_center_main_physics1_a21.webp",
-    "label": "",
-    "status": "full-page-placeholder",
-    "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a22",
@@ -2704,6 +2671,17 @@
     "label": "1/2",
     "status": "full-page-placeholder",
     "note": "boxを{x,y,width,height}の0-1正規化座標で入れると設問単位の切り出しになる"
+  },
+  {
+    "question_id": "2014_center_main_physics1_a21",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "page": 24,
+    "pdf_page": 26,
+    "box": null,
+    "output": "data/images/questions/2014_center_main_physics1_a21.webp",
+    "label": "",
+    "status": "full-page-placeholder",
+    "note": "Full page image. Add a normalized box {x,y,width,height} for per-question crops."
   },
   {
     "question_id": "2014_center_main_physics1_a22",

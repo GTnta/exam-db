@@ -20758,12 +20758,10 @@
     "correct_rate": null,
     "page": "28-30",
     "pdf_path": "data/pdf/2013_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2013_center_main_physics1_a23_p1.webp",
+    "image_path": "data/images/questions/2013_center_main_physics1_a23.webp",
     "notes": "出典: 東進 センター試験2013解答速報。",
     "image_paths": [
-      "data/images/questions/2013_center_main_physics1_a23_p1.webp",
-      "data/images/questions/2013_center_main_physics1_a23_p2.webp",
-      "data/images/questions/2013_center_main_physics1_a23_p3.webp"
+      "data/images/questions/2013_center_main_physics1_a23.webp"
     ]
   },
   {

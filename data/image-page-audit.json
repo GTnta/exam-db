@@ -5,9 +5,9 @@
   "partial_groups": 2,
   "fallback_groups": 25,
   "synced_questions": 226,
-  "manual_offset_questions": 403,
-  "fallback_questions": 128,
-  "generated_crop_rows": 1246,
+  "manual_offset_questions": 467,
+  "fallback_questions": 64,
+  "generated_crop_rows": 1244,
   "groups": [
     {
       "pdf_path": "data/pdf/2006_center_main_physics1.pdf",
