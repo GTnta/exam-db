@@ -26,12 +26,13 @@
     "correct_rate": 56.9,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a01.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a01_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a01.webp"
+      "data/images/questions/2024_common_main_physics_a01_p1.webp",
+      "data/images/questions/2024_common_main_physics_a01_p2.webp"
     ]
   },
   {
@@ -63,12 +64,13 @@
     "correct_rate": 81.57,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a02.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a02_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a02.webp"
+      "data/images/questions/2024_common_main_physics_a02_p1.webp",
+      "data/images/questions/2024_common_main_physics_a02_p2.webp"
     ]
   },
   {
@@ -100,12 +102,13 @@
     "correct_rate": 22.43,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a03.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a03_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a03.webp"
+      "data/images/questions/2024_common_main_physics_a03_p1.webp",
+      "data/images/questions/2024_common_main_physics_a03_p2.webp"
     ]
   },
   {
@@ -140,7 +143,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
       "data/images/questions/2024_common_main_physics_a04_p1.webp",
-      "data/images/questions/2024_common_main_physics_a04_p2.webp"
+      "data/images/questions/2024_common_main_physics_a04_p2.webp",
+      "data/images/questions/2024_common_main_physics_a04_p3.webp"
     ]
   },
   {
@@ -173,12 +177,13 @@
     "correct_rate": 45.66,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a05.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a05_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a05.webp"
+      "data/images/questions/2024_common_main_physics_a05_p1.webp",
+      "data/images/questions/2024_common_main_physics_a05_p2.webp"
     ]
   },
   {
@@ -250,7 +255,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
       "data/images/questions/2024_common_main_physics_a07_p1.webp",
-      "data/images/questions/2024_common_main_physics_a07_p2.webp"
+      "data/images/questions/2024_common_main_physics_a07_p2.webp",
+      "data/images/questions/2024_common_main_physics_a07_p3.webp"
     ]
   },
   {
@@ -361,7 +367,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
       "data/images/questions/2024_common_main_physics_a10_p1.webp",
-      "data/images/questions/2024_common_main_physics_a10_p2.webp"
+      "data/images/questions/2024_common_main_physics_a10_p2.webp",
+      "data/images/questions/2024_common_main_physics_a10_p3.webp"
     ]
   },
   {
@@ -392,13 +399,12 @@
     "correct_rate": 61.16,
     "page": "13-14",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a11_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a11.webp",
     "notes": "正解表注記: 3を解答した場合は1点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a11_p1.webp",
-      "data/images/questions/2024_common_main_physics_a11_p2.webp"
+      "data/images/questions/2024_common_main_physics_a11.webp"
     ]
   },
   {
@@ -505,12 +511,13 @@
     "correct_rate": 86.05,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a14.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a14_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a14.webp"
+      "data/images/questions/2024_common_main_physics_a14_p1.webp",
+      "data/images/questions/2024_common_main_physics_a14_p2.webp"
     ]
   },
   {
@@ -542,12 +549,13 @@
     "correct_rate": 70.45,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a15.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a15_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a15.webp"
+      "data/images/questions/2024_common_main_physics_a15_p1.webp",
+      "data/images/questions/2024_common_main_physics_a15_p2.webp"
     ]
   },
   {
@@ -582,12 +590,13 @@
     "correct_rate": 78.51,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a16.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a16_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a16.webp"
+      "data/images/questions/2024_common_main_physics_a16_p1.webp",
+      "data/images/questions/2024_common_main_physics_a16_p2.webp"
     ]
   },
   {
@@ -690,12 +699,14 @@
     "correct_rate": 74.64,
     "page": "22",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a19.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a19_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a19.webp"
+      "data/images/questions/2024_common_main_physics_a19_p1.webp",
+      "data/images/questions/2024_common_main_physics_a19_p2.webp",
+      "data/images/questions/2024_common_main_physics_a19_p3.webp"
     ]
   },
   {
@@ -761,12 +772,13 @@
     "correct_rate": 56.98,
     "page": "25",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a21.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a21_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a21.webp"
+      "data/images/questions/2024_common_main_physics_a21_p1.webp",
+      "data/images/questions/2024_common_main_physics_a21_p2.webp"
     ]
   },
   {
@@ -832,12 +844,13 @@
     "correct_rate": 54.53,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a01.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a01_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a01.webp"
+      "data/images/questions/2024_common_main_physics_basic_a01_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a01_p2.webp"
     ]
   },
   {
@@ -867,12 +880,13 @@
     "correct_rate": 47.98,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a02.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a02_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a02.webp"
+      "data/images/questions/2024_common_main_physics_basic_a02_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a02_p2.webp"
     ]
   },
   {
@@ -904,12 +918,13 @@
     "correct_rate": 49.96,
     "page": "6",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a03.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a03_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a03.webp"
+      "data/images/questions/2024_common_main_physics_basic_a03_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a03_p2.webp"
     ]
   },
   {
@@ -980,12 +995,14 @@
     "correct_rate": 50.28,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a05.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a05_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a05.webp"
+      "data/images/questions/2024_common_main_physics_basic_a05_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a05_p2.webp",
+      "data/images/questions/2024_common_main_physics_basic_a05_p3.webp"
     ]
   },
   {
@@ -1023,7 +1040,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
       "data/images/questions/2024_common_main_physics_basic_a06_p1.webp",
-      "data/images/questions/2024_common_main_physics_basic_a06_p2.webp"
+      "data/images/questions/2024_common_main_physics_basic_a06_p2.webp",
+      "data/images/questions/2024_common_main_physics_basic_a06_p3.webp"
     ]
   },
   {
@@ -1166,12 +1184,13 @@
     "correct_rate": 59.22,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a10.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a10_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a10.webp"
+      "data/images/questions/2024_common_main_physics_basic_a10_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a10_p2.webp"
     ]
   },
   {
@@ -1203,12 +1222,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a11.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a11_p1.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a11.webp"
+      "data/images/questions/2024_common_main_physics_basic_a11_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a11_p2.webp"
     ]
   },
   {
@@ -1240,12 +1260,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a12.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a12_p1.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a12.webp"
+      "data/images/questions/2024_common_main_physics_basic_a12_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a12_p2.webp"
     ]
   },
   {
@@ -1277,12 +1298,13 @@
     "correct_rate": 80.73,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a13.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a13_p1.webp",
     "notes": "解答番号11〜13は全部正解の場合のみ3点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a13.webp"
+      "data/images/questions/2024_common_main_physics_basic_a13_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a13_p2.webp"
     ]
   },
   {
@@ -1313,12 +1335,13 @@
     "correct_rate": 61.9,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a14.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a14_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a14.webp"
+      "data/images/questions/2024_common_main_physics_basic_a14_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a14_p2.webp"
     ]
   },
   {
@@ -1350,12 +1373,13 @@
     "correct_rate": 64.84,
     "page": "19",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a15.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a15_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a15.webp"
+      "data/images/questions/2024_common_main_physics_basic_a15_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a15_p2.webp"
     ]
   },
   {
@@ -1388,12 +1412,13 @@
     "correct_rate": 63.34,
     "page": "20",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a16.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a16_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a16.webp"
+      "data/images/questions/2024_common_main_physics_basic_a16_p1.webp",
+      "data/images/questions/2024_common_main_physics_basic_a16_p2.webp"
     ]
   },
   {
@@ -1459,12 +1484,13 @@
     "correct_rate": 83.2,
     "page": "74",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a01.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a01_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a01.webp"
+      "data/images/questions/2025_common_main_physics_a01_p1.webp",
+      "data/images/questions/2025_common_main_physics_a01_p2.webp"
     ]
   },
   {
@@ -1492,12 +1518,13 @@
     "correct_rate": 86.93,
     "page": "75",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a02.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a02_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a02.webp"
+      "data/images/questions/2025_common_main_physics_a02_p1.webp",
+      "data/images/questions/2025_common_main_physics_a02_p2.webp"
     ]
   },
   {
@@ -1534,7 +1561,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a03_p1.webp",
-      "data/images/questions/2025_common_main_physics_a03_p2.webp"
+      "data/images/questions/2025_common_main_physics_a03_p2.webp",
+      "data/images/questions/2025_common_main_physics_a03_p3.webp"
     ]
   },
   {
@@ -1569,12 +1597,13 @@
     "correct_rate": 18.31,
     "page": "78",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a04.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a04_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a04.webp"
+      "data/images/questions/2025_common_main_physics_a04_p1.webp",
+      "data/images/questions/2025_common_main_physics_a04_p2.webp"
     ]
   },
   {
@@ -1640,12 +1669,13 @@
     "correct_rate": 76.76,
     "page": "80",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a06.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a06_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a06.webp"
+      "data/images/questions/2025_common_main_physics_a06_p1.webp",
+      "data/images/questions/2025_common_main_physics_a06_p2.webp"
     ]
   },
   {
@@ -1711,12 +1741,15 @@
     "correct_rate": 77.99,
     "page": "82",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a08.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a08_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a08.webp"
+      "data/images/questions/2025_common_main_physics_a08_p1.webp",
+      "data/images/questions/2025_common_main_physics_a08_p2.webp",
+      "data/images/questions/2025_common_main_physics_a08_p3.webp",
+      "data/images/questions/2025_common_main_physics_a08_p4.webp"
     ]
   },
   {
@@ -1755,9 +1788,7 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a09_p1.webp",
-      "data/images/questions/2025_common_main_physics_a09_p2.webp",
-      "data/images/questions/2025_common_main_physics_a09_p3.webp",
-      "data/images/questions/2025_common_main_physics_a09_p4.webp"
+      "data/images/questions/2025_common_main_physics_a09_p2.webp"
     ]
   },
   {
@@ -1788,13 +1819,12 @@
     "correct_rate": 46.17,
     "page": "85-86",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a10_p1.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a10.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a10_p1.webp",
-      "data/images/questions/2025_common_main_physics_a10_p2.webp"
+      "data/images/questions/2025_common_main_physics_a10.webp"
     ]
   },
   {
@@ -1832,8 +1862,7 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a11_p1.webp",
-      "data/images/questions/2025_common_main_physics_a11_p2.webp",
-      "data/images/questions/2025_common_main_physics_a11_p3.webp"
+      "data/images/questions/2025_common_main_physics_a11_p2.webp"
     ]
   },
   {
@@ -1907,7 +1936,9 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a13_p1.webp",
-      "data/images/questions/2025_common_main_physics_a13_p2.webp"
+      "data/images/questions/2025_common_main_physics_a13_p2.webp",
+      "data/images/questions/2025_common_main_physics_a13_p3.webp",
+      "data/images/questions/2025_common_main_physics_a13_p4.webp"
     ]
   },
   {
@@ -1981,7 +2012,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a15_p1.webp",
-      "data/images/questions/2025_common_main_physics_a15_p2.webp"
+      "data/images/questions/2025_common_main_physics_a15_p2.webp",
+      "data/images/questions/2025_common_main_physics_a15_p3.webp"
     ]
   },
   {
@@ -2055,8 +2087,7 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
       "data/images/questions/2025_common_main_physics_a17_p1.webp",
-      "data/images/questions/2025_common_main_physics_a17_p2.webp",
-      "data/images/questions/2025_common_main_physics_a17_p3.webp"
+      "data/images/questions/2025_common_main_physics_a17_p2.webp"
     ]
   },
   {
@@ -2089,12 +2120,13 @@
     "correct_rate": 45.55,
     "page": "98",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a18.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a18_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a18.webp"
+      "data/images/questions/2025_common_main_physics_a18_p1.webp",
+      "data/images/questions/2025_common_main_physics_a18_p2.webp"
     ]
   },
   {
@@ -2128,12 +2160,13 @@
     "correct_rate": 65.08,
     "page": "99",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a19.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a19_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a19.webp"
+      "data/images/questions/2025_common_main_physics_a19_p1.webp",
+      "data/images/questions/2025_common_main_physics_a19_p2.webp"
     ]
   },
   {
@@ -2167,12 +2200,13 @@
     "correct_rate": 63.83,
     "page": "99",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a20.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a20_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a20.webp"
+      "data/images/questions/2025_common_main_physics_a20_p1.webp",
+      "data/images/questions/2025_common_main_physics_a20_p2.webp"
     ]
   },
   {
@@ -2207,12 +2241,14 @@
     "correct_rate": 39.21,
     "page": "100",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a19.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a21_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a19.webp"
+      "data/images/questions/2025_common_main_physics_a21_p1.webp",
+      "data/images/questions/2025_common_main_physics_a21_p2.webp",
+      "data/images/questions/2025_common_main_physics_a21_p3.webp"
     ]
   },
   {
@@ -2245,13 +2281,12 @@
     "correct_rate": 46.98,
     "page": "101-102",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a21.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a22.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a21.webp",
-      "data/images/questions/2025_common_main_physics_a22_p1.webp"
+      "data/images/questions/2025_common_main_physics_a22.webp"
     ]
   },
   {
@@ -2283,13 +2318,12 @@
     "correct_rate": 52.01,
     "page": "102",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a21.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a23.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a21.webp",
-      "data/images/questions/2025_common_main_physics_a22_p1.webp"
+      "data/images/questions/2025_common_main_physics_a23.webp"
     ]
   },
   {
@@ -2323,13 +2357,12 @@
     "correct_rate": 46.13,
     "page": "102-103",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a21.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a24.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a21.webp",
-      "data/images/questions/2025_common_main_physics_a22_p1.webp"
+      "data/images/questions/2025_common_main_physics_a24.webp"
     ]
   },
   {
@@ -2360,12 +2393,13 @@
     "correct_rate": 53.09,
     "page": "4",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a101.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a101_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a101.webp"
+      "data/images/questions/2025_common_main_physics_basic_a101_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a101_p2.webp"
     ]
   },
   {
@@ -2397,12 +2431,13 @@
     "correct_rate": 13.5,
     "page": "5",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a102.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a102_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a102.webp"
+      "data/images/questions/2025_common_main_physics_basic_a102_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a102_p2.webp"
     ]
   },
   {
@@ -2432,12 +2467,13 @@
     "correct_rate": 72.91,
     "page": "6",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a103.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a103_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a103.webp"
+      "data/images/questions/2025_common_main_physics_basic_a103_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a103_p2.webp"
     ]
   },
   {
@@ -2508,12 +2544,13 @@
     "correct_rate": 50.57,
     "page": "8",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a105.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a105_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a105.webp"
+      "data/images/questions/2025_common_main_physics_basic_a105_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a105_p2.webp"
     ]
   },
   {
@@ -2581,12 +2618,13 @@
     "correct_rate": 43.49,
     "page": "9",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a107.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a107_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a107.webp"
+      "data/images/questions/2025_common_main_physics_basic_a107_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a107_p2.webp"
     ]
   },
   {
@@ -2726,12 +2764,13 @@
     "correct_rate": 70.22,
     "page": "11",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a111.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a111_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a111.webp"
+      "data/images/questions/2025_common_main_physics_basic_a111_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a111_p2.webp"
     ]
   },
   {
@@ -2767,12 +2806,13 @@
     "correct_rate": 69.27,
     "page": "12",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a112.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a112_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a112.webp"
+      "data/images/questions/2025_common_main_physics_basic_a112_p1.webp",
+      "data/images/questions/2025_common_main_physics_basic_a112_p2.webp"
     ]
   },
   {
@@ -2921,10 +2961,11 @@
     "correct_rate": null,
     "page": "74",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a01.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a01_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a01.webp"
+      "data/images/questions/2025_common_makeup_physics_a01_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a01_p2.webp"
     ]
   },
   {
@@ -2955,10 +2996,11 @@
     "correct_rate": null,
     "page": "74",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a02.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a02_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a02.webp"
+      "data/images/questions/2025_common_makeup_physics_a02_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a02_p2.webp"
     ]
   },
   {
@@ -2989,10 +3031,11 @@
     "correct_rate": null,
     "page": "75",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a03.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a03_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a03.webp"
+      "data/images/questions/2025_common_makeup_physics_a03_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a03_p2.webp"
     ]
   },
   {
@@ -3026,7 +3069,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_a04_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a04_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a04_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_a04_p3.webp"
     ]
   },
   {
@@ -3055,10 +3099,11 @@
     "correct_rate": null,
     "page": "78",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a05.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a05_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a05.webp"
+      "data/images/questions/2025_common_makeup_physics_a05_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a05_p2.webp"
     ]
   },
   {
@@ -3126,7 +3171,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_a07_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a07_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a07_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_a07_p3.webp"
     ]
   },
   {
@@ -3158,10 +3204,11 @@
     "correct_rate": null,
     "page": "82",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a08.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a08_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a08.webp"
+      "data/images/questions/2025_common_makeup_physics_a08_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a08_p2.webp"
     ]
   },
   {
@@ -3193,10 +3240,12 @@
     "correct_rate": null,
     "page": "83",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a09.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a09_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a09.webp"
+      "data/images/questions/2025_common_makeup_physics_a09_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a09_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_a09_p3.webp"
     ]
   },
   {
@@ -3264,12 +3313,10 @@
     "correct_rate": null,
     "page": "85-87",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a11_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a11.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a11_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a11_p2.webp",
-      "data/images/questions/2025_common_makeup_physics_a11_p3.webp"
+      "data/images/questions/2025_common_makeup_physics_a11.webp"
     ]
   },
   {
@@ -3334,10 +3381,11 @@
     "correct_rate": null,
     "page": "89",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a13.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a13_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a13.webp"
+      "data/images/questions/2025_common_makeup_physics_a13_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_a13_p2.webp"
     ]
   },
   {
@@ -3409,7 +3457,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_a15_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a15_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a15_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_a15_p3.webp"
     ]
   },
   {
@@ -3444,7 +3493,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_a16_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a16_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a16_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_a16_p3.webp"
     ]
   },
   {
@@ -3479,8 +3529,7 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_a17_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a17_p2.webp",
-      "data/images/questions/2025_common_makeup_physics_a17_p3.webp"
+      "data/images/questions/2025_common_makeup_physics_a17_p2.webp"
     ]
   },
   {
@@ -3670,11 +3719,10 @@
     "correct_rate": null,
     "page": "100-101",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a22_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a22.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a22_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a22_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a22.webp"
     ]
   },
   {
@@ -3710,11 +3758,10 @@
     "correct_rate": null,
     "page": "100-101",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a23_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a23.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a23_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_a23_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_a23.webp"
     ]
   },
   {
@@ -3747,10 +3794,11 @@
     "correct_rate": null,
     "page": "4",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a101.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a101_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a101.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a101_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a101_p2.webp"
     ]
   },
   {
@@ -3781,10 +3829,11 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a102.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a102_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a102.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a102_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a102_p2.webp"
     ]
   },
   {
@@ -3818,10 +3867,11 @@
     "correct_rate": null,
     "page": "6",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a103.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a103_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a103.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a103_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a103_p2.webp"
     ]
   },
   {
@@ -3855,10 +3905,11 @@
     "correct_rate": null,
     "page": "6",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a104.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a104_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a104.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a104_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a104_p2.webp"
     ]
   },
   {
@@ -3924,10 +3975,12 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a106.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a106_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a106.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a106_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a106_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a106_p3.webp"
     ]
   },
   {
@@ -3957,10 +4010,12 @@
     "correct_rate": null,
     "page": "10",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a107.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a107_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a107.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a107_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a107_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a107_p3.webp"
     ]
   },
   {
@@ -4025,10 +4080,11 @@
     "correct_rate": null,
     "page": "12",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a109.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a109_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a109.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a109_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a109_p2.webp"
     ]
   },
   {
@@ -4095,10 +4151,11 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a111.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a111_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a111.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a111_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a111_p2.webp"
     ]
   },
   {
@@ -4131,10 +4188,11 @@
     "correct_rate": null,
     "page": "16",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a112.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a112_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a112.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a112_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a112_p2.webp"
     ]
   },
   {
@@ -4172,7 +4230,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2025_common_makeup_physics_basic_a113_p1.webp",
-      "data/images/questions/2025_common_makeup_physics_basic_a113_p2.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a113_p2.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a113_p3.webp"
     ]
   },
   {
@@ -4204,10 +4263,11 @@
     "correct_rate": null,
     "page": "19",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a114.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a114_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a114.webp"
+      "data/images/questions/2025_common_makeup_physics_basic_a114_p1.webp",
+      "data/images/questions/2025_common_makeup_physics_basic_a114_p2.webp"
     ]
   },
   {
@@ -4271,10 +4331,11 @@
     "correct_rate": null,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a01.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a01_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a01.webp"
+      "data/images/questions/2024_common_makeup_physics_a01_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a01_p2.webp"
     ]
   },
   {
@@ -4305,10 +4366,11 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a02.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a02_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a02.webp"
+      "data/images/questions/2024_common_makeup_physics_a02_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a02_p2.webp"
     ]
   },
   {
@@ -4343,7 +4405,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a03_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a03_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a03_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a03_p3.webp"
     ]
   },
   {
@@ -4373,10 +4436,12 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a04.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a04_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a04.webp"
+      "data/images/questions/2024_common_makeup_physics_a04_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a04_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a04_p3.webp"
     ]
   },
   {
@@ -4405,11 +4470,10 @@
     "correct_rate": null,
     "page": "9-10",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a05_p1.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a05.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a05_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a05_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a05.webp"
     ]
   },
   {
@@ -4483,10 +4547,12 @@
     "correct_rate": null,
     "page": "12",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a07.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a07_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a07.webp"
+      "data/images/questions/2024_common_makeup_physics_a07_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a07_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a07_p3.webp"
     ]
   },
   {
@@ -4619,10 +4685,11 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a11.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a11_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a11.webp"
+      "data/images/questions/2024_common_makeup_physics_a11_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a11_p2.webp"
     ]
   },
   {
@@ -4653,10 +4720,11 @@
     "correct_rate": null,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a12.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a12_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a12.webp"
+      "data/images/questions/2024_common_makeup_physics_a12_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a12_p2.webp"
     ]
   },
   {
@@ -4686,10 +4754,11 @@
     "correct_rate": null,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a13.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a13_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a13.webp"
+      "data/images/questions/2024_common_makeup_physics_a13_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a13_p2.webp"
     ]
   },
   {
@@ -4719,10 +4788,11 @@
     "correct_rate": null,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a14.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a14_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a14.webp"
+      "data/images/questions/2024_common_makeup_physics_a14_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a14_p2.webp"
     ]
   },
   {
@@ -4791,7 +4861,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a16_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a16_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a16_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a16_p3.webp"
     ]
   },
   {
@@ -4826,7 +4897,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a17_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a17_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a17_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a17_p3.webp"
     ]
   },
   {
@@ -4855,10 +4927,11 @@
     "correct_rate": null,
     "page": "24",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a18.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a18_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a18.webp"
+      "data/images/questions/2024_common_makeup_physics_a18_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a18_p2.webp"
     ]
   },
   {
@@ -4892,7 +4965,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a19_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a19_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a19_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_a19_p3.webp"
     ]
   },
   {
@@ -5031,10 +5105,11 @@
     "correct_rate": null,
     "page": "4",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a01.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a01_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a01.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a01_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a01_p2.webp"
     ]
   },
   {
@@ -5066,10 +5141,11 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a02.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a02_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a02.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a02_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a02_p2.webp"
     ]
   },
   {
@@ -5099,10 +5175,11 @@
     "correct_rate": null,
     "page": "6",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a03.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a03_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a03.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a03_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a03_p2.webp"
     ]
   },
   {
@@ -5172,7 +5249,9 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_basic_a05_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_basic_a05_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a05_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a05_p3.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a05_p4.webp"
     ]
   },
   {
@@ -5202,10 +5281,11 @@
     "correct_rate": null,
     "page": "9",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a06.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a06_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a06.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a06_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a06_p2.webp"
     ]
   },
   {
@@ -5235,10 +5315,11 @@
     "correct_rate": null,
     "page": "10",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a07.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a07_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a07.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a07_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a07_p2.webp"
     ]
   },
   {
@@ -5269,10 +5350,11 @@
     "correct_rate": null,
     "page": "11",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a08.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a08_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a08.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a08_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a08_p2.webp"
     ]
   },
   {
@@ -5303,10 +5385,11 @@
     "correct_rate": null,
     "page": "12",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a09.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a09_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a09.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a09_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a09_p2.webp"
     ]
   },
   {
@@ -5369,10 +5452,12 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a11.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a11_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a11.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a11_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a11_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a11_p3.webp"
     ]
   },
   {
@@ -5403,10 +5488,11 @@
     "correct_rate": null,
     "page": "16",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a12.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a12_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a12.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a12_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a12_p2.webp"
     ]
   },
   {
@@ -5438,10 +5524,12 @@
     "correct_rate": null,
     "page": "17",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a13.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a13_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a13.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a13_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a13_p2.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a13_p3.webp"
     ]
   },
   {
@@ -5471,10 +5559,11 @@
     "correct_rate": null,
     "page": "18",
     "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a14.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_basic_a14_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a14.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a14_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_basic_a14_p2.webp"
     ]
   },
   {
@@ -5613,7 +5702,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
       "data/images/questions/2023_common_main_physics_a01_p1.webp",
-      "data/images/questions/2023_common_main_physics_a01_p2.webp"
+      "data/images/questions/2023_common_main_physics_a01_p2.webp",
+      "data/images/questions/2023_common_main_physics_a01_p3.webp"
     ]
   },
   {
@@ -5643,12 +5733,13 @@
     "correct_rate": 73.41,
     "page": "6",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a02.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a02_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a02.webp"
+      "data/images/questions/2023_common_main_physics_a02_p1.webp",
+      "data/images/questions/2023_common_main_physics_a02_p2.webp"
     ]
   },
   {
@@ -5680,12 +5771,13 @@
     "correct_rate": 24.16,
     "page": "6",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a03.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a03_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a03.webp"
+      "data/images/questions/2023_common_main_physics_a03_p1.webp",
+      "data/images/questions/2023_common_main_physics_a03_p2.webp"
     ]
   },
   {
@@ -5721,7 +5813,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
       "data/images/questions/2023_common_main_physics_a04_p1.webp",
-      "data/images/questions/2023_common_main_physics_a04_p2.webp"
+      "data/images/questions/2023_common_main_physics_a04_p2.webp",
+      "data/images/questions/2023_common_main_physics_a04_p3.webp"
     ]
   },
   {
@@ -5757,7 +5850,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
       "data/images/questions/2023_common_main_physics_a05_p1.webp",
-      "data/images/questions/2023_common_main_physics_a05_p2.webp"
+      "data/images/questions/2023_common_main_physics_a05_p2.webp",
+      "data/images/questions/2023_common_main_physics_a05_p3.webp"
     ]
   },
   {
@@ -5790,12 +5884,13 @@
     "correct_rate": 40.46,
     "page": "10",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a06.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a06_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a06.webp"
+      "data/images/questions/2023_common_main_physics_a06_p1.webp",
+      "data/images/questions/2023_common_main_physics_a06_p2.webp"
     ]
   },
   {
@@ -6013,12 +6108,13 @@
     "correct_rate": 82.17,
     "page": "16",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a12.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a12_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a12.webp"
+      "data/images/questions/2023_common_main_physics_a12_p1.webp",
+      "data/images/questions/2023_common_main_physics_a12_p2.webp"
     ]
   },
   {
@@ -6049,12 +6145,13 @@
     "correct_rate": 59.32,
     "page": "17",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a13.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a13_p1.webp",
     "notes": "解答番号13・14は順序不同で4・8。全部正解で5点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a13.webp"
+      "data/images/questions/2023_common_main_physics_a13_p1.webp",
+      "data/images/questions/2023_common_main_physics_a13_p2.webp"
     ]
   },
   {
@@ -6085,12 +6182,13 @@
     "correct_rate": 59.32,
     "page": "17",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a14.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a14_p1.webp",
     "notes": "解答番号13・14は順序不同で4・8。全部正解で5点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a14.webp"
+      "data/images/questions/2023_common_main_physics_a14_p1.webp",
+      "data/images/questions/2023_common_main_physics_a14_p2.webp"
     ]
   },
   {
@@ -6166,7 +6264,8 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
       "data/images/questions/2023_common_main_physics_a16_p1.webp",
-      "data/images/questions/2023_common_main_physics_a16_p2.webp"
+      "data/images/questions/2023_common_main_physics_a16_p2.webp",
+      "data/images/questions/2023_common_main_physics_a16_p3.webp"
     ]
   },
   {
@@ -6235,12 +6334,13 @@
     "correct_rate": 70.74,
     "page": "22",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a18.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a18_p1.webp",
     "notes": "4または5を解答した場合は1点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a18.webp"
+      "data/images/questions/2023_common_main_physics_a18_p1.webp",
+      "data/images/questions/2023_common_main_physics_a18_p2.webp"
     ]
   },
   {
@@ -6271,12 +6371,13 @@
     "correct_rate": 65.76,
     "page": "23",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a19.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a19_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a19.webp"
+      "data/images/questions/2023_common_main_physics_a19_p1.webp",
+      "data/images/questions/2023_common_main_physics_a19_p2.webp"
     ]
   },
   {
@@ -6349,7 +6450,9 @@
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
       "data/images/questions/2023_common_main_physics_a21_p1.webp",
-      "data/images/questions/2023_common_main_physics_a21_p2.webp"
+      "data/images/questions/2023_common_main_physics_a21_p2.webp",
+      "data/images/questions/2023_common_main_physics_a21_p3.webp",
+      "data/images/questions/2023_common_main_physics_a21_p4.webp"
     ]
   },
   {
@@ -6491,12 +6594,13 @@
     "correct_rate": 76.31,
     "page": "31",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a25.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a25_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a25.webp"
+      "data/images/questions/2023_common_main_physics_a25_p1.webp",
+      "data/images/questions/2023_common_main_physics_a25_p2.webp"
     ]
   },
   {
@@ -6528,13 +6632,13 @@
     "correct_rate": 36.85,
     "page": "32-33",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a24_p2.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a26_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a24_p2.webp",
-      "data/images/questions/2023_common_main_physics_a25.webp"
+      "data/images/questions/2023_common_main_physics_a26_p1.webp",
+      "data/images/questions/2023_common_main_physics_a26_p2.webp"
     ]
   },
   {
@@ -6564,12 +6668,13 @@
     "correct_rate": 49.53,
     "page": "4",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a01.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a01_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a01.webp"
+      "data/images/questions/2023_common_main_physics_basic_a01_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a01_p2.webp"
     ]
   },
   {
@@ -6600,12 +6705,13 @@
     "correct_rate": 36.75,
     "page": "5",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a02.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a02_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a02.webp"
+      "data/images/questions/2023_common_main_physics_basic_a02_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a02_p2.webp"
     ]
   },
   {
@@ -6637,12 +6743,13 @@
     "correct_rate": 58.71,
     "page": "6",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a03.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a03_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a03.webp"
+      "data/images/questions/2023_common_main_physics_basic_a03_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a03_p2.webp"
     ]
   },
   {
@@ -6710,12 +6817,13 @@
     "correct_rate": 96.11,
     "page": "8",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a05.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a05_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a05.webp"
+      "data/images/questions/2023_common_main_physics_basic_a05_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a05_p2.webp"
     ]
   },
   {
@@ -6746,12 +6854,13 @@
     "correct_rate": 54.28,
     "page": "9",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a06.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a06_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a06.webp"
+      "data/images/questions/2023_common_main_physics_basic_a06_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a06_p2.webp"
     ]
   },
   {
@@ -6782,12 +6891,13 @@
     "correct_rate": 63.37,
     "page": "10",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a07.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a07_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a07.webp"
+      "data/images/questions/2023_common_main_physics_basic_a07_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a07_p2.webp"
     ]
   },
   {
@@ -6820,12 +6930,13 @@
     "correct_rate": 49.39,
     "page": "10",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a08.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a08_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a08.webp"
+      "data/images/questions/2023_common_main_physics_basic_a08_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a08_p2.webp"
     ]
   },
   {
@@ -6856,12 +6967,13 @@
     "correct_rate": 47.19,
     "page": "11",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a09.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a09_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a09.webp"
+      "data/images/questions/2023_common_main_physics_basic_a09_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a09_p2.webp"
     ]
   },
   {
@@ -6928,12 +7040,13 @@
     "correct_rate": 94.05,
     "page": "14",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a11.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a11_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a11.webp"
+      "data/images/questions/2023_common_main_physics_basic_a11_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a11_p2.webp"
     ]
   },
   {
@@ -6964,12 +7077,13 @@
     "correct_rate": 83.31,
     "page": "14",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a12.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a12_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a12.webp"
+      "data/images/questions/2023_common_main_physics_basic_a12_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a12_p2.webp"
     ]
   },
   {
@@ -7000,12 +7114,14 @@
     "correct_rate": 42.52,
     "page": "15",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a13.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a13_p1.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a13.webp"
+      "data/images/questions/2023_common_main_physics_basic_a13_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a13_p2.webp",
+      "data/images/questions/2023_common_main_physics_basic_a13_p3.webp"
     ]
   },
   {
@@ -7115,7 +7231,8 @@
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a16_p1.webp"
+      "data/images/questions/2023_common_main_physics_basic_a16_p1.webp",
+      "data/images/questions/2023_common_main_physics_basic_a16_p2.webp"
     ]
   },
   {
@@ -7148,7 +7265,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2023_common_makeup_physics_a01_p1.webp",
-      "data/images/questions/2023_common_makeup_physics_a01_p2.webp"
+      "data/images/questions/2023_common_makeup_physics_a01_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_a01_p3.webp"
     ]
   },
   {
@@ -7177,10 +7295,11 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a02.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a02_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a02.webp"
+      "data/images/questions/2023_common_makeup_physics_a02_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a02_p2.webp"
     ]
   },
   {
@@ -7210,10 +7329,11 @@
     "correct_rate": null,
     "page": "6",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a03.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a03_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a03.webp"
+      "data/images/questions/2023_common_makeup_physics_a03_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a03_p2.webp"
     ]
   },
   {
@@ -7245,10 +7365,11 @@
     "correct_rate": null,
     "page": "7",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a04.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a04_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a04.webp"
+      "data/images/questions/2023_common_makeup_physics_a04_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a04_p2.webp"
     ]
   },
   {
@@ -7277,10 +7398,11 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a05.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a05_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a05.webp"
+      "data/images/questions/2023_common_makeup_physics_a05_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a05_p2.webp"
     ]
   },
   {
@@ -7316,7 +7438,10 @@
     "image_paths": [
       "data/images/questions/2023_common_makeup_physics_a06_p1.webp",
       "data/images/questions/2023_common_makeup_physics_a06_p2.webp",
-      "data/images/questions/2023_common_makeup_physics_a06_p3.webp"
+      "data/images/questions/2023_common_makeup_physics_a06_p3.webp",
+      "data/images/questions/2023_common_makeup_physics_a06_p4.webp",
+      "data/images/questions/2023_common_makeup_physics_a06_p5.webp",
+      "data/images/questions/2023_common_makeup_physics_a06_p6.webp"
     ]
   },
   {
@@ -7558,10 +7683,11 @@
     "correct_rate": null,
     "page": "20",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a13.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a13_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a13.webp"
+      "data/images/questions/2023_common_makeup_physics_a13_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a13_p2.webp"
     ]
   },
   {
@@ -7628,7 +7754,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2023_common_makeup_physics_a15_p1.webp",
-      "data/images/questions/2023_common_makeup_physics_a15_p2.webp"
+      "data/images/questions/2023_common_makeup_physics_a15_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_a15_p3.webp"
     ]
   },
   {
@@ -7659,10 +7786,13 @@
     "correct_rate": null,
     "page": "24",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a16.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a16_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a16.webp"
+      "data/images/questions/2023_common_makeup_physics_a16_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a16_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_a16_p3.webp",
+      "data/images/questions/2023_common_makeup_physics_a16_p4.webp"
     ]
   },
   {
@@ -7691,10 +7821,11 @@
     "correct_rate": null,
     "page": "25",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a17.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a17_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a17.webp"
+      "data/images/questions/2023_common_makeup_physics_a17_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a17_p2.webp"
     ]
   },
   {
@@ -7723,10 +7854,12 @@
     "correct_rate": null,
     "page": "26",
     "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_a18.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_a18_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_a18.webp"
+      "data/images/questions/2023_common_makeup_physics_a18_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_a18_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_a18_p3.webp"
     ]
   },
   {
@@ -7823,10 +7956,11 @@
     "correct_rate": null,
     "page": "4",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a01.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a01_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a01.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a01_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a01_p2.webp"
     ]
   },
   {
@@ -7858,10 +7992,11 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a02.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a02_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a02.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a02_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a02_p2.webp"
     ]
   },
   {
@@ -7892,10 +8027,11 @@
     "correct_rate": null,
     "page": "6",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a03.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a03_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a03.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a03_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a03_p2.webp"
     ]
   },
   {
@@ -7961,10 +8097,11 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a05.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a05_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a05.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a05_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a05_p2.webp"
     ]
   },
   {
@@ -8030,10 +8167,11 @@
     "correct_rate": null,
     "page": "9",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a07.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a07_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a07.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a07_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a07_p2.webp"
     ]
   },
   {
@@ -8063,10 +8201,11 @@
     "correct_rate": null,
     "page": "10",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a08.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a08_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a08.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a08_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a08_p2.webp"
     ]
   },
   {
@@ -8134,7 +8273,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2023_common_makeup_physics_basic_a10_p1.webp",
-      "data/images/questions/2023_common_makeup_physics_basic_a10_p2.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a10_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a10_p3.webp"
     ]
   },
   {
@@ -8169,7 +8309,8 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2023_common_makeup_physics_basic_a11_p1.webp",
-      "data/images/questions/2023_common_makeup_physics_basic_a11_p2.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a11_p2.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a11_p3.webp"
     ]
   },
   {
@@ -8199,10 +8340,11 @@
     "correct_rate": null,
     "page": "14",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a12.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a12_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a12.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a12_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a12_p2.webp"
     ]
   },
   {
@@ -8233,10 +8375,11 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a13.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a13_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a13.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a13_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a13_p2.webp"
     ]
   },
   {
@@ -8266,10 +8409,11 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a14.webp",
+    "image_path": "data/images/questions/2023_common_makeup_physics_basic_a14_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2023_common_makeup_physics_basic_a14.webp"
+      "data/images/questions/2023_common_makeup_physics_basic_a14_p1.webp",
+      "data/images/questions/2023_common_makeup_physics_basic_a14_p2.webp"
     ]
   },
   {

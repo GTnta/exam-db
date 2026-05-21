@@ -1,0 +1,572 @@
+{
+  "total_questions": 757,
+  "pdf_groups": 37,
+  "synced_groups": 10,
+  "partial_groups": 2,
+  "fallback_groups": 25,
+  "synced_questions": 226,
+  "fallback_questions": 531,
+  "generated_crop_rows": 1256,
+  "groups": [
+    {
+      "pdf_path": "data/pdf/2006_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 23,
+      "synced_questions": 0,
+      "page_count": 18,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2007_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 24,
+      "synced_questions": 0,
+      "page_count": 24,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2008_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 24,
+      "synced_questions": 0,
+      "page_count": 24,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2009_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 23,
+      "synced_questions": 0,
+      "page_count": 26,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2010_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 25,
+      "synced_questions": 0,
+      "page_count": 25,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2011_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 23,
+      "synced_questions": 0,
+      "page_count": 26,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2012_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 22,
+      "synced_questions": 0,
+      "page_count": 22,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2013_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 23,
+      "synced_questions": 0,
+      "page_count": 30,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2014_center_main_physics1.pdf",
+      "status": "fallback",
+      "question_count": 22,
+      "synced_questions": 0,
+      "page_count": 26,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2015_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 13,
+      "synced_questions": 0,
+      "page_count": 18,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2015_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 24,
+      "synced_questions": 0,
+      "page_count": 31,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2016_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 13,
+      "synced_questions": 0,
+      "page_count": 16,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2016_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 24,
+      "synced_questions": 0,
+      "page_count": 35,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2017_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 13,
+      "synced_questions": 0,
+      "page_count": 15,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2017_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 26,
+      "synced_questions": 0,
+      "page_count": 39,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2018_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 13,
+      "synced_questions": 0,
+      "page_count": 20,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2018_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 26,
+      "synced_questions": 0,
+      "page_count": 41,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2019_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 14,
+      "synced_questions": 0,
+      "page_count": 20,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2019_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 25,
+      "synced_questions": 0,
+      "page_count": 39,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2020_center_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 13,
+      "synced_questions": 0,
+      "page_count": 18,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2020_center_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 23,
+      "synced_questions": 0,
+      "page_count": 33,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2021_common_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 19,
+      "synced_questions": 0,
+      "page_count": 20,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2021_common_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 28,
+      "synced_questions": 0,
+      "page_count": 32,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2022_common_main_physics_basic.pdf",
+      "status": "fallback",
+      "question_count": 17,
+      "synced_questions": 0,
+      "page_count": 22,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2022_common_main_physics.pdf",
+      "status": "fallback",
+      "question_count": 25,
+      "synced_questions": 0,
+      "page_count": 30,
+      "major_starts": {},
+      "missing_major_starts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
+      "status": "synced",
+      "question_count": 16,
+      "synced_questions": 16,
+      "page_count": 15,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 10
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2023_common_main_physics.pdf",
+      "status": "synced",
+      "question_count": 26,
+      "synced_questions": 26,
+      "page_count": 28,
+      "major_starts": {
+        "1": 1,
+        "2": 8,
+        "3": 15,
+        "4": 21
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2023_common_makeup_physics_basic.pdf",
+      "status": "synced",
+      "question_count": 15,
+      "synced_questions": 15,
+      "page_count": 13,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 9
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2023_common_makeup_physics.pdf",
+      "status": "partial",
+      "question_count": 20,
+      "synced_questions": 17,
+      "page_count": 29,
+      "major_starts": {
+        "1": 1,
+        "2": 8,
+        "3": 16,
+        "4": 21
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": [
+        "2:4",
+        "2:5",
+        "4:6"
+      ]
+    },
+    {
+      "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
+      "status": "synced",
+      "question_count": 17,
+      "synced_questions": 17,
+      "page_count": 17,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 12
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2024_common_main_physics.pdf",
+      "status": "synced",
+      "question_count": 22,
+      "synced_questions": 22,
+      "page_count": 23,
+      "major_starts": {
+        "1": 1,
+        "2": 7,
+        "3": 13,
+        "4": 18
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2024_common_makeup_physics_basic.pdf",
+      "status": "partial",
+      "question_count": 17,
+      "synced_questions": 14,
+      "page_count": 19,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 13
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": [
+        "2:6",
+        "3:6"
+      ]
+    },
+    {
+      "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
+      "status": "synced",
+      "question_count": 22,
+      "synced_questions": 22,
+      "page_count": 24,
+      "major_starts": {
+        "1": 1,
+        "2": 8,
+        "3": 12,
+        "4": 17
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
+      "status": "synced",
+      "question_count": 15,
+      "synced_questions": 15,
+      "page_count": 12,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 9
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2025_common_main_physics.pdf",
+      "status": "synced",
+      "question_count": 24,
+      "synced_questions": 24,
+      "page_count": 28,
+      "major_starts": {
+        "1": 1,
+        "2": 7,
+        "3": 14,
+        "4": 23
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
+      "status": "synced",
+      "question_count": 15,
+      "synced_questions": 15,
+      "page_count": 17,
+      "major_starts": {
+        "1": 1,
+        "2": 5,
+        "3": 12
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    },
+    {
+      "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
+      "status": "synced",
+      "question_count": 23,
+      "synced_questions": 23,
+      "page_count": 28,
+      "major_starts": {
+        "1": 1,
+        "2": 7,
+        "3": 15,
+        "4": 25
+      },
+      "missing_major_starts": [],
+      "missing_minor_starts": []
+    }
+  ]
+}
