@@ -4520,8 +4520,7 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a16_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a16_p2.webp",
-      "data/images/questions/2024_common_makeup_physics_a16_p3.webp"
+      "data/images/questions/2024_common_makeup_physics_a16_p2.webp"
     ]
   },
   {
@@ -4556,8 +4555,7 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a17_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a17_p2.webp",
-      "data/images/questions/2024_common_makeup_physics_a17_p3.webp"
+      "data/images/questions/2024_common_makeup_physics_a17_p2.webp"
     ]
   },
   {
@@ -4586,11 +4584,10 @@
     "correct_rate": null,
     "page": "24",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a18_p1.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a18.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a18_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a18_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_a18.webp"
     ]
   },
   {
@@ -4620,10 +4617,11 @@
     "correct_rate": null,
     "page": "24-25",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a19.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a19_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a19.webp"
+      "data/images/questions/2024_common_makeup_physics_a19_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a19_p2.webp"
     ]
   },
   {
@@ -4659,8 +4657,7 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a20_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a20_p2.webp",
-      "data/images/questions/2024_common_makeup_physics_a20_p3.webp"
+      "data/images/questions/2024_common_makeup_physics_a20_p2.webp"
     ]
   },
   {
@@ -4695,8 +4692,7 @@
     "notes": "",
     "image_paths": [
       "data/images/questions/2024_common_makeup_physics_a21_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_a21_p2.webp",
-      "data/images/questions/2024_common_makeup_physics_a21_p3.webp"
+      "data/images/questions/2024_common_makeup_physics_a21_p2.webp"
     ]
   },
   {
@@ -4732,7 +4728,8 @@
     "image_path": "data/images/questions/2024_common_makeup_physics_a22_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a22_p1.webp"
+      "data/images/questions/2024_common_makeup_physics_a22_p1.webp",
+      "data/images/questions/2024_common_makeup_physics_a22_p2.webp"
     ]
   },
   {
