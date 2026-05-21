@@ -224,10 +224,29 @@ select:focus {
   background: #fafbf8;
 }
 
+.image-box.has-images {
+  display: grid;
+  gap: 12px;
+  place-items: stretch;
+  padding: 10px;
+}
+
+.image-box figure {
+  margin: 0;
+}
+
 .image-box img {
   display: block;
   max-width: 100%;
   border-radius: 6px;
+  background: white;
+}
+
+.image-box figcaption {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: right;
 }
 
 .link-row {

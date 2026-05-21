@@ -38,6 +38,7 @@ def main() -> None:
                 page text,
                 pdf_path text,
                 image_path text,
+                image_paths text,
                 notes text
             )
             """
@@ -62,6 +63,7 @@ def main() -> None:
                 "keywords": " ".join(q.get("keywords", [])),
                 "correct_rate_source_name": q.get("correct_rate_source_name"),
                 "correct_rate_source_url": q.get("correct_rate_source_url"),
+                "image_paths": " ".join(q.get("image_paths", [])),
             }
             conn.execute(
                 """
@@ -69,7 +71,7 @@ def main() -> None:
                     :id, :year, :exam_system, :session, :subject, :major_no,
                     :middle_no, :minor_no, :answer_no, :unit, :keywords, :typicality,
                     :summary, :answer, :points, :correct_rate, :correct_rate_source_name,
-                    :correct_rate_source_url, :page, :pdf_path, :image_path, :notes
+                    :correct_rate_source_url, :page, :pdf_path, :image_path, :image_paths, :notes
                 )
                 """,
                 values,

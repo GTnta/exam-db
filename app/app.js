@@ -226,13 +226,10 @@ function selectQuestion(id) {
 }
 
 function renderDetail(question) {
-  const imageSrc = resolveAssetPath(question.image_path);
   const pdfHref = resolveAssetPath(question.pdf_path);
   const sourceLinks = renderSourceLinks(question);
   const correctRate = renderCorrectRate(question);
-  const imageContent = question.image_path
-    ? `<img src="${escapeAttribute(imageSrc)}" alt="問題図">`
-    : "図画像は未登録です。PDF保存後に切り出して登録します。";
+  const imageContent = renderQuestionImages(question);
 
   const pdfLink = question.pdf_path
     ? `<a href="${escapeAttribute(pdfHref)}" target="_blank" rel="noreferrer">PDFを開く</a>`
@@ -254,11 +251,36 @@ function renderDetail(question) {
       <dt>キーワード</dt>
       <dd class="keywords">${(question.keywords ?? []).map((keyword) => `<span class="pill">${escapeHtml(keyword)}</span>`).join("")}</dd>
     </dl>
-    <div class="image-box">${imageContent}</div>
+    <div class="image-box${hasQuestionImages(question) ? " has-images" : ""}">${imageContent}</div>
     <div class="link-row">${pdfLink}</div>
     ${sourceLinks}
     ${question.notes ? `<div class="note">${escapeHtml(question.notes)}</div>` : ""}
   `;
+}
+
+function hasQuestionImages(question) {
+  return getQuestionImages(question).length > 0;
+}
+
+function getQuestionImages(question) {
+  const images = [];
+  if (Array.isArray(question.image_paths)) images.push(...question.image_paths);
+  if (question.image_path) images.push(question.image_path);
+  return [...new Set(images.filter(Boolean))];
+}
+
+function renderQuestionImages(question) {
+  const images = getQuestionImages(question);
+  if (images.length === 0) {
+    return "図画像は未登録です。PDF保存後に切り出して登録します。";
+  }
+
+  return images.map((imagePath, index) => `
+    <figure>
+      <img src="${escapeAttribute(resolveAssetPath(imagePath))}" alt="問題画像${images.length > 1 ? ` ${index + 1}` : ""}" loading="lazy">
+      ${images.length > 1 ? `<figcaption>${index + 1} / ${images.length}</figcaption>` : ""}
+    </figure>
+  `).join("");
 }
 
 function renderCorrectRate(question) {

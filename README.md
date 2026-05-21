@@ -51,6 +51,7 @@ http://localhost:8765/app/
 - `correct_rate_source_url`: 正答率の出典URL。未入手なら未設定
 - `pdf_path`: ローカルPDFまたはWeb上のPDF
 - `image_path`: 切り出し画像。未作成なら空
+- `image_paths`: 複数ページ・複数画像の切り出し画像。未作成なら未設定
 
 ## PDFの保存
 
@@ -75,3 +76,25 @@ powershell -ExecutionPolicy Bypass -File scripts/download-public-pdfs.ps1
 5. 正答率データがある年度だけ `correct_rate` を埋める。
 
 完全自動で設問分割するより、AI補助で候補を作り、最後に人間が確認する運用が現実的です。
+
+## 設問画像の作成
+
+設問画像は `data/image-crops.json` で管理します。`box` が `null` の行はページ全体の仮画像として生成されます。設問単位に詰めるときは、`box` にPDFページ内の切り出し範囲を0〜1の正規化座標で入れます。
+
+```json
+{
+  "question_id": "2024_common_main_physics_a01",
+  "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+  "page": 4,
+  "box": { "x": 0.08, "y": 0.12, "width": 0.84, "height": 0.28 },
+  "output": "data/images/questions/2024_common_main_physics_a01.webp"
+}
+```
+
+手元にあるPDFから仮の切り出し行を作るには次を実行します。
+
+```powershell
+node scripts/init-full-page-crops.mjs
+```
+
+画像生成はGitHub Actionsの `Build question images` で実行できます。ローカルで行う場合は `pdftoppm`, ImageMagick, `cwebp` が必要です。
