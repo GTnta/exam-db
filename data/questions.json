@@ -1424,10 +1424,13 @@
     "correct_rate": 48.57,
     "page": "21",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a17.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
-    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf"
+    "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
+    "image_paths": [
+      "data/images/questions/2024_common_main_physics_basic_a17.webp"
+    ]
   },
   {
     "id": "2025_common_main_physics_a01",
