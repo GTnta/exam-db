@@ -8,6 +8,7 @@ const cropsPath = join(root, "data", "image-crops.json");
 const questionsPath = join(root, "data", "questions.json");
 const tempDir = join(root, "data", "_tmp", "image-build");
 const dryRun = process.argv.includes("--dry-run");
+const defaultContentBox = { x: 0.06, y: 0.04, width: 0.86, height: 0.88 };
 
 const tools = {
   pdftoppm: findCommand(["pdftoppm"]),
@@ -65,7 +66,8 @@ for (const crop of selected) {
     continue;
   }
   const { width, height } = identifyImage(pagePng);
-  const box = resolveCropBox(crop.box, width, height);
+  const useAutoTrim = !crop.box;
+  const box = resolveCropBox(crop.box ?? defaultContentBox, width, height);
   const cropPng = join(tempDir, `${safeName(crop.question_id)}-${crop.page}-crop.png`);
 
   runImageMagick([
@@ -75,6 +77,7 @@ for (const crop of selected) {
     "-crop",
     `${box.width}x${box.height}+${box.x}+${box.y}`,
     "+repage",
+    ...(useAutoTrim ? ["-fuzz", "2%", "-trim", "+repage", "-bordercolor", "white", "-border", "24"] : []),
     "-resize",
     "1500x1500>",
     "-strip",
