@@ -16,6 +16,16 @@ $ManifestPath = Join-Path $Root "worklogs\pdfium-question-assets-$Stamp.json"
 $QuestionChar = [string][char]0x554F
 $DaiChar = [string][char]0x7B2C
 
+$SkipGroupKeysByPdf = @{
+  'data/pdf/2025_common_makeup_physics.pdf' = @('2||5')
+  'data/pdf/2024_common_makeup_physics_basic.pdf' = @('2||6', '3||6')
+  'data/pdf/2023_common_makeup_physics.pdf' = @('2||4', '2||5', '4||6')
+}
+
+$DropMarkerIndicesByPdf = @{
+  'data/pdf/2023_common_main_physics.pdf' = @(18)
+}
+
 $env:PATH = (Join-Path $PdfiumRoot 'x64') + ';' + $env:PATH
 Add-Type -AssemblyName System.Drawing
 Add-Type -Path (Join-Path $PdfiumRoot 'PdfiumViewer.dll')
@@ -206,7 +216,38 @@ function Process-PdfGroup($PdfPathRel, $Records) {
     }
     $normDocText = $docTextBuilder.ToString().Normalize([Text.NormalizationForm]::FormKC)
     $markers = Get-QuestionMarkers $pdf $pageTexts
-    $status = if ($markers.Count -eq $groups.Count) { 'ok' } else { 'marker-count-mismatch' }
+    $adjustments = New-Object System.Collections.Generic.List[string]
+    if ($SkipGroupKeysByPdf.ContainsKey($PdfPathRel)) {
+      $skipKeys = @($SkipGroupKeysByPdf[$PdfPathRel])
+      $groups = @($groups | Where-Object { $skipKeys -notcontains $_.key })
+      $adjustments.Add("skip-groups:$($skipKeys -join ',')")
+    }
+    if ($DropMarkerIndicesByPdf.ContainsKey($PdfPathRel)) {
+      $dropIndices = @($DropMarkerIndicesByPdf[$PdfPathRel])
+      $filteredMarkers = New-Object System.Collections.Generic.List[object]
+      for ($markerIndex = 0; $markerIndex -lt $markers.Count; $markerIndex++) {
+        if ($dropIndices -notcontains $markerIndex) {
+          $filteredMarkers.Add($markers[$markerIndex])
+        }
+      }
+      $markers = @($filteredMarkers.ToArray())
+      $adjustments.Add("drop-markers:$($dropIndices -join ',')")
+    }
+
+    $sequenceMatches = $true
+    if ($markers.Count -eq $groups.Count) {
+      for ($sequenceIndex = 0; $sequenceIndex -lt $groups.Count; $sequenceIndex++) {
+        if ([string]$markers[$sequenceIndex].no -ne [string]$groups[$sequenceIndex].primary_no) {
+          $sequenceMatches = $false
+          break
+        }
+      }
+    }
+
+    $status = 'marker-count-mismatch'
+    if ($markers.Count -eq $groups.Count) {
+      $status = if ($sequenceMatches) { 'ok' } else { 'marker-sequence-mismatch' }
+    }
     $report = [pscustomobject]@{
       pdf_path = $PdfPathRel
       status = $status
@@ -214,6 +255,7 @@ function Process-PdfGroup($PdfPathRel, $Records) {
       groups = $groups.Count
       markers = $markers.Count
       records = $Records.Count
+      adjustments = @($adjustments.ToArray())
       samples = @($markers | Select-Object -First 8)
       marker_sequence = @($markers | ForEach-Object { "$($_.page):$($_.no)" })
       group_sequence = @($groups | ForEach-Object { "$($_.key):$($_.ids[0])" })
