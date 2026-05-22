@@ -24,7 +24,6 @@ for (const [questionId, rows] of rowsByQuestion.entries()) {
   const smallRows = existingRows.filter((item) => item.size < thresholdBytes);
   const usableRows = existingRows.filter((item) => item.size >= thresholdBytes);
   if (!smallRows.length) continue;
-  if (!usableRows.length && !isPendingText(question)) continue;
 
   for (const item of smallRows) {
     removedOutputs.add(item.output);

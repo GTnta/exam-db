@@ -2,4 +2,8 @@ data/questions.sqlite
 data/_tmp/
 worklogs/*.json
 worklogs/analysis-pages/
+worklogs/candidate-pdfs/
 worklogs/restore-points/
+data/images/questions/2016_center_main_physics_a22_p2.jpg
+data/images/questions/2017_center_main_physics_a22_p2.jpg
+data/images/questions/2018_center_main_physics_a24_p2.jpg

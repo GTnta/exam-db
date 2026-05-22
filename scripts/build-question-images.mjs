@@ -50,6 +50,13 @@ for (const crop of selected) {
   const sourcePdf = join(root, crop.source_pdf);
   const outputPath = join(root, crop.output);
   if (!existsSync(sourcePdf)) {
+    if (existsSync(outputPath)) {
+      const relativeOutput = normalizePath(crop.output);
+      if (!outputByQuestion.has(crop.question_id)) outputByQuestion.set(crop.question_id, []);
+      outputByQuestion.get(crop.question_id).push(relativeOutput);
+      built += 1;
+      continue;
+    }
     console.warn(`skip missing PDF: ${crop.source_pdf}`);
     skipped += 1;
     continue;
@@ -96,6 +103,7 @@ for (const question of questions) {
   if (!outputs || outputs.length === 0) continue;
   question.image_paths = outputs;
   question.image_path = outputs[0];
+  delete question.image_status;
 }
 
 writeFileSync(questionsPath, `${JSON.stringify(questions, null, 2)}\n`);

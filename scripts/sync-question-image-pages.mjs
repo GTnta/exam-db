@@ -128,6 +128,15 @@ for (const question of questions) {
   }
 }
 
+const existingCropKeys = new Set(newCrops.map(cropKey));
+for (const crop of previousCrops) {
+  if (!crop?.manual && !String(crop?.status ?? '').startsWith('manual-')) continue;
+  const key = cropKey(crop);
+  if (existingCropKeys.has(key)) continue;
+  newCrops.push({ ...crop });
+  existingCropKeys.add(key);
+}
+
 newCrops.sort((a, b) => (
   String(a.source_pdf).localeCompare(String(b.source_pdf), "ja") ||
   Number(a.pdf_page ?? a.page) - Number(b.pdf_page ?? b.page) ||
@@ -226,6 +235,10 @@ function createCrops(question, pdfPages) {
       note: "Full page image. Add a normalized box {x,y,width,height} for per-question crops.",
     };
   });
+}
+
+function cropKey(crop) {
+  return `${crop.question_id}|${crop.source_pdf}|${crop.page}|${crop.pdf_page ?? ''}|${crop.output}`;
 }
 
 function manualPdfPagesFromQuestion(question, pageCount) {
