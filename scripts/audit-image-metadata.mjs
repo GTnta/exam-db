@@ -20,16 +20,19 @@ let fullPagePlaceholders = 0;
 let missingOutputFiles = 0;
 let pageOneOrTwoDisplay = 0;
 let pdfPageOneOrTwo = 0;
+let unavailableImages = 0;
 
 for (const question of questions) {
   const questionCrops = cropsByQuestion.get(question.id) ?? [];
   const imagePaths = question.image_paths?.length ? question.image_paths : question.image_path ? [question.image_path] : [];
+  const intentionallyUnavailable = question.image_status === 'unavailable-small-crop';
+  if (intentionallyUnavailable) unavailableImages += 1;
 
-  if (!questionCrops.length) {
+  if (!questionCrops.length && !intentionallyUnavailable) {
     findings.push({ id: question.id, type: 'missing_crop_metadata' });
   }
 
-  if (!imagePaths.length) {
+  if (!imagePaths.length && !intentionallyUnavailable) {
     findings.push({ id: question.id, type: 'missing_question_image_path' });
   }
 
@@ -64,6 +67,7 @@ const report = {
   question_count: questions.length,
   crop_rows: crops.length,
   questions_with_crop_metadata: cropsByQuestion.size,
+  unavailable_images: unavailableImages,
   full_page_placeholder_rows: fullPagePlaceholders,
   missing_output_files: missingOutputFiles,
   questions_displaying_page_1_or_2: pageOneOrTwoDisplay,
@@ -77,6 +81,7 @@ fs.writeFileSync(outPath, `${JSON.stringify(report, null, 2)}\n`);
 console.log(`questions=${report.question_count}`);
 console.log(`crop_rows=${report.crop_rows}`);
 console.log(`questions_with_crop_metadata=${report.questions_with_crop_metadata}`);
+console.log(`unavailable_images=${report.unavailable_images}`);
 console.log(`full_page_placeholder_rows=${report.full_page_placeholder_rows}`);
 console.log(`missing_output_files=${report.missing_output_files}`);
 console.log(`questions_displaying_page_1_or_2=${report.questions_displaying_page_1_or_2}`);

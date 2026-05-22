@@ -19,7 +19,7 @@ for (const row of crops) {
   if (size == null || size >= thresholdBytes) continue;
 
   const question = questionsById.get(row.question_id);
-  if (question?.problem_text_status === 'pending-empty-ocr') continue;
+  if (isPendingText(question)) continue;
 
   row.box = { ...contentBox };
   row.status = 'heuristic-full-page-fallback';
@@ -52,4 +52,10 @@ function fileSize(relativePath) {
 
 function normalizePath(value) {
   return String(value ?? '').split(/[\\/]+/).join('/');
+}
+
+function isPendingText(question) {
+  if (!question) return true;
+  if (!question.masked_problem_text && !question.problem_text) return true;
+  return String(question.problem_text_status ?? '').startsWith('pending');
 }

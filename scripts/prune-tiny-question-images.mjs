@@ -24,7 +24,7 @@ for (const [questionId, rows] of rowsByQuestion.entries()) {
   const smallRows = existingRows.filter((item) => item.size < thresholdBytes);
   const usableRows = existingRows.filter((item) => item.size >= thresholdBytes);
   if (!smallRows.length) continue;
-  if (!usableRows.length && question?.problem_text_status !== 'pending-empty-ocr') continue;
+  if (!usableRows.length && !isPendingText(question)) continue;
 
   for (const item of smallRows) {
     removedOutputs.add(item.output);
@@ -94,4 +94,10 @@ function groupBy(items, keyFn) {
 
 function normalizePath(value) {
   return String(value ?? '').split(/[\\/]+/).join('/');
+}
+
+function isPendingText(question) {
+  if (!question) return true;
+  if (!question.masked_problem_text && !question.problem_text) return true;
+  return String(question.problem_text_status ?? '').startsWith('pending');
 }
