@@ -109,7 +109,8 @@ function searchableText(question) {
     question.answer_no,
     question.typicality,
     question.summary,
-    question.notes,
+    question.problem_text,
+    question.masked_problem_text,
     ...(question.keywords ?? []),
   ].join(" "));
 }
@@ -124,6 +125,8 @@ function scoreQuestion(question, terms) {
     if (normalize(question.unit).includes(term)) score += 3;
     if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(term))) score += 5;
     if (normalize(question.summary).includes(term)) score += 2;
+    if (normalize(question.problem_text).includes(term)) score += 3;
+    if (normalize(question.masked_problem_text).includes(term)) score += 3;
   }
   return score;
 }

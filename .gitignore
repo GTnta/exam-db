@@ -1,2 +1,4 @@
 data/questions.sqlite
 data/_tmp/
+worklogs/*.json
+worklogs/analysis-pages/
