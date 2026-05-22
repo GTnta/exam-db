@@ -10213,7 +10213,10 @@
     "correct_rate_source_name": "Z会共通テスト対策サイト",
     "correct_rate_source_url": "https://www.zkai.co.jp/kyotsu-test/result/butsuri-rate/",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2021_common_main_physics_a28.webp"
+    ],
+    "image_path": "data/images/questions/2021_common_main_physics_a28.webp"
   },
   {
     "id": "2021_common_main_physics_basic_a01",
@@ -12177,7 +12180,10 @@
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2019_center_main_physics_a05.webp"
+    ],
+    "image_path": "data/images/questions/2019_center_main_physics_a05.webp"
   },
   {
     "id": "2019_center_main_physics_a06",
@@ -12738,7 +12744,10 @@
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
     "notes": "出典: 東進 センター試験2019解答速報。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2019_center_main_physics_a22.webp"
+    ],
+    "image_path": "data/images/questions/2019_center_main_physics_a22.webp"
   },
   {
     "id": "2019_center_main_physics_a23",
@@ -12767,7 +12776,10 @@
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2019_center_main_physics_a23.webp"
+    ],
+    "image_path": "data/images/questions/2019_center_main_physics_a23.webp"
   },
   {
     "id": "2019_center_main_physics_a24",
@@ -12830,7 +12842,10 @@
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2019_center_main_physics_a25.webp"
+    ],
+    "image_path": "data/images/questions/2019_center_main_physics_a25.webp"
   },
   {
     "id": "2019_center_main_physics_basic_a01",
@@ -13605,7 +13620,10 @@
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2018_center_main_physics_a09.webp"
+    ],
+    "image_path": "data/images/questions/2018_center_main_physics_a09.webp"
   },
   {
     "id": "2018_center_main_physics_a10",
@@ -14142,7 +14160,10 @@
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2018_center_main_physics_a24.webp"
+    ],
+    "image_path": "data/images/questions/2018_center_main_physics_a24.webp"
   },
   {
     "id": "2018_center_main_physics_a25",
@@ -14209,7 +14230,10 @@
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2018_center_main_physics_a26.webp"
+    ],
+    "image_path": "data/images/questions/2018_center_main_physics_a26.webp"
   },
   {
     "id": "2018_center_main_physics_basic_a01",
@@ -14660,7 +14684,7 @@
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "4 3 @ ® 39 @ 9 @ 39 — 19:— (2107一19)",
+    "masked_problem_text": "物理基礎 問 4 KK, 図3 のように, 物体A の下部のひもを静かに放して物体を運動さ せた。物体A の加速度の大きさとして正しいものを, 下の10~720のうちか ョーフ選べ。[ ia | GY © A B© cS [9 図 3 2 (0) ye @ +a @ +9 @ a @ $9 @ +e @ 3¢ — 19 一 (2107—19)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -15375,7 +15399,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_a20.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_a20.webp"
   },
   {
     "id": "2017_center_main_physics_a21",
@@ -15438,7 +15465,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_a22.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_a22.webp"
   },
   {
     "id": "2017_center_main_physics_a23",
@@ -15505,7 +15535,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_a24.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_a24.webp"
   },
   {
     "id": "2017_center_main_physics_a25",
@@ -15536,7 +15569,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_a25.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_a25.webp"
   },
   {
     "id": "2017_center_main_physics_a26",
@@ -15568,7 +15604,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_a26.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_a26.webp"
   },
   {
     "id": "2017_center_main_physics_basic_a01",
@@ -16000,7 +16039,10 @@
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2017_center_main_physics_basic_a13.webp"
+    ],
+    "image_path": "data/images/questions/2017_center_main_physics_basic_a13.webp"
   },
   {
     "id": "2016_center_main_physics_a01",
@@ -16463,7 +16505,10 @@
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2016_center_main_physics_a14.webp"
+    ],
+    "image_path": "data/images/questions/2016_center_main_physics_a14.webp"
   },
   {
     "id": "2016_center_main_physics_a15",
@@ -16730,7 +16775,10 @@
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2016_center_main_physics_a22.webp"
+    ],
+    "image_path": "data/images/questions/2016_center_main_physics_a22.webp"
   },
   {
     "id": "2016_center_main_physics_a23",
@@ -16791,7 +16839,10 @@
     "notes": "出典: 東進 センター試験2016解答速報。",
     "common_summary": "光電効果、阻止電圧、光電流を扱う選択問題。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2016_center_main_physics_a24.webp"
+    ],
+    "image_path": "data/images/questions/2016_center_main_physics_a24.webp"
   },
   {
     "id": "2016_center_main_physics_basic_a01",
@@ -17189,7 +17240,10 @@
     "notes": "出典: 東進 センター試験2016解答速報。",
     "common_summary": "力学的エネルギー保存則と、鉛直投げ上げを扱う。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2016_center_main_physics_basic_a12.webp"
+    ],
+    "image_path": "data/images/questions/2016_center_main_physics_basic_a12.webp"
   },
   {
     "id": "2016_center_main_physics_basic_a13",
@@ -17941,7 +17995,10 @@
     "notes": "出典: 東進 センター試験2015解答速報。",
     "common_summary": "ラザフォード散乱、ボーアの原子模型、量子条件を扱う選択問題。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2015_center_main_physics_a22.webp"
+    ],
+    "image_path": "data/images/questions/2015_center_main_physics_a22.webp"
   },
   {
     "id": "2015_center_main_physics_a23",
@@ -18000,7 +18057,10 @@
     "notes": "出典: 東進 センター試験2015解答速報。",
     "common_summary": "ラザフォード散乱、ボーアの原子模型、量子条件を扱う選択問題。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2015_center_main_physics_a24.webp"
+    ],
+    "image_path": "data/images/questions/2015_center_main_physics_a24.webp"
   },
   {
     "id": "2015_center_main_physics_basic_a01",
@@ -18365,7 +18425,7 @@
     ],
     "common_summary": "ばねに働く力と仕事、斜面上の等加速度運動を扱う。",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "て 2を ーー ーー = © 九 © 2 ー14 一 (2607一14",
+    "masked_problem_text": "物理基礎 第 3 問 次の文章(A・B)を読み,.下の問い(問1 - 4)に答えよ。 (配点 15) A 図1のように, ばね定数 自然の長さ/のばねの両端を引いたところ. 自然 の長さからの伸びが x になり, 両端に加えた力の大きさは也になった。 図 1 問 1 伸び*を表す式として正しいものを, 次の0~-20のうちから一つ選べ。 F F 2F O a irs as @ 合 © ww © 2KF —4— (2607-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -18394,7 +18454,10 @@
     "summary_source_url": "https://www.toshin.com/center/2015/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2015_center_main_physics_basic_a12.webp"
+    ],
+    "image_path": "data/images/questions/2015_center_main_physics_basic_a12.webp"
   },
   {
     "id": "2015_center_main_physics_basic_a13",
@@ -20629,7 +20692,10 @@
     "notes": "出典: 東進 センター試験2012解答速報。",
     "common_summary": "弾性力、力学的エネルギー、摩擦、気体の状態変化を扱う大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2012_center_main_physics1_a21.webp"
+    ],
+    "image_path": "data/images/questions/2012_center_main_physics1_a21.webp"
   },
   {
     "id": "2012_center_main_physics1_a22",
@@ -21710,7 +21776,7 @@
     ],
     "common_summary": "電流・磁場・電磁誘導・回路に関する大問。",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "me10 = (2109—10) ーー (210911)",
+    "masked_problem_text": "物理『 第 2 問 次の文章(A・B)を読み, 下の問い(問1 4)に答えよ。 (解答番号| 1 |-| 6 pea a A 家庭で使われる交流の電気は, 発電所からの電気を変圧器(トランス) で何段階 か電圧を変えて送られている。このしくみと理由について考える。 FL 1 変圧器の 1 次コイルに 6600 V の交流電圧を加えたとき, 2次コイルには 100 V の交流電圧が生じた。 1 次コイル と 2 次コイルの巻き数の比はいくら か。最も適当なものを, 次の10~17のうちから一つ選べ。 1 次コイルの巻き数 : 2 次コイルの巻き数=| 1 | @ 1 : 4400 @ 1:66 人 1:81 @ 1:1 人 8.1:1 © 66:1 @ 4400: 1 —10— (2109—10) 物理 問 2 次の文間中の空欄| 2 | ・| 3 |に入る最も適当な数値,下の10ー 17のうちから一つずつ選べ。ただし, 同じものを練り返し選んでもよい。 ロコ 発電所で発電された交流の電気は変圧器により電圧を高くして, 送電線 を通して送られる。発電所から同じ電力を送るとき, 送電線に送り出す電圧 (送電電正) を mics ee, 送電線を流れる電計は| 2 laces. © の結果送電線の抵抗によって熱として失われる電力は | 3 |僅にな Be KIEL, 送電線の抵抗は変化しないものとする。 i a =o ® iw @ 語 @ Ta @ 1 © 71 © 10 @ 100 rath — (2109-1)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -22950,7 +23016,10 @@
     "notes": "出典: 東進 センター試験2009解答速報。",
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2009_center_main_physics1_a23.webp"
+    ],
+    "image_path": "data/images/questions/2009_center_main_physics1_a23.webp"
   },
   {
     "id": "2008_center_main_physics1_a01",
@@ -23708,7 +23777,10 @@
     "notes": "出典: 東進 センター試験2008解答速報。",
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2008_center_main_physics1_a24.webp"
+    ],
+    "image_path": "data/images/questions/2008_center_main_physics1_a24.webp"
   },
   {
     "id": "2007_center_main_physics1_a01",
@@ -24394,7 +24466,10 @@
     "notes": "出典: 東進 センター試験2007解答速報。",
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2007_center_main_physics1_a22.webp"
+    ],
+    "image_path": "data/images/questions/2007_center_main_physics1_a22.webp"
   },
   {
     "id": "2007_center_main_physics1_a23",
@@ -24453,7 +24528,10 @@
     "notes": "出典: 東進 センター試験2007解答速報。",
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2007_center_main_physics1_a24.webp"
+    ],
+    "image_path": "data/images/questions/2007_center_main_physics1_a24.webp"
   },
   {
     "id": "2006_center_main_physics1_a01",
@@ -24637,7 +24715,10 @@
     "pdf_path": "data/pdf/2006_center_main_physics1.pdf",
     "notes": "出典: JS日本の学校 センター試験過去問題。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2006_center_main_physics1_a06.webp"
+    ],
+    "image_path": "data/images/questions/2006_center_main_physics1_a06.webp"
   },
   {
     "id": "2006_center_main_physics1_a07",
@@ -24880,7 +24961,10 @@
     "notes": "出典: JS日本の学校 センター試験過去問題。",
     "common_summary": "波の性質、干渉、共鳴、音波に関する大問。",
     "problem_text_status": "pending-empty-ocr",
-    "image_status": "unavailable-small-crop"
+    "image_paths": [
+      "data/images/questions/2006_center_main_physics1_a14.webp"
+    ],
+    "image_path": "data/images/questions/2006_center_main_physics1_a14.webp"
   },
   {
     "id": "2006_center_main_physics1_a15",

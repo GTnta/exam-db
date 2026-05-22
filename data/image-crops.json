@@ -80,6 +80,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2006_center_main_physics1_a06",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "page": 5,
+    "pdf_page": 5,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2006_center_main_physics1_a06.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2006_center_main_physics1_a07",
     "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
     "page": 6,
@@ -187,6 +203,22 @@
       "height": 0.5
     },
     "output": "data/images/questions/2006_center_main_physics1_a13.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2006_center_main_physics1_a14",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "page": 11,
+    "pdf_page": 11,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2006_center_main_physics1_a14.webp",
     "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
@@ -720,6 +752,38 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2007_center_main_physics1_a22",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "page": 22,
+    "pdf_page": 24,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2007_center_main_physics1_a22.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2007_center_main_physics1_a24",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "page": 24,
+    "pdf_page": 24,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2007_center_main_physics1_a24.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2008_center_main_physics1_a01",
     "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
     "page": 1,
@@ -1120,6 +1184,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2008_center_main_physics1_a24",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "page": 24,
+    "pdf_page": 24,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2008_center_main_physics1_a24.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2009_center_main_physics1_a01",
     "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
     "page": 1,
@@ -1515,6 +1595,22 @@
       "height": 0.5
     },
     "output": "data/images/questions/2009_center_main_physics1_a21.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2009_center_main_physics1_a23",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "page": 26,
+    "pdf_page": 26,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2009_center_main_physics1_a23.webp",
     "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
@@ -2816,6 +2912,22 @@
     "note": "Auto split 3 question blocks on the same PDF page."
   },
   {
+    "question_id": "2012_center_main_physics1_a21",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "page": 21,
+    "pdf_page": 21,
+    "box": {
+      "x": 0.055,
+      "y": 0.6142,
+      "width": 0.89,
+      "height": 0.3458
+    },
+    "output": "data/images/questions/2012_center_main_physics1_a21.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 3 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2012_center_main_physics1_a19",
     "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
     "page": 20,
@@ -4000,6 +4112,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2015_center_main_physics_basic_a12",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "page": 16,
+    "pdf_page": 16,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2015_center_main_physics_basic_a12.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2015_center_main_physics_basic_a08",
     "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
     "page": 13,
@@ -4512,6 +4640,38 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2015_center_main_physics_a22",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "page": 27,
+    "pdf_page": 31,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2015_center_main_physics_a22.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2015_center_main_physics_a24",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "page": 31,
+    "pdf_page": 31,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2015_center_main_physics_a24.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2016_center_main_physics_basic_a01",
     "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
     "page": 1,
@@ -4684,6 +4844,22 @@
     },
     "output": "data/images/questions/2016_center_main_physics_basic_a09_p1.webp",
     "label": "1/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2016_center_main_physics_basic_a12",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "page": 14,
+    "pdf_page": 14,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2016_center_main_physics_basic_a12.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -5088,6 +5264,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2016_center_main_physics_a14",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "page": 20,
+    "pdf_page": 24,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2016_center_main_physics_a14.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2016_center_main_physics_a15",
     "source_pdf": "data/pdf/2016_center_main_physics.pdf",
     "page": 21,
@@ -5260,6 +5452,38 @@
     },
     "output": "data/images/questions/2016_center_main_physics_a23_p1.webp",
     "label": "1/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2016_center_main_physics_a22",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "page": 31,
+    "pdf_page": 35,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2016_center_main_physics_a22.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2016_center_main_physics_a24",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "page": 35,
+    "pdf_page": 35,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2016_center_main_physics_a24.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -5484,6 +5708,22 @@
     },
     "output": "data/images/questions/2017_center_main_physics_basic_a09_p2.webp",
     "label": "2/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2017_center_main_physics_basic_a13",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "page": 15,
+    "pdf_page": 15,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2017_center_main_physics_basic_a13.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -6048,6 +6288,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2017_center_main_physics_a20",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "page": 32,
+    "pdf_page": 36,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2017_center_main_physics_a20.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2017_center_main_physics_a21",
     "source_pdf": "data/pdf/2017_center_main_physics.pdf",
     "page": 33,
@@ -6078,6 +6334,70 @@
     "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2017_center_main_physics_a24",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "page": 38,
+    "pdf_page": 38,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2017_center_main_physics_a24.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2017_center_main_physics_a22",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "page": 35,
+    "pdf_page": 39,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.3458
+    },
+    "output": "data/images/questions/2017_center_main_physics_a22.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 3 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2017_center_main_physics_a25",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "page": 39,
+    "pdf_page": 39,
+    "box": {
+      "x": 0.055,
+      "y": 0.3058,
+      "width": 0.89,
+      "height": 0.3833
+    },
+    "output": "data/images/questions/2017_center_main_physics_a25.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 3 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2017_center_main_physics_a26",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "page": 39,
+    "pdf_page": 39,
+    "box": {
+      "x": 0.055,
+      "y": 0.6142,
+      "width": 0.89,
+      "height": 0.3458
+    },
+    "output": "data/images/questions/2017_center_main_physics_a26.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 3 question blocks on the same PDF page."
   },
   {
     "question_id": "2018_center_main_physics_basic_a01",
@@ -6672,6 +6992,22 @@
     "note": "Auto split 2 question blocks on the same PDF page."
   },
   {
+    "question_id": "2018_center_main_physics_a09",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "page": 14,
+    "pdf_page": 18,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2018_center_main_physics_a09.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
     "question_id": "2018_center_main_physics_a10",
     "source_pdf": "data/pdf/2018_center_main_physics.pdf",
     "page": 15,
@@ -7084,6 +7420,38 @@
     },
     "output": "data/images/questions/2018_center_main_physics_a25_p2.webp",
     "label": "2/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2018_center_main_physics_a24",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "page": 37,
+    "pdf_page": 41,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2018_center_main_physics_a24.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2018_center_main_physics_a26",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "page": 41,
+    "pdf_page": 41,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2018_center_main_physics_a26.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -7548,6 +7916,22 @@
     },
     "output": "data/images/questions/2019_center_main_physics_a04_p2.webp",
     "label": "2/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2019_center_main_physics_a05",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "page": 8,
+    "pdf_page": 12,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2019_center_main_physics_a05.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -8092,6 +8476,54 @@
     },
     "output": "data/images/questions/2019_center_main_physics_a24_p1.webp",
     "label": "1/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2019_center_main_physics_a22",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "page": 34,
+    "pdf_page": 38,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2019_center_main_physics_a22.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2019_center_main_physics_a23",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "page": 35,
+    "pdf_page": 39,
+    "box": {
+      "x": 0.055,
+      "y": 0.035,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2019_center_main_physics_a23.webp",
+    "label": "",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2019_center_main_physics_a25",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "page": 39,
+    "pdf_page": 39,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2019_center_main_physics_a25.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
@@ -10364,6 +10796,22 @@
     },
     "output": "data/images/questions/2021_common_main_physics_a24_p2.webp",
     "label": "2/2",
+    "status": "heuristic-vertical-split",
+    "note": "Auto split 2 question blocks on the same PDF page."
+  },
+  {
+    "question_id": "2021_common_main_physics_a28",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "page": 32,
+    "pdf_page": 32,
+    "box": {
+      "x": 0.055,
+      "y": 0.46,
+      "width": 0.89,
+      "height": 0.5
+    },
+    "output": "data/images/questions/2021_common_main_physics_a28.webp",
+    "label": "",
     "status": "heuristic-vertical-split",
     "note": "Auto split 2 question blocks on the same PDF page."
   },
