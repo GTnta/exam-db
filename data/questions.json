@@ -57,12 +57,11 @@
     "correct_rate": 81.57,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a02_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a02_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a02_p1.webp",
       "data/images/questions/2024_common_main_physics_a02_p2.webp"
     ],
     "masked_problem_text": "物 理 問 2 次の文章中の空欄 2 ・ 3 に入れる数値として最も適当なもの を,それぞれの直後の% &で囲んだ選択肢のうちから一つずつ選べ。 + , 太陽の中心部の温度は約1500万 K であり,そこには水素原子核やヘリウム 原子核が電子と結びつかずに存在している。その状態を,単原子分子理想気体 とみなすとき,太陽の中心部にあるヘリウム原子核'個あたりの運動エネル ギーの平均値は,温度300K の空気中に,単原子分子理想気体として存在す るヘリウム原子'個あたりの運動エネルギーの平均値の !! 2500 \" 5000\" / 0 約 2 '# 12500 $ 25000(倍となる。 / 0 -% 50000 & 125000. また,太陽の中心部で,水素原子核'個あたりの運動エネルギーの平均値 は,ヘリウム原子核'個あたりの運動エネルギーの平均値の ' ! /! \" ) 0 / 0 / ' 0 /\" ( 0 3 # $倍である。 )# ' * / 0 /$ ( 0 / 0 / -% ) 0 . ― 5 ― (2108―5) 物 理 問 3 次の文章中の空欄 ア ・ イ に入れる語句と式の組合せとして最も 適当なものを,後の!〜\"のうちから一つ選べ。 4 図$には,水,厚さ一定のガラス,空気の層を,光が屈折しながら進む 様 子 が 描 か れ て い る。水,ガ ラ ス,空 気 の 屈 折 率 を そ れ ぞ れ n,n′ ,n′′ ( n′> n > n′′ ,n′′=#)と す る と,水 と ガ ラ ス の 境 界 面 で の 屈 折 で は n sin θ = n′sin θ′の関係が成り立ち,ガラスと空気の境界面でも同様の関係 が成り立つ。図$の角度 θ がある角度 θ C を超えると,光は空気中に出てこな く な る。こ の と き,光 は ア の 境 界 面 で 全 反 射 し て お り,θ C は sin θ C = イ で与えられる。 水 ガラス 空気 n n′ n′′=1 θ′′ θ′ θ 図 $ ― 6 ― (2108―6)",
@@ -91,12 +90,11 @@
     "correct_rate": 22.43,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a03_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a03_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a03_p1.webp",
       "data/images/questions/2024_common_main_physics_a03_p2.webp"
     ],
     "masked_problem_text": "物 理 問 2 次の文章中の空欄 2 ・ 3 に入れる数値として最も適当なもの を,それぞれの直後の% &で囲んだ選択肢のうちから一つずつ選べ。 + , 太陽の中心部の温度は約1500万 K であり,そこには水素原子核やヘリウム 原子核が電子と結びつかずに存在している。その状態を,単原子分子理想気体 とみなすとき,太陽の中心部にあるヘリウム原子核'個あたりの運動エネル ギーの平均値は,温度300K の空気中に,単原子分子理想気体として存在す るヘリウム原子'個あたりの運動エネルギーの平均値の !! 2500 \" 5000\" / 0 約 2 '# 12500 $ 25000(倍となる。 / 0 -% 50000 & 125000. また,太陽の中心部で,水素原子核'個あたりの運動エネルギーの平均値 は,ヘリウム原子核'個あたりの運動エネルギーの平均値の ' ! /! \" ) 0 / 0 / ' 0 /\" ( 0 3 # $倍である。 )# ' * / 0 /$ ( 0 / 0 / -% ) 0 . ― 5 ― (2108―5) 物 理 問 3 次の文章中の空欄 ア ・ イ に入れる語句と式の組合せとして最も 適当なものを,後の!〜\"のうちから一つ選べ。 4 図$には,水,厚さ一定のガラス,空気の層を,光が屈折しながら進む 様 子 が 描 か れ て い る。水,ガ ラ ス,空 気 の 屈 折 率 を そ れ ぞ れ n,n′ ,n′′ ( n′> n > n′′ ,n′′=#)と す る と,水 と ガ ラ ス の 境 界 面 で の 屈 折 で は n sin θ = n′sin θ′の関係が成り立ち,ガラスと空気の境界面でも同様の関係 が成り立つ。図$の角度 θ がある角度 θ C を超えると,光は空気中に出てこな く な る。こ の と き,光 は ア の 境 界 面 で 全 反 射 し て お り,θ C は sin θ C = イ で与えられる。 水 ガラス 空気 n n′ n′′=1 θ′′ θ′ θ 図 $ ― 6 ― (2108―6)",
@@ -126,12 +124,11 @@
     "correct_rate": 38.03,
     "page": "6-7",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a04_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a04_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a04_p1.webp",
       "data/images/questions/2024_common_main_physics_a04_p2.webp",
       "data/images/questions/2024_common_main_physics_a04_p3.webp"
     ],
@@ -656,12 +653,11 @@
     "correct_rate": 74.64,
     "page": "22",
     "pdf_path": "data/pdf/2024_common_main_physics.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_a19_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_a19_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_a19_p1.webp",
       "data/images/questions/2024_common_main_physics_a19_p2.webp",
       "data/images/questions/2024_common_main_physics_a19_p3.webp"
     ],
@@ -833,12 +829,11 @@
     "correct_rate": 47.98,
     "page": "5",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a02_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a02_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a02_p1.webp",
       "data/images/questions/2024_common_main_physics_basic_a02_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 2 床に静止している質量 m の小物体に,大きさ F の一定の力を加え続けて, 小物体を鉛直上方に運動させた。この小物体が,床からの高さ h の点を通過 したときの,小物体の運動エネルギーを表す式として正しいものを,次の!〜 &のうちから一つ選べ。ただし,重力加速度の大きさを g とし,空気抵抗は 無視できるものとする。 2 ! ' \" mgh # Fh ( $ ( F − mg )h % ( F + mg )h & mF 2 ) ― 5 ― (2107―5) 物理基礎 問 3 モバイルバッテリーを直流電流で160秒間充電した。充電中の電流を電流計 で測ると1. 0A で一定であった。この充電の間に電流計を通過した電気量は, 電子何個分か。最も適当なものを,次の!〜&のうちから一つ選べ。ただし, 6×10−19 C とする。 電子'個あたりの電気量の大きさは1. 3 ! 1. 0×10−21 個 \" 2. 6×10−17 個 # 1. 0個 $ 1. 6×102 個 % 3. 9×1016 個 & 1. 0×1021 個 ― 6 ― (2107―6)",
@@ -868,12 +863,11 @@
     "correct_rate": 49.96,
     "page": "6",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a03_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a03_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a03_p1.webp",
       "data/images/questions/2024_common_main_physics_basic_a03_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 3 モバイルバッテリーを直流電流で160秒間充電した。充電中の電流を電流計 で測ると1. 0A で一定であった。この充電の間に電流計を通過した電気量は, 電子何個分か。最も適当なものを,次の!〜&のうちから一つ選べ。ただし, 6×10−19 C とする。 電子'個あたりの電気量の大きさは1. 3 ! 1. 0×10−21 個 \" 2. 6×10−17 個 # 1. 0個 $ 1. 6×102 個 % 3. 9×1016 個 & 1. 0×1021 個 ― 6 ― (2107―6) 物理基礎 問 4 白熱電球および LED 電球のエネルギー変換について考察した次の文章中の 空欄 ア ・ イ に入れる数値の組合せとして最も適当なものを,後の !〜(のうちから一つ選べ。 4 電球が消費する電力量のうち,光エネルギーとして放出される量が占める割 合を,電球の効率と呼ぶことにする。消費電力60W,効率10% の白熱電球 が)時間点灯する間に放出する光エネルギーは, ア Wh である。また, 同じ時間点灯する間に,この白熱電球と同じ大きさの光エネルギーを放出す る,消費電力15W の LED 電球の効率は, イ % と見積もられる。 ア イ ! 6. 0 40 \" 6. 0 60 # 22 40 $ 22 60 % 54 40 & 54 60 ' 600 40 ( 600 60 ― 7 ― (2107―7)",
@@ -1291,12 +1285,11 @@
     "correct_rate": 64.84,
     "page": "19",
     "pdf_path": "data/pdf/2024_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2024_common_main_physics_basic_a15_p1.webp",
+    "image_path": "data/images/questions/2024_common_main_physics_basic_a15_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2024/0321.pdf",
     "image_paths": [
-      "data/images/questions/2024_common_main_physics_basic_a15_p1.webp",
       "data/images/questions/2024_common_main_physics_basic_a15_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 4 (番目の方法として,「ピッ」という音を一定の間隔で'分間に300回出す装 置(電子式メトロノーム)を使い,次の手順で音の速さを測定した。 まず,A さんと B さんは,それぞれメトロノームを持って集まり,その場 所で二つのメトロノームから出る「ピッ」という音が同時に聞こえるようにし た。次に,一つのメトロノームを持った A さんが,もう一つのメトロノーム を持ってその場にとどまっている B さんから,ゆっくりと遠ざかっていっ た。すると,B さんには 「ピッ」という音がずれて聞こえるようになった。やが て,A さんが B さんから70m 離れたときに,再び B さんには二つのメトロ ノームから出る「ピッ」 という音が同時に聞こえた。この結果から求められる音 の速さとして最も適当なものを,次の!〜&のうちから一つ選べ。 15 ! 280m/s \" 300m/s # 340m/s $ 350m/s % 370m/s & 420m/s ― 19 ― (2107―19) 物理基礎 問 5 +番目の方法として,図)のような,水だめを上下させることでガラス管内 の空気の部分(以下,これを気柱と呼ぶ)の長さを調節できる装置を用いて,次 の手順で音の速さを測定した。 まず,ガラス管の上端の近くまで水面を上げた。次に,ガラス管の上で振動 数500Hz のおんさを鳴らし,水面を下げていき,気柱が共鳴する水面の位置 を測定した。このとき,気柱がはじめて共鳴したときの水面の位置と*回目に 共鳴したときの水面の位置は34cm 離れていた。この結果から求められる音 波の波長と,音の速さの組合せとして最も適当なものを,後の!〜(のうちか ら一つ選べ。 16 おんさ ガラス管 水だめ 水面 図 ) 波長〔m〕 音の速さ〔m/s〕 ! 0. 17 320 \" 0. 17 340 # 0. 34 320 $ 0. 34 340 % 0. 51 320 & 0. 51 340 ' 0. 68 320 ( 0. 68 340 ― 20 ― (2107―20)",
@@ -1469,12 +1462,11 @@
     "correct_rate": 15.5,
     "page": "76-77",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a03_p1.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a03_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a03_p1.webp",
       "data/images/questions/2025_common_main_physics_a03_p2.webp",
       "data/images/questions/2025_common_main_physics_a03_p3.webp"
     ],
@@ -1816,12 +1808,11 @@
     "correct_rate": 52.3,
     "page": "89-90",
     "pdf_path": "data/pdf/2025_common_main_physics.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_a13_p1.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_a13_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_a13_p1.webp",
       "data/images/questions/2025_common_main_physics_a13_p2.webp",
       "data/images/questions/2025_common_main_physics_a13_p3.webp",
       "data/images/questions/2025_common_main_physics_a13_p4.webp"
@@ -2402,12 +2393,11 @@
     "correct_rate": 74,
     "page": "8-9",
     "pdf_path": "data/pdf/2025_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_main_physics_basic_a106_p1.webp",
+    "image_path": "data/images/questions/2025_common_main_physics_basic_a106_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2025/0326_1.pdf",
     "image_paths": [
-      "data/images/questions/2025_common_main_physics_basic_a106_p1.webp",
       "data/images/questions/2025_common_main_physics_basic_a106_p2.webp"
     ],
     "masked_problem_text": "物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 ここで,M = M′と M < M′の二つの場合を考えよう。 問 1 まず M = M′のとき,二つのおもりに大きさ v0 の初速度を与え,鉛直方向 に等速直線運動をさせる。このとき,糸の張力の大きさ S を表す式として正 しいものを,次の!〜(のうちから一つ選べ。S = 105 ! ) \" Mg # *Mg $ +Mg Mv02 % Mv0 & *Mv0 ' ( Mv02 * 問 2 次に M < M′のとき,質量 M′のおもりが,はじめの位置から初速度)で距 離 h だけ落下したときの,おもりの速さを v とする。おもりの加速度の大き さ a を表す式として正しいものを,次の!〜%のうちから一つ選べ。 a= 106 v2 2v2 v2 ! \" # h h 2h 4v2 v2 $ % h 4h ― 9 ― (2605―9) 物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 加速度の大きさ a を,おもりの速さ v から求めるために,図'のような装置を 作成した。図'(のように,天井に固定された滑車にかけた糸の両端に,同じ質量 M のおもり A と B がついている。A を手で静止させ,B の上に小さな質量 m のお もり C をのせる。また,B の下には,透明なパイプがある。C の底面からパイプの 上端までの距離を h とする。A から静かに手をはなすと,B と C は一緒に落下を 始めた。 その後,図')のように,C はパイプ上端に接して止まり,B だけがパイプ内部 を等速度で距離 H だけ落下し床に達した。 天井 天井 おもり C おもり A m M おもり B おもり C h 透明な M H パイプ おもり A v 床 おもり B 床 図 ' 問 3 おもり C がパイプに接して止まってから,おもり B が床に達するまでの時 間を T とする。このとき,パイプ内部を落下する B の速さ v を表す式として 最も適当なものを,次の!〜&のうちから一つ選べ。v = 107 ! gT \" aT # 'gT $ 'aT H h % & T T ― 10 ― (2605―10)",
@@ -2980,10 +2970,9 @@
     "correct_rate": null,
     "page": "82",
     "pdf_path": "data/pdf/2025_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_a08_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_a08_p2.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_a08_p1.webp",
       "data/images/questions/2025_common_makeup_physics_a08_p2.webp"
     ],
     "masked_problem_text": "物 理 問 2 次の文章中の空欄 8 に入れる語句として最も適当なものを,後の!〜 $のうちから一つ選べ。 弾性衝突であることと運動量保存の法則から,質量 M が m に比べて非常に 大きいとき,衝突後の速度 V′,v′は V′≒ V, v′≒− v +&V となる。V > v >%なので,衝突後の B の速さ\"v′ !は,衝突前の B の速さ\"v! と比べて 8 。 ! 大きくなる \" 小さくなる # 変わらない $ 大きくも小さくもなりうる ― 82 ― (2705―82) 物 理 問 3 次の文章中の空欄 ウ ・ エ に入れる式と語句の組合せとして最も 適当なものを,後の!〜&のうちから一つ選べ。 9 図(における A,B の運動方向を x 軸にとる。A,B の衝突を,A が運動す る方向に速度 V で等速直線運動する観測者から見ると,図)のように,衝突 前の A は止まって見える。ここで,図)の右向きを x 軸の正の向きにとって い る。こ の 観 測 者 か ら 見 る と,衝 突 前 の A,B の 速 度 は,そ れ ぞ れ, U r = V − V =',u r = v − V,衝突後の速度は,それぞれ,U r′= V′− V, u r′= v′− V となる。質量 M が m に比べて非常に大きいと,衝突後の速度 U r′および u r′は, U r′≒', u r′≒ ウ で与えられ,衝突後の B の速度 u r′の向きは エ である。u r′≒ ウ は,固定されて動かない A に,B が弾性衝突すると考えれば理解できる。 M ur m B x A 図 ) ウ エ ! − ur x 軸の正の向き(右向き) \" − ur x 軸の負の向き(左向き) # − ur + V x 軸の正の向き(右向き) $ − ur + V x 軸の負の向き(左向き) % − u r +)V x 軸の正の向き(右向き) & − u r +)V x 軸の負の向き(左向き) ― 83 ― (2705―83)",
@@ -3768,10 +3757,9 @@
     "correct_rate": null,
     "page": "12",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a109_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a109_p2.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a109_p1.webp",
       "data/images/questions/2025_common_makeup_physics_basic_a109_p2.webp"
     ],
     "masked_problem_text": "物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 問 3 時刻1. 00s のときの,ブロックの速さとして最も適当なものを,次の!〜 &のうちから一つ選べ。 108 ! 0. 40m/s \" 0. 50m/s # 0. 60m/s $ 0. 70m/s % 0. 80m/s & 1. 0m/s 問 4 表'のデータから各時刻でのブロックの速さを求め,グラフを描いたとこ ろ,等加速度運動であることがわかった。この結果から,ブロックと水平面の 間にはたらく動摩擦力についてわかることは何か。最も適当なものを,次の !〜$のうちから一つ選べ。 109 ! 動摩擦力の大きさは,ブロックの速さによらず一定である。 \" 動摩擦力は,ブロックが速く動くほど小さくなる。 # 動摩擦力の大きさは,ブロックの加速度の大きさに比例する。 $ 動摩擦力の大きさは,常に最大摩擦力に等しい。 ― 13 ― (2705―13) 物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 問 5 次に,図$の装置で,ブロックを質量の等しいなめらかに動く台車 (力学台 車)に置き換えて(図%),台車を固定する。図$の装置と同じおもりを用い, 台車の固定を外す。台車が動き始めた時刻を#s とし,台車の位置を測定し た。台車の場合とブロックの場合(図$)の両方について,動き始めた点からの 距離の時間変化を示すグラフを描いた。そのグラフとして最も適当なものを, 後の!〜\"のうちから一つ選べ。 110 超音波センサー 台車 滑車 おもり 図 % ― 14 ― (2705―14)",
@@ -3801,10 +3789,9 @@
     "correct_rate": null,
     "page": "13-14",
     "pdf_path": "data/pdf/2025_common_makeup_physics_basic.pdf",
-    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a110_p1.webp",
+    "image_path": "data/images/questions/2025_common_makeup_physics_basic_a110_p2.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2025_common_makeup_physics_basic_a110_p1.webp",
       "data/images/questions/2025_common_makeup_physics_basic_a110_p2.webp"
     ],
     "masked_problem_text": "物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 問 5 次に,図$の装置で,ブロックを質量の等しいなめらかに動く台車 (力学台 車)に置き換えて(図%),台車を固定する。図$の装置と同じおもりを用い, 台車の固定を外す。台車が動き始めた時刻を#s とし,台車の位置を測定し た。台車の場合とブロックの場合(図$)の両方について,動き始めた点からの 距離の時間変化を示すグラフを描いた。そのグラフとして最も適当なものを, 後の!〜\"のうちから一つ選べ。 110 超音波センサー 台車 滑車 おもり 図 % ― 14 ― (2705―14) 物理基礎/化学基礎/生物基礎/地学基礎 出題範囲:物理基礎 Ǐ ǐ Ǒ 距離 台車 台車 台車 距離 距離 ブロック ブロック ブロック O O O 時間 時間 時間 ǒ Ǔ ǔ 台車 台車 台車 距離 距離 距離 ブロック ブロック ブロック O O O 時間 時間 時間 Ǖ 台車 距離 ブロック O 時間 ― 15 ― (2705―15)",
@@ -4095,10 +4082,9 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a04_p1.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a04_p2.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a04_p1.webp",
       "data/images/questions/2024_common_makeup_physics_a04_p2.webp",
       "data/images/questions/2024_common_makeup_physics_a04_p3.webp"
     ],
@@ -4592,10 +4578,9 @@
     "correct_rate": null,
     "page": "24-25",
     "pdf_path": "data/pdf/2024_common_makeup_physics.pdf",
-    "image_path": "data/images/questions/2024_common_makeup_physics_a19_p1.webp",
+    "image_path": "data/images/questions/2024_common_makeup_physics_a19_p2.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_a19_p1.webp",
       "data/images/questions/2024_common_makeup_physics_a19_p2.webp",
       "data/images/questions/2024_common_makeup_physics_a19_p3.webp"
     ],
@@ -4894,8 +4879,7 @@
     "image_path": "data/images/questions/2024_common_makeup_physics_basic_a06_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2024_common_makeup_physics_basic_a06_p1.webp",
-      "data/images/questions/2024_common_makeup_physics_basic_a06_p2.webp"
+      "data/images/questions/2024_common_makeup_physics_basic_a06_p1.webp"
     ],
     "masked_problem_text": "物理基礎 問 2 時刻 t での小球 A の位置 y A と小球 B の位置 y B の差 y A − y B と,時刻 t の 関係を表すグラフとして最も適当なものを,次の!〜\"のうちから一つ選 べ。 6 Ǐ ǐ yA − yB yA − yB O t O t Ǒ ǒ yA − yB yA − yB O t O t ― 11 ― (2207―11) 物理基礎 B 平らな板と物体の間にはたらく摩擦力について考える。 問 3 図'に示すように,板の上に物体を置き,板をゆっくりと傾けていった。 板と水平面のなす角度 θ が θ c を超えたとき,物体は板の上をすべり始め た。物体と板の間の静止摩擦係数を表す式として正しいものを,後の!〜& のうちから一つ選べ。 7 平らな板 θ 図 ' ! sin θ c \" cos θ c # tan θ c $ sin θ c + cos θ c % sin θ c − cos θ c & cos θ c − sin θ c ― 12 ― (2207―12)",
     "problem_text_status": "pdftotext-page-text",
@@ -5897,12 +5881,11 @@
     "correct_rate": 70.74,
     "page": "22",
     "pdf_path": "data/pdf/2023_common_main_physics.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_a18_p1.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_a18_p2.webp",
     "notes": "4または5を解答した場合は1点。",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_a18_p1.webp",
       "data/images/questions/2023_common_main_physics_a18_p2.webp"
     ],
     "masked_problem_text": "物 理 問 3 音 源 が 点 A,点 B を 通 過 し た と き に 出 し た 音 を観測者が測定したとこ ろ,振動数はそれぞれ f A,f B であった。f A と音源の速さ v を表す式の組合せ として正しいものを,次の!〜&のうちから一つ選べ。 18 ! \" # $ % & V+v V+v V V fA f0 f0 f0 f0 f0 f0 V V V−v V−v fB fA − fB fB fA − fB fB fA − fB v V V V V V V fA fA + fB fA fA + fB fA fA + fB ― 23 ― (2608―23) 物 理 次に,音源と観測者を入れかえた場合を考える。図&に示すように,音源を点 Q の位置に固定し,観測者が点 O を中心に時計回りに等速円運動をする。 観測者 A r D Q O C 音源 B 図 & 問 4 このとき,等速円運動をする観測者が測定する音の振動数についての記述と して最も適当なものを,次の!〜%のうちから一つ選べ。 19 ! 点 A において最も大きく,点 B において最も小さい。 \" 点 B において最も大きく,点 A において最も小さい。 # 点 C において最も大きく,点 D において最も小さい。 $ 点 D において最も大きく,点 C において最も小さい。 % 観測の位置によらず,常に等しい。 ― 24 ― (2608―24)",
@@ -6386,12 +6369,11 @@
     "correct_rate": 54.28,
     "page": "9",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a06_p1.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a06_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a06_p1.webp",
       "data/images/questions/2023_common_main_physics_basic_a06_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 2 鉛直方向の運動だけを考えよう。このとき,小球の鉛直下向きの速さ v と時 刻 t の関係を表すグラフとして最も適当なものを,次の!〜\"のうちから一つ 選べ。 6 Ǐ ǐ v v O O t t Ǒ ǒ v v O O t t ― 9 ― (2607―9) 物理基礎 問 3 次の文章中の空欄 7 ・ 8 に入れる記述として最も適当なもの を,それぞれの直後の# $で囲んだ選択肢のうちから一つずつ選べ。 ' ( 図%の水平投射の実験を実験ア,初速度の大きさを実験アより大きくして水 平投射させた実験を実験イ,初速度の大きさを実験アより小さくして水平投射 させた実験を実験ウとよぶ。同じ質量の三つの小球を使って実験ア,実験イ, 実験ウを同じ高さから同時に行い,三つの小球を水平な床に到達させた。この とき, !! 実験アの小球が最も早く \" + , +\" 実験イの小球が最も早く , 7 % &床に到達した。 +# 実験ウの小球が最も早く , + , )$ 実験ア,実験イ,実験ウの小球が同時に* また,床に到達したときの速さを比べると,力学的エネルギー保存の法則より, !! 実験アの小球の速さが最も大きい。 \" + , +\" 実験イの小球の速さが最も大きい。 , 8 % & +# 実験ウの小球の速さが最も大きい。 , + , )$ 実験ア,実験イ,実験ウの小球の速さはすべて等しい。* ― 10 ― (2607―10)",
@@ -6672,12 +6654,11 @@
     "correct_rate": 35.05,
     "page": "16-17",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a14_p1.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a14_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a14_p1.webp",
       "data/images/questions/2023_common_main_physics_basic_a14_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 3 次の文章中の空欄 14 ・ 15 に入れる値として最も適当なものを, それぞれの直後の# $で囲んだ選択肢のうちから一つずつ選べ。 ' ( 発電所から電力を送り出すとき,送電線の抵抗 r によって生じる電力損失 を小さく抑えたい。たとえば,この電力損失を10−6 倍にす (発熱による損失) !! 10−6 倍\" + , +\" 10−3 倍, るためには,I を 14 % &にすればよい。このとき,発電所か +# 103 倍, + , )$ 106 倍* !! 10−6 倍\" + , +\" 10−3 倍, ら同じ電力を送り出すためには,V を 15 % &にしなければ +# 103 倍, + , )$ 106 倍* ならない。 ― 17 ― (2607―17) 物理基礎 発電所で発電された交流の電圧は,変圧器によって異なる電圧に変換される。そ の電力は送電線によって遠方に送電される。図#は変圧器の基本構造の模式図であ る。 鉄心 V1 V2 N1 N2 一次コイル 二次コイル 図 # 問 4 次の文章中の空欄 ア ・ イ に入れる語句と式の組合せとして最も 適当なものを,後の!〜\"のうちから一つ選べ。 16 変圧器の一次コイルに交流電流を流すと,鉄心の中に変動する磁場(磁界)が 発生し, ア によって二次コイルに変動する電圧が発生する。 理想的な変圧器では,変圧器への入力電圧が V1 であるとき,変圧器からの 出力電圧 V2 は,一次コイルの巻き数を N1,二次コイルの巻き数を N2 とする と,V2 = イ で表される。 ― 18 ― (2607―18)",
@@ -6706,12 +6687,11 @@
     "correct_rate": 28.53,
     "page": "16-17",
     "pdf_path": "data/pdf/2023_common_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2023_common_main_physics_basic_a15_p1.webp",
+    "image_path": "data/images/questions/2023_common_main_physics_basic_a15_p2.webp",
     "notes": "",
     "correct_rate_source_name": "旺文社教育情報センター",
     "correct_rate_source_url": "https://eic.obunsha.co.jp/file/exam_info/2023/0701.pdf",
     "image_paths": [
-      "data/images/questions/2023_common_main_physics_basic_a15_p1.webp",
       "data/images/questions/2023_common_main_physics_basic_a15_p2.webp"
     ],
     "masked_problem_text": "物理基礎 問 3 次の文章中の空欄 14 ・ 15 に入れる値として最も適当なものを, それぞれの直後の# $で囲んだ選択肢のうちから一つずつ選べ。 ' ( 発電所から電力を送り出すとき,送電線の抵抗 r によって生じる電力損失 を小さく抑えたい。たとえば,この電力損失を10−6 倍にす (発熱による損失) !! 10−6 倍\" + , +\" 10−3 倍, るためには,I を 14 % &にすればよい。このとき,発電所か +# 103 倍, + , )$ 106 倍* !! 10−6 倍\" + , +\" 10−3 倍, ら同じ電力を送り出すためには,V を 15 % &にしなければ +# 103 倍, + , )$ 106 倍* ならない。 ― 17 ― (2607―17) 物理基礎 発電所で発電された交流の電圧は,変圧器によって異なる電圧に変換される。そ の電力は送電線によって遠方に送電される。図#は変圧器の基本構造の模式図であ る。 鉄心 V1 V2 N1 N2 一次コイル 二次コイル 図 # 問 4 次の文章中の空欄 ア ・ イ に入れる語句と式の組合せとして最も 適当なものを,後の!〜\"のうちから一つ選べ。 16 変圧器の一次コイルに交流電流を流すと,鉄心の中に変動する磁場(磁界)が 発生し, ア によって二次コイルに変動する電圧が発生する。 理想的な変圧器では,変圧器への入力電圧が V1 であるとき,変圧器からの 出力電圧 V2 は,一次コイルの巻き数を N1,二次コイルの巻き数を N2 とする と,V2 = イ で表される。 ― 18 ― (2607―18)",
@@ -7956,7 +7936,7 @@
       "data/images/questions/2022_common_main_physics_a02_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 (K & & A TM | 物理の試験問題は次に続く。 | 物 理 B2 次の文章中の空欄| 2 | に入れる選択肢として最も適当なものを, 次ペー ジの10~20のうちから一つ, 空欄| 3 | に入れる語句として, 最も適当なや のを, 直後の | | で著んだ選択用のうちから一つ選べ。 図 2のように, 垂直に矢印を組み合わせた形の光源とスクリーンを, 凸レ ンズの光軸上に配置したととろ, スクリーン上に光源の実像ができた。スク リーンは光電と垂直であり, F, F'はレンズの焦点である。スクリーンと光軸 の交点を座標の原点にして, スクリーンの水平方向に 軸をとり, レンズ側か ら見て右向きを正とし, 鉛直方向に 軸をとり上向きを正とする。光源の太い 矢印は 軸方向正の向き, 細い矢印はヶ 朝方向正の向きを向いている。このと - き, 鈴測者がレンズ側から見ると,。 スクリーン上の像は| 2 |でぁる。 次に図 3)のように, 光を通さない板でレンズの中心より上半分を通る光を 完全に追った。スクリーン上の像を観測すると, (10 BOy > 0 の部分が見えなぐなった。 は e BOy < 0 の部分が見えなくなった。 | (I) Ka DAP BES Fee",
+    "masked_problem_text": "物 理 (Fee Aw : 物理の試験問題は次に続く。 | 一s il — (2108一5) 物 理 問 2 次の文章中の空棚| 2 | に入れる選択肢として最も適当なものを, 次ペー ジの010~-920のうちから一つ, 空欄| 3 | に入れる語句として, 最も適当なや のを, 直後の | | で囲んだ選択肢のうちから一つ選べ。 図10のよう人, 亜直に矢印を組み合わせた形の光源とスクリーンを, 凸レ ンズの光軸上に配置したところ, スクリーン上に光源の実像ができた。スク リーンは光内と垂直であり, F, F'はレンズの焦点である。スクリーンと光電 の交京を座標の原点にして, スクリーンの水平方向にヶ軸をとり, レンズ側か ら見て有向きを正とし, 鉛直方向にッ軸をとり上向きを正とする。光源の太い 矢印は 軸方向正の向き, 細い矢印はヶ 電方向正の向きを向いている。とのと 、 き, 観測者がレンズ側から見ると, スクリーン上の像は| 2 | でぁる。 次に図 2 )のように, 光を通さない板でレンズの中心より上半分を遂る光を 完全に違ったを。スクリーン上の像を観滑すると」 O 像のヶッ> 0 の部分が見えなぐくなった。 ap BD y < 0 の部分が見えなくなった。 | 19 像の全体が吐くなった。 @ 像にはなにも変化がなかった。 = § 一 108-6)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -7989,7 +7969,7 @@
       "data/images/questions/2022_common_main_physics_a03_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー5ー (2108—5) 10 BO» > 0 の部分が見えなくなった。 は @ 像のヶ<0 の部分が見えなくなった。 8 像の全体が暗くなった。 @ 像にはなにも変化がなかった。 ー 5 一 (2108-6)",
+    "masked_problem_text": "物 理 (Fee Aw : 物理の試験問題は次に続く。 | 一s il — (2108一5) 物 理 問 2 次の文章中の空棚| 2 | に入れる選択肢として最も適当なものを, 次ペー ジの010~-920のうちから一つ, 空欄| 3 | に入れる語句として, 最も適当なや のを, 直後の | | で囲んだ選択肢のうちから一つ選べ。 図10のよう人, 亜直に矢印を組み合わせた形の光源とスクリーンを, 凸レ ンズの光軸上に配置したところ, スクリーン上に光源の実像ができた。スク リーンは光内と垂直であり, F, F'はレンズの焦点である。スクリーンと光電 の交京を座標の原点にして, スクリーンの水平方向にヶ軸をとり, レンズ側か ら見て有向きを正とし, 鉛直方向にッ軸をとり上向きを正とする。光源の太い 矢印は 軸方向正の向き, 細い矢印はヶ 電方向正の向きを向いている。とのと 、 き, 観測者がレンズ側から見ると, スクリーン上の像は| 2 | でぁる。 次に図 2 )のように, 光を通さない板でレンズの中心より上半分を遂る光を 完全に違ったを。スクリーン上の像を観滑すると」 O 像のヶッ> 0 の部分が見えなぐくなった。 ap BD y < 0 の部分が見えなくなった。 | 19 像の全体が吐くなった。 @ 像にはなにも変化がなかった。 = § 一 108-6)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8152,7 +8132,7 @@
       "data/images/questions/2022_common_main_physics_a08_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 第 2 問 物体の運動に関する探究の過程について, 後の問い(問1 6)に答えよ。 R30) A さんは, 買い物でショッピングカートを押したり引いたりしたときの経験か 5, [物体の連さは物体にはたらく力と物体の質量のみによって決まり, 。)ある時 刻の物体の速さゅは, その時刻に物体が受けている力の大きさ了に比例し. 物体 の質量 に反比例する] という仮説を立てた。A さんの仮説を開いたB さんは, こ の仮説は癌った思い込みだと思ったが, 科学的に反論するためには実験を行って確 かめることが必要であると考えた。 問1 下線部9の内容をヵ の関係として表したグラフとして最も適当なも DE, 次の10こ20のうちから一つ選べ。 | eine 物 理 BEAM, 水平な実験机上をなめらかに動く力学台車と,。ばねばかり. BED, mm 記録タイマー, 記録テープブからなる図 1 のような装置を準備した。そして, 物体に | 一定の力を加えた際の, 力の大きさや質量と物体の速さの関係を調べるために, 次 の 2 通りの実験を考えた。 [実験1】 いろいろな大きさのカカで力学台車を引く測定を繰り返し行い, HOKE さと速さの関係を調べる実験。 [実験2】 いろいろな質量のおもりを用いる測定を繰り返し行い。 WOMBLE さの関係を調べる実験。 おもりをのせた力学全車 - ばねばかり RRS TR 記録テーブ ee =o on 1 ce 図 1 日日 の なィゴイシッター しーッリー ル 本チュ和みカー)テースリュューーョ4 HH) たいとしか ーーー FRH の ケ ers",
+    "masked_problem_text": "物 理 第 2問 物体の運動に関する探究の過程について, 後の問い(問1 6)に答えよ。 (配点 30) A さんは, 買い物でショッピングカートを押したり引いたりしたときの経験か ら, [物体の速さは物体なはたらく力と物体の質量のみによって決まり, ある時 刻の物体の速さゅは, その時刻に物体が受けている力の大きさとに比例し, 物体 の質量 に反比例する] という仮説を立てた。A さんの仮説を聞いたB さんは, こ の仮説は誤った思い込みだと思ったが, 科学的に反論するためには実験を行って確 かめることが必要であると考えた。 問 1 下線部(の内容をヵ, 太 wの関係として表したグラフとして最も適当なも DE, 次の10こ9のうちから一つ選べ。 0) a mr @ ッ mR m 小 mts 0 F 0 F @? FR @? FR Fily Fijy O m 0 m —12— (2108—12) 物 理 B さんは. 水平な実験机上をなめらかに動く力学台車と,。 ばねばかり. BSD, 記録タイマー, 記録テーブからなる図 1 のような装置を準備した。そして, 物体に 0 一定のカを加えた際の, 力の大きさや質量と物体の速さの関係を調べるために, 次 区 の 2 通りの実験を考えた。 [実験1】 いろいろな大きさのでカ学台車を引く測定を繰り返し行い HOKE さと速さの関係を調べる実験 [実験2】 いろいろな質量のおもりを用いる測定を繰り返し行い物体の費量と速 さの関係を再べる実験 おもりをのせたカ学台車 RII ee ees FR oO es 図 1 問 2 【実験1]を行うときに必要な条件について説明した次の文章中の空棚 ・ | 5 | に入れる生句として最も適当なものを, それぞれの直後の | | で困んだ選択且のうちから一つずつ選べ。 それぞれの測定においては力学台車を一定の大きさの力で引くため, HEB 車を引いている間は, @ ばねばかりの目盛りが常に一定になる ‘ ばねばかりの目盛りが次第に増加していく | ようにする。 20 力学台車の速さが一定になる また, 各測定では O カ学台車を引く時間 ロコle 2ewdeepoaemlamrecrs @ カ学台車を引く距座 — 13 一 (2108一13)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8184,7 +8164,7 @@
       "data/images/questions/2022_common_main_physics_a09_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "Oo? mk @” mk 2 小 2 小 9 F 9 F 9” FR @”? FR Fi Fil O m 0 m ー 12 一 (2108一12) 図 1 問 2 【実験1】を行うときに必要な条件について説明した次の文章中の空欄 ・| 9 | に入れる語句として最も適当なものを, それぞれの直後の { で時んだ選択肢のうちから一つずつ選べ。 それぞれの測定においては力学台車を一定の大きさので引くため, WEB 事を引いている間は, (《10 ばねばかりの目盛りが常に一定になる ls ばねばかりの目克りが次第に増加していく | ようにする。 @20 力学台車の速さが一定になる Ke, 各測定では, 10 カ学台車を引く時間 5 | le 2redevehoael| を同じ値にする。 QO カ学台車を引く距離 ー18 一 (2108一13)",
+    "masked_problem_text": "物 理 第 2問 物体の運動に関する探究の過程について, 後の問い(問1 6)に答えよ。 (配点 30) A さんは, 買い物でショッピングカートを押したり引いたりしたときの経験か ら, [物体の速さは物体なはたらく力と物体の質量のみによって決まり, ある時 刻の物体の速さゅは, その時刻に物体が受けている力の大きさとに比例し, 物体 の質量 に反比例する] という仮説を立てた。A さんの仮説を聞いたB さんは, こ の仮説は誤った思い込みだと思ったが, 科学的に反論するためには実験を行って確 かめることが必要であると考えた。 問 1 下線部(の内容をヵ, 太 wの関係として表したグラフとして最も適当なも DE, 次の10こ9のうちから一つ選べ。 0) a mr @ ッ mR m 小 mts 0 F 0 F @? FR @? FR Fily Fijy O m 0 m —12— (2108—12) 物 理 B さんは. 水平な実験机上をなめらかに動く力学台車と,。 ばねばかり. BSD, 記録タイマー, 記録テーブからなる図 1 のような装置を準備した。そして, 物体に 0 一定のカを加えた際の, 力の大きさや質量と物体の速さの関係を調べるために, 次 区 の 2 通りの実験を考えた。 [実験1】 いろいろな大きさのでカ学台車を引く測定を繰り返し行い HOKE さと速さの関係を調べる実験 [実験2】 いろいろな質量のおもりを用いる測定を繰り返し行い物体の費量と速 さの関係を再べる実験 おもりをのせたカ学台車 RII ee ees FR oO es 図 1 問 2 【実験1]を行うときに必要な条件について説明した次の文章中の空棚 ・ | 5 | に入れる生句として最も適当なものを, それぞれの直後の | | で困んだ選択且のうちから一つずつ選べ。 それぞれの測定においては力学台車を一定の大きさの力で引くため, HEB 車を引いている間は, @ ばねばかりの目盛りが常に一定になる ‘ ばねばかりの目盛りが次第に増加していく | ようにする。 20 力学台車の速さが一定になる また, 各測定では O カ学台車を引く時間 ロコle 2ewdeepoaemlamrecrs @ カ学台車を引く距座 — 13 一 (2108一13)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8347,7 +8327,7 @@
       "data/images/questions/2022_common_main_physics_a14_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 問 1 このコイルとオシロスコープの組合せを, スピードメーターとして使うこと am ができる。 この人台車の運動を等束直線運動と仮定したとき, 図 2 から読み取れ る台車の速さを, 有効数字1桁求めるとどうなるか。次の式中の空欄 ・| 15 |] に入れる数字として最も適当なものを, 後の10こ10のうち から一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 Fxo Fle 7 QO 1 @ 2 @ 3 @ 4 @ 5 @ 6 9 ? 8 @ 9 Oa 間 2 この実験に関して述べた次の文章中の空欄| 16 | | 18 _ficAnsee として最も適当なものを, tnenortto { | で囲んだ選択肢のうちから ーつずつ選べ。 コイルに電磁誘導による電流が流れると, その電流による磁場は, 台車の速 [010 大きく< | 物 理 問 3 Aさんが, 条件を少し変えて実験してみたところ, 結果は図3 のように変 わった。 変更前 変更後 電圧(mV) GE (mV) eee ee 110 aan See Veen 3 A さんが加えた変更として最も適当なものを, 次の1ー人のうちから一つ選 べ。ただし, 選択肢に記述されている以外の変更は行わなかったものとする。 また, 磁石を追加した場合は, もとの磁石と同じものを使用したものとする。 Creal ] 物 理 (Fe a © EE 物理の試験問題は次に続く。",
+    "masked_problem_text": "物 理 問 1 このコイルとオシロスコープの組合せを, スピードメーターとして使うこと 了 ができる。この台車の運動を等速直線運動と仮定したとき, 図 2から読み取れ ue SHMOMSE, 有効数字1桁で求めるとどうなるか。次の式中の空村 | ・| 15 | に入れる数字として最も適当なものを, 後の010-10のうち から一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 meen , 0 1 . @ 2 @ 3 @ 4 人 5 © 6 @ 7 8 @ 9 © 6 ..・ 問 2 この実験に関して述べた次の文章中の空欄| 16 |~[ 18 | に入れる語色 として最も適当なものを, それぞれの直後の | | で囲んだ選択肢のうちから ーつずつ選べ。 コイルに電磁誘導による電流が流れると, その電流による磁場は, CHOW 10 大きく< 小さく | さきを| ie | ー する . 台車が近づくときは大きぐく, 遠ざかるときは小さく @ 台車が近づくときは小さく, 遼ざかるときは大きく 力を及ぼす。しかし, 実際の実験ではこのは小さいので, 台車の運動はほぼ 等速直線運動とみなしてよかった。力が小さい理由は, オシロスコーブの内部 10 小さいので, コイルを流れる電流が小さい se] : 小さいので, creamer ace 20 大きいので, コイルを流れる電流が小さい 20 大きいので, コイルを流れる電流が大きい る。 空気抵抗も台車の加速度に影響をなえると考えられるが, この実験では台車 _ 10 大きぃ が遅く, sscexonen | | | jor, ERLTLOW Q@ 無視できる Bhar. — 19 一 (2108一19) 物 理 問 3 Aさんが, 条件を少し変えて実験してみたところ, 結果は図 3のように変 わった。 変更前 変更後 EE (mv) 電圧(mV〕 100 トキキオキイ すす に 100 fon femfonff one fen o 上 EEE ‘SHR Es) bbe fet mac 図 3 A さんが加えた変更として最も適当なものを, 次の10~<のうちから一つ選 べ。ただし, 選択肢に記述されている以外の変更は行わなかったものとする。 また, 磁石を追加した場合は, もとの磁石と同じものを使用したものとする。 @ 台車の速さを2 倍にした。 人9 台車の速さを 2倍にした。 @ 台車につける磁石を のように 2 個つなげたものに交換した。 @ 台車につける磁石を のように 2 個をばねたものに交換した。 台車につける磁石を のように 2 個たばねたものに交換した。 — 20 一 (2108一20) 物 理 書 上 (Fee n® B 物理の試験問題は次に続く。 上 = 2h (2108-21)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8381,7 +8361,7 @@
       "data/images/questions/2022_common_main_physics_a15_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "コイルに電磁誘導による電流が流れると, その電流による磁場は, PHORM 10 大き< al _ : 20 台車が近づくときは大きく, 遠ざかるときは小さく @ 台車が近づくときは小さくぐ, 憶ざかるときは大きく 力を及ぼす。しかし, 実際の実験ではこのは小さいので, 台車の運動はほぼ 等速直線運動とみなしてよかった。力が小さい理由は, オシロスコープの内部 10 小さいので, コイルを流れる電流が小さい a wie rem ac 大きいので, コイルを流れる電流が小さい @ 大きいので, コイルを流れる電流が大きい る。 空気抵抗も台車の加速度に影響を与えると考えられるが, この実験では台車 、 _ 。 ° 大きい | が遅く, さらに台車の質量が| 18 | DC, 空気抵抗の影 @ 無視できる 響は小さい。 ー19 一 (2108一19) べ。ただし, 選択肢に記述されている以外の変更は行わなかったものとする。 また, 磁石を追加した場合は, もとの磁石と同じものを使用したものとする。 (0) 台車の速さをア2 倍にした。 @ .台車の速さを 2 倍にした。 Q 台車につける磁石を[の|逐|o妥| のように 2 個つなげたものに交換した。 @ 台車につける磁石を のように 2 個たとばねたものに交換した。 台車につける磁石を のように 2 個たをばねたものに交換した。 — 20 一 (2108—20) = 21 = (2108一21)",
+    "masked_problem_text": "物 理 問 1 このコイルとオシロスコープの組合せを, スピードメーターとして使うこと 了 ができる。この台車の運動を等速直線運動と仮定したとき, 図 2から読み取れ ue SHMOMSE, 有効数字1桁で求めるとどうなるか。次の式中の空村 | ・| 15 | に入れる数字として最も適当なものを, 後の010-10のうち から一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 meen , 0 1 . @ 2 @ 3 @ 4 人 5 © 6 @ 7 8 @ 9 © 6 ..・ 問 2 この実験に関して述べた次の文章中の空欄| 16 |~[ 18 | に入れる語色 として最も適当なものを, それぞれの直後の | | で囲んだ選択肢のうちから ーつずつ選べ。 コイルに電磁誘導による電流が流れると, その電流による磁場は, CHOW 10 大きく< 小さく | さきを| ie | ー する . 台車が近づくときは大きぐく, 遠ざかるときは小さく @ 台車が近づくときは小さく, 遼ざかるときは大きく 力を及ぼす。しかし, 実際の実験ではこのは小さいので, 台車の運動はほぼ 等速直線運動とみなしてよかった。力が小さい理由は, オシロスコーブの内部 10 小さいので, コイルを流れる電流が小さい se] : 小さいので, creamer ace 20 大きいので, コイルを流れる電流が小さい 20 大きいので, コイルを流れる電流が大きい る。 空気抵抗も台車の加速度に影響をなえると考えられるが, この実験では台車 _ 10 大きぃ が遅く, sscexonen | | | jor, ERLTLOW Q@ 無視できる Bhar. — 19 一 (2108一19) 物 理 問 3 Aさんが, 条件を少し変えて実験してみたところ, 結果は図 3のように変 わった。 変更前 変更後 EE (mv) 電圧(mV〕 100 トキキオキイ すす に 100 fon femfonff one fen o 上 EEE ‘SHR Es) bbe fet mac 図 3 A さんが加えた変更として最も適当なものを, 次の10~<のうちから一つ選 べ。ただし, 選択肢に記述されている以外の変更は行わなかったものとする。 また, 磁石を追加した場合は, もとの磁石と同じものを使用したものとする。 @ 台車の速さを2 倍にした。 人9 台車の速さを 2倍にした。 @ 台車につける磁石を のように 2 個つなげたものに交換した。 @ 台車につける磁石を のように 2 個をばねたものに交換した。 台車につける磁石を のように 2 個たばねたものに交換した。 — 20 一 (2108一20) 物 理 書 上 (Fee n® B 物理の試験問題は次に続く。 上 = 2h (2108-21)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8415,7 +8395,7 @@
       "data/images/questions/2022_common_main_physics_a16_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 - A さんは次に図4のようにコイルを三つに増やして実験をした。 ただし, a イルの巻き数はすべて等しく, コイルは等間隔に設置されている。 また, 台車 に取り付けた磁石は1 価である。 : - コイル1 コイル2 - コイル3 台車 RK Ry iN sei ff オシロスコープ - 物 理 問 4 B&AWA SALA じような装置を作り, -三つのコイルを用いて実験をし . re たところ, 図6 のように, AXAOMS と逢う結果になった。 ゴゴ Ne I ゴゴ7 fee に... 時間 物 理 AS A さんが図 7 のように実験装置を傾けて板の上に台車を静かに置くと, 台車 は板を外れることなくすべり降りた。 に pe た “Sf ff is 物 理 ry eae _ 直 Sect ee. Gee See",
+    "masked_problem_text": "物 理 . ; - A さんは次に図4 のようにコイルを三つに増やして実験をした。 ただし, コ イルの巻き数はすべて等しく, コイルは等間隔に設置されている。また, AH に取り付けた磁石は 1 個である。 E , コイル1 コイル2 コイル3 台車 し atm ()_. sf _ オシロスコープ a PB mae : , 図 4 実験結果は, 図5のようになった。 ae ag ms. ] ー22 一 @108一2) 物 理 M4 Bさんが信さんと同じような装置を作り, 三つのコイルを用いて実験をし ・ たとところ, 図6 のよう<, A さんの図 5 と違う結果になった。 ie . ーー| i ap ーー ガ mbt ei 9 -ト| elf リーー - 図 6 B さんの実験装置はA さんの実験装置とどのように人違っていたか。最も適 当なものを, 次の0このうちから一つ選べ。ただし, 選択肢に記述されてい る以外の倍いはなかったものとする。 、| zo | OQ コイル1 の巻数が半分であった。 20 コイル2, コイル 3 の巻数が半分であった。 - コイル1の巻き方が逆であった。 ] @ コイル2, コイル 3 の巻き方が逆であった。 - オシロスコープのプラスマイナスのつなぎ方が逆であった。 。. 9 ー 23 一 - (2108—23) 物 理 問 5 A さんが図 7 のように実験装置を傾けて板の上に台車を静かに置くと, 台車 は板を外れることなくすべり降りた。 ENE po ke か RS ffl) Ufc IP 1 このとき, オシロスコープで測定される電圧の時間変化を表すグラフの概形 として最も適当なものを, 次ページの011-人のうちから一つ選べ。 — 24 一 (2108—24) vs a",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8449,7 +8429,7 @@
       "data/images/questions/2022_common_main_physics_a17_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "オシロスコープ ・ spc.ga| gy 4 実験結果は, 図5 のようになった。 電圧 aad se ap cae a TT oo 時間 図 6 B さんの実験装置はA さんの実験装置とどのように逢っていたか。最も敵 - 当なものを, 次の10~このうちから一つ選べ。ただし, 選択肢に記述されてい る以外の違いはなかったものとする。 | 29 | 10 コイル1 の巻数が半分であった。 人 コイル2, コイル 3 の巻数が半分であった。 コイル 1 の巻き方が逆であった。 @ コイル2, コイル 3 の巻き方が逆であった。 人 オシロスコープのプラスマイナスのつなぎ方が逆であった。 図 7 このとき, オシロスコーブで清定される電圧の時間変化を表すグラフの概形 として最も適当なものを, 次ページの11~人のうちから一つ選べ。 TEEPE Rete 8 。 eine - 一 上時二村上上 。 eae - 8 cooler |",
+    "masked_problem_text": "物 理 . ; - A さんは次に図4 のようにコイルを三つに増やして実験をした。 ただし, コ イルの巻き数はすべて等しく, コイルは等間隔に設置されている。また, AH に取り付けた磁石は 1 個である。 E , コイル1 コイル2 コイル3 台車 し atm ()_. sf _ オシロスコープ a PB mae : , 図 4 実験結果は, 図5のようになった。 ae ag ms. ] ー22 一 @108一2) 物 理 M4 Bさんが信さんと同じような装置を作り, 三つのコイルを用いて実験をし ・ たとところ, 図6 のよう<, A さんの図 5 と違う結果になった。 ie . ーー| i ap ーー ガ mbt ei 9 -ト| elf リーー - 図 6 B さんの実験装置はA さんの実験装置とどのように人違っていたか。最も適 当なものを, 次の0このうちから一つ選べ。ただし, 選択肢に記述されてい る以外の倍いはなかったものとする。 、| zo | OQ コイル1 の巻数が半分であった。 20 コイル2, コイル 3 の巻数が半分であった。 - コイル1の巻き方が逆であった。 ] @ コイル2, コイル 3 の巻き方が逆であった。 - オシロスコープのプラスマイナスのつなぎ方が逆であった。 。. 9 ー 23 一 - (2108—23) 物 理 問 5 A さんが図 7 のように実験装置を傾けて板の上に台車を静かに置くと, 台車 は板を外れることなくすべり降りた。 ENE po ke か RS ffl) Ufc IP 1 このとき, オシロスコープで測定される電圧の時間変化を表すグラフの概形 として最も適当なものを, 次ページの011-人のうちから一つ選べ。 — 24 一 (2108—24) vs a",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8483,7 +8463,7 @@
       "data/images/questions/2022_common_main_physics_a18_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "coo PORE SPEER a vein | EER @ コイル?2, コイル 3 の巻き方が逆であった。 人 オシロスコープのプラスマイナスのつなぎ方が逆であった。 ーー ー 23 一 - (2108-28) ー24 一 (2108—24) 4 - pop | A A TO 9 LLLL し / 上 た| 上 | ie 9 イセルル上 を ー25 一 (2108一25)",
+    "masked_problem_text": "物 理 . ; - A さんは次に図4 のようにコイルを三つに増やして実験をした。 ただし, コ イルの巻き数はすべて等しく, コイルは等間隔に設置されている。また, AH に取り付けた磁石は 1 個である。 E , コイル1 コイル2 コイル3 台車 し atm ()_. sf _ オシロスコープ a PB mae : , 図 4 実験結果は, 図5のようになった。 ae ag ms. ] ー22 一 @108一2) 物 理 M4 Bさんが信さんと同じような装置を作り, 三つのコイルを用いて実験をし ・ たとところ, 図6 のよう<, A さんの図 5 と違う結果になった。 ie . ーー| i ap ーー ガ mbt ei 9 -ト| elf リーー - 図 6 B さんの実験装置はA さんの実験装置とどのように人違っていたか。最も適 当なものを, 次の0このうちから一つ選べ。ただし, 選択肢に記述されてい る以外の倍いはなかったものとする。 、| zo | OQ コイル1 の巻数が半分であった。 20 コイル2, コイル 3 の巻数が半分であった。 - コイル1の巻き方が逆であった。 ] @ コイル2, コイル 3 の巻き方が逆であった。 - オシロスコープのプラスマイナスのつなぎ方が逆であった。 。. 9 ー 23 一 - (2108—23) 物 理 問 5 A さんが図 7 のように実験装置を傾けて板の上に台車を静かに置くと, 台車 は板を外れることなくすべり降りた。 ENE po ke か RS ffl) Ufc IP 1 このとき, オシロスコープで測定される電圧の時間変化を表すグラフの概形 として最も適当なものを, 次ページの011-人のうちから一つ選べ。 — 24 一 (2108—24) vs a",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8703,11 +8683,10 @@
     "image_path": "data/images/questions/2022_common_main_physics_a25_p1.webp",
     "notes": "",
     "image_paths": [
-      "data/images/questions/2022_common_main_physics_a25_p1.webp",
-      "data/images/questions/2022_common_main_physics_a25_p2.webp"
+      "data/images/questions/2022_common_main_physics_a25_p1.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "円運動の向心力は陽子と電子の間にはたらく静電気力のみであるとする。量 FUE n(n = 1, 2 8 ...)とすると, ポーアの量子条件gy ニュラーは, 電子の円軌道の一周の長さが電子のド・ブロイ波の波長のぇ倍に等しいとす SEER (定常波) の条件と一致する。以上の関係から, ? を含まない式で水素 2 原子の電子の軌道半径ァを表すと。ァニーメー” となる。 この結果から, 量子条件を満たす電子のエネルギー (運動エネルギーと無限 遠を基準とした静電気力による位置エネルギーの和)ぢ。を計算すると, ニー 20k? X| 24 | と求められる。このを量子数ヶに対応する電子 のエネルギー準位という。 @ m= @ me 8 me? @ me! nh n*h nh? nh? -nh nh nh? nh? @ “me @ me @ me? me* — 28 一 (2108—28) — 29 一 (2108—29)",
+    "masked_problem_text": "円運動の向心力は陽子と電子の間にはたらく静電気力のみであるとする。量 FUE n(n = 1, 2 8 ...)とすると, ポーアの量子条件gy ニュラーは, 電子の円軌道の一周の長さが電子のド・ブロイ波の波長のぇ倍に等しいとす SEER (定常波) の条件と一致する。以上の関係から, ? を含まない式で水素 2 原子の電子の軌道半径ァを表すと。ァニーメー” となる。 この結果から, 量子条件を満たす電子のエネルギー (運動エネルギーと無限 遠を基準とした静電気力による位置エネルギーの和)ぢ。を計算すると, ニー 20k? X| 24 | と求められる。このを量子数ヶに対応する電子 のエネルギー準位という。 @ m= @ me 8 me? @ me! nh n*h nh? nh? -nh nh nh? nh? @ “me @ me @ me? me* — 28 一 (2108—28)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8964,7 +8943,7 @@
       "data/images/questions/2022_common_main_physics_basic_a08_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 第 2 問 火の文章(A ・B) を読み, 後の問い(問1 4)に答えよ。 (配点 16) A 容器に水と電熱線を入れて, 水の温度を上昇させる実験をした。ただし, 容器 かくはん と電熱線の温度上昇に使われる熱量, 指捧による熱の発生, 導線の抵抗, およ が, 外部への熱の放出は無視できるものとする。また, 電熟線の抵抗値は温度に よらず, 水の量も変化しないものとする。 - All 図1のように, 異なる 2 本の電熱線 A, B を直列に接続して, それぞれを 同じ量で同じ温度の水の中に入れた。 接続した電熱線の両端に電圧をかけて 水をゆっくりと提挫しながら, しばらくしてそれぞれの水の温度を測ったと ころ, 電熱線 A を入れた水の温度の方が高かった。 直流電源 . 物理基礎 問 2 図2のように, 別の異なる 2 本の電熱線 C, D を並列に接続して, それぞ e NEMCECHUEEOKOPICANE. 接続した電熱線の両端に電圧をか | けて水をゆっくりと携失しながら, しばらくしてそれぞれの水の温度を測っ 上 たところ, 電熱線Cを入れた水の温度の方が高かった。 直流電源 物理基礎 B ドライヤーで消費される電力を考える。ドライヤーの内部には, 図 3 のよう に, 電熱線とモーターがあり, 電熱線で加熱した空気をモーターについたファン で送り出している。 ドライヤーの乱熱線とモーターは, 100 V の交流電源に並列 に接続されている。ドライヤーを交流電源に接続してスイッチを入れると, ドラ イヤーからは温風が噴き出した。ただし, モーターと電熱線以外で消費される電 力は無視できるものとする。 ( BAR ツァツジ] モーター YP i スイッヂ",
+    "masked_problem_text": "物理基礎 第 2 問 火の文章(A・B)を読み, 後の問い(問1 4)に答えよ。 (配点 16) A 容器に水と電熟線を入れて, 水の温度を上昇させる実験をした。ただし, 容器 いくはん と電熱線の温度上昇に使われる熱長,擬挫による熱の発生, 導線の抵抗およ び, 外部への蒸の放出は無視できるものとする。また, 電熱線の抵抗値は温度に よらず, 水の量も変化しないものとする。 。 All 図1のように, 異なる 2 本の電熱線 A, B を直列に接続して, それぞれを 同じ量で同じ温度の水の中に入れた。接続した電熱線の両端に電圧をかけて 水をゆっくりと提挫しながら, しばらくしてそれぞれの水の温度を測ったと ころ, BMRA を入れた水の温度の方が高かった。 直流電源 : 図 1 とのとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の10こ20のうちから一つ選べ。 ア 電熱線A を流れる電流が電熱線 B を流れる電流より大きかった。 4 GARB の抵抗値が電熱線 A の抵抗値より大きかった ウ 電熱線A にかかる電圧が電熱線 B にかかる電圧より大きかった。 10 ァ @ ィ @» @ vert @ fey 人 アとゥ @ アとイとウ @ 正しいものはない =2— (2107—12) 物理基礎 問 2 図2のように, 別の異なる 2 本の電熱線C, D を並列に接続して, それぞ es れを同じ量で同じ温度の水の中に入れた。 接続した電熟線の両端に電圧をか | けて水をゆっくりと捜挫しながら, しばらくしてそれぞれの水の温度を測っ Et たところ, 電熱線Cを入れた水の温度の方が高かった。 直流電源 図 2 このとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の1こ20のうちから一っ選べ。| 6 | . ア 電府線Cを流れる電流が電熱線 D を流れる電流より大きかった。 イ TERS D の抵抗値が電熱線 Cの抵抗値より大きかった。 ウ 電熱線Cにかかる電圧が電熱線 D にかかる和電圧より大きかった。 10 ァ @ + @» @ rer @ tev © アとゥ @ アとイとウ © 正しいものはない 一3 な (2107一13) 物理基礎 B ドライヤーで消費される電力を考える。ドライヤーの内部には, 図 3 のよう に, 電熱線とモーターがあり, 電熱線で加熱した空気をモーターについたファン で送り出している。ドライヤーの和電熱線とモーターは, 100 V の交流電源に並列 に接続されている。ドライヤーを交流電源に接続してスイッチを入れると, ドラ イヤーからは温風が噴き出した。ただし, モーターと電熱線以外で消費される電 力は無視できるものとする。 ( 電熱線 6 : & ee NM i iS TA スイッチ | 交流電源へ 図 3 問 3 ドライヤー全体で消費されている電力 電熱線で消費されている電力 Pr モーターで消費されている電力 Pn の関係を表わす式として最も適当な ものを, 次の10~20のうちから一つ選べ。 (0) patio Pa @ P=P,=Pm Mp ole ] = ® >= Pt Ps @ P=Pr+Pm =14— (2107-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -8998,7 +8977,7 @@
       "data/images/questions/2022_common_main_physics_basic_a09_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "NUM | 0U BRB 図 1 とのとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の0このうちから一つ選べ。 ア 電熱線A を流れる電流が電熟線 B を流れる電流より大きかった。 イ 電熱線B の抵抗値が電熱線A の抵抗値より大きかった。 ウ 電熱線A にかかる電圧が電熱線 B にかかる電圧より大きかった。 @ 7 @ ィ @ ウゥ @ ver @ ren © アとゥ @ アとイとウ @ 正しいものはない — 12 一 (2107一12) wy 図 2 このとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の10このうちから一つ選べ。| 6 | . ア 電熱線C を流れる電流が電熱線 D を流れる電流より大きかった。 4 GRD の抵抗値が電熱線 C の抵抗値より大きかった。 ウ 電熱線Cにかかる電圧が電熱線 D にかかる和圧より大きかった。 10 ァ @ ィ @ ウゥ @ rer @ イとウ © アとウゥ (20 アとイとウ @20 正しいものはない デーB8 一 (2107一13) 交流電源へ 3 M3 ドライヤー全体で消費されている電力ア, BAM CHRSNTHSEH Pr, モーターで消費されている電力 P。 の関係を表わす式として最も適当な ものを, 次の10~こ20のうちから一つ選べ。 @ p= Ste @ P=P.=Pn トー 1 」 1 ] = O>-p tk @ P=Pit+Pn ー14 一 (2107—14)",
+    "masked_problem_text": "物理基礎 第 2 問 火の文章(A・B)を読み, 後の問い(問1 4)に答えよ。 (配点 16) A 容器に水と電熟線を入れて, 水の温度を上昇させる実験をした。ただし, 容器 いくはん と電熱線の温度上昇に使われる熱長,擬挫による熱の発生, 導線の抵抗およ び, 外部への蒸の放出は無視できるものとする。また, 電熱線の抵抗値は温度に よらず, 水の量も変化しないものとする。 。 All 図1のように, 異なる 2 本の電熱線 A, B を直列に接続して, それぞれを 同じ量で同じ温度の水の中に入れた。接続した電熱線の両端に電圧をかけて 水をゆっくりと提挫しながら, しばらくしてそれぞれの水の温度を測ったと ころ, BMRA を入れた水の温度の方が高かった。 直流電源 : 図 1 とのとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の10こ20のうちから一つ選べ。 ア 電熱線A を流れる電流が電熱線 B を流れる電流より大きかった。 4 GARB の抵抗値が電熱線 A の抵抗値より大きかった ウ 電熱線A にかかる電圧が電熱線 B にかかる電圧より大きかった。 10 ァ @ ィ @» @ vert @ fey 人 アとゥ @ アとイとウ @ 正しいものはない =2— (2107—12) 物理基礎 問 2 図2のように, 別の異なる 2 本の電熱線C, D を並列に接続して, それぞ es れを同じ量で同じ温度の水の中に入れた。 接続した電熟線の両端に電圧をか | けて水をゆっくりと捜挫しながら, しばらくしてそれぞれの水の温度を測っ Et たところ, 電熱線Cを入れた水の温度の方が高かった。 直流電源 図 2 このとき, 次のアーウの記述のうち正しいものをすべて選び出した組合せ として最も適当なものを, 後の1こ20のうちから一っ選べ。| 6 | . ア 電府線Cを流れる電流が電熱線 D を流れる電流より大きかった。 イ TERS D の抵抗値が電熱線 Cの抵抗値より大きかった。 ウ 電熱線Cにかかる電圧が電熱線 D にかかる和電圧より大きかった。 10 ァ @ + @» @ rer @ tev © アとゥ @ アとイとウ © 正しいものはない 一3 な (2107一13) 物理基礎 B ドライヤーで消費される電力を考える。ドライヤーの内部には, 図 3 のよう に, 電熱線とモーターがあり, 電熱線で加熱した空気をモーターについたファン で送り出している。ドライヤーの和電熱線とモーターは, 100 V の交流電源に並列 に接続されている。ドライヤーを交流電源に接続してスイッチを入れると, ドラ イヤーからは温風が噴き出した。ただし, モーターと電熱線以外で消費される電 力は無視できるものとする。 ( 電熱線 6 : & ee NM i iS TA スイッチ | 交流電源へ 図 3 問 3 ドライヤー全体で消費されている電力 電熱線で消費されている電力 Pr モーターで消費されている電力 Pn の関係を表わす式として最も適当な ものを, 次の10~20のうちから一つ選べ。 (0) patio Pa @ P=P,=Pm Mp ole ] = ® >= Pt Ps @ P=Pr+Pm =14— (2107-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9032,7 +9011,7 @@
       "data/images/questions/2022_common_main_physics_basic_a10_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 問 4 電熱線の抵抗値が 10 0 のドライヤーを 2 分間動かし続けるとき, 電熱線 z で消費される電力量は何]か。次の式中の空欄| 8 |・| 9 |に入れる | 数字として最も適当なものを, 次の10~20のうちから一つずつ選べ。ただ e L, 同じものを繰り返し選んでもよい。また, ドライヤーの電熱線の抵抗値 は, 温度によらず一定であるとする。電力量は, 交流電源の電圧を 100V と して直流の場合と同じように計算してよい。 10 1 @20 2 @ 3 @ 4 @ 5 © 6 @ 7 8 © 9 © 6 物理基礎 第 3 問 次の文章は, 演劇部の公演の一場面を記述したものである。 王女の発言は 科学的に正しいが, 細工師の発言は正しいとは限らないとして, 後の問い(問1~ 3)に答えよ。 (配点 18) 王女役と細工師役が, 図1 のスプーン A とスプーン B についての言い争いを演 じている。 王 女 細工師 7 バ し1 iy プープアニーヘレA ラープーホレや の 物理基礎 Bi 次の文章中の空欄| 10 | | 12 |に入れる語句として最も適当なもの を, それぞれの直後の | | で囲んだ選択肢のうちから一つずつ選べ。 | 王女はスプーン AL AT—Y BONA (ULSD EILRT SEDICKOK 験を行った。スプーン A とスプーンB を温度 60.0 でにして, SHENEE 度 20.0 での水 200.0g に入れたところ, 以下の温度で熱平街になった。ただ L, 熱のやりとりはスプーンと水の間だけで行われるとする。 ・スプーンA を水に入れた場合 : 20.6 で 。スプーン B を水に入れた場合 : 20.7 で 物理基礎 M2 次の文意中の空棚| 13 | | 1s |に入れる語句として最も適当なもの を, それぞれの直後の | | で囲んだ選択肢のうちから一つずっ選べ。 王 女: ならば, スプーンA とスプーン B の和欠度を比較すれば, スプーンB が純金製かどうかわかるはずです。 スプーンA とスプーン B を軽くて細いひもでつなぎ, 軽くてなめらかに回 転できる滑車にかけると, 空気中では, 図 2()のようにつりあって静止した。 次に, このままゆっくりとスプーンA とスプーンB を水中に入れたところ, 図 2 11》)のように, スプーン A が下がり容器の底についた。ただし, 空気によ",
+    "masked_problem_text": ": 物理基礎 問 4 電熱線の抵抗値が 10OQのドライヤーを 2 分間動かし続けるとき, 電熱線 ー で消費される電力量は何Jか。次の式中の空材| 8 | ・| 9 |に入れる 【 数字として最も適当なものを, 次の1011~こ0のうちから一つずつ選べ。ただ i し. 同じものを繰り返し選んでもよい。また, KI1TY-OBRMORHE は, 温度によらず一定であるとする。電力量は, 交流電源の電圧を 100 V と して直流の場合と同じように計算してよい。 コロ 10 1 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @20 9 @ 0 = — (2107—15) 物理基礎 第 3 問 次の文章は, 演劇部の公演の一場面を記述したものである。 王女の発言は 科学的に正しいが, 細工師の発言正しいとは限ちないとして, 後の問い(間1 ~ 3) に答えよ。 (配点 18) 王女役と細工師役が, 図1 のスプーン A とスプーン B についての言い人争いを演 じている。 王 女 細工師 Le (の スプーンA スプーンB りり 100.0g 100.0g ) > fe 1 7 Ma 9 - i [> 純金製 純金製か 庄光 4 1 E 女: ここに純金製のスプーン(スプーンA) と, あなたが作ったスプーン(ス プーン B) があります。どちらも質量は 100.0 g ですが, 色が少し異なっ ているように見え, スプーン Bは純金に銀が混ぜられているという噂が あります。 細工師: いえいえ, スプーン B は純金製です。純金製ではないという証拠を見せ てください。 EX, スプーン B が純金製か、銀が混ぜられたものかを判別するために, A プーン A と B の物理的な性質を実験で調べることにした。 —16— (2107—16) 物理基礎 1 次の文章中の空欄| 10 | | 12 |に入れる語句として最も適当なもの la を, それぞれの直後の | | で囲んだ選択肢のうちから一つずつ選べ。 1 王女はスプーン A とスプブーンBの比較(比欠容量) を比較するために次の実 験を行った。スプーン A とスプーンB を温度 60.0でにして, それぞれを温 度 20.0での水 200.0 g に入れたところ, 以下の温度で熱平衡になった。ただ し, 熱のやりとりはスプーンと水の間だけで行われるとする。 ・スブーン 4 を水に入れた場合 : 20.6 で ・スブーンB を水に入れた場合 : 20.7 で 王女: との結果からスプーンA とスプーンBの比熱は異なっており, ス 大きい ブーンB の方が比熱が| 10 | 隊 | ことがわかります。 @ 小さぃ ですから, スプーン B は純金製ではありません ! MLM: : いえいえ, この実験で温度の違いが 0.1 C というのは, 同じ温度の ようなものです。どちらも純金製ですよ。 細工師の主張に対して, もしこの実験における水量を 10 2 ff にしていれば. あるいは, 水に入れる前のスプーンと @ 半分 10 大き< 水の温度差を| 12 | していれば, 実験結果の温度の人違いをよ @ was り大きくできたであろう。しかし, 王女はそこまでは気が付かなかった。 =f = (2107一17) 物理基礎 問 2 次の文章中の空棚| 13 | | 15 |に入れる語句として最も適当なもの を, それぞれの直後の | | で囲んだ選択肢のうちから一つずっ選べ。 王女:ならば, スプーンA とスプーンBの密度を比較すれば, スプーンB が純金製かどうかわかるはずです。 スプブーン4 とスプーンを軽くて細いひもでつなぎ, 軽くてなめらかに回 転できる消車にかけると, 空気中では, 図 2(1)のようにつりあって静止した。 KK, このままゆっくりとスプーン A とスプーンB を水中に入れたとところ, 図 0のように, スプーン4 が下がり容器の底についた。ただし, 空気によ る洋力は無視できるものとする。 i) ti) ee oe ae 6 60 SN AS ペデージンジA APB SGS eR 図 2 . = 18S (2107一18)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9066,7 +9045,7 @@
       "data/images/questions/2022_common_main_physics_basic_a11_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "10 1 @20 2 @ 3 @ 4 @ 5 @ e @ 7 @ 8 © 9 @ 0 xr zz id LBD N F グ m i スプーンA スプーンB ih 100.0g 100.0g Vie AGED ff に % 時ん っ Lary) に 純金製 純金製か? 7 2 1 王女:ことに純金製のスプーン(スプーン4A) と, あなたが作ったスプーン(ス プブーン B) があります。どちらもゃ質量は 100.0 g ですが, 色が少し異なっ ているように見え, スプーンBは純金に銀が混ぜられているという噂が あります。 ・スプーン4A を水に入れた場合 : 20.6 で ・スプーン B を水に入れた場合 : 20.7 で 王 KR: この結果からスプーンAとスプーンBの比熱は異なっており, ス 10 xen ブーンB の方が比熱が| 10 | ことがわかります。 20 maw ですから, スプーン B は純金製ではありません! MLM: : いえいえ, この実験で温度の違いが 0.1 て というのは, 同じ温度の ようなものです。どちらも純金抽ですよ。 細工師の主張に対して, もしこの実験における水の量を ェーー人0 28) —.. 2... 転できる滑車にかけると, 空気中では, 図 2(1)のようにつりあって静止した。 次に, このままゆっくりとスプーン A とスプーンB を水中に入れたところ, 図2のように, スプーン A が下がり容器の底についた。ただし, 空気によ る浮力は無視できるものとする。 (i) (ii) ® a 7 7 eee 9 6 Sea スプーンA スプーンB ーーーーー Re resin ns 図 2 -",
+    "masked_problem_text": ": 物理基礎 問 4 電熱線の抵抗値が 10OQのドライヤーを 2 分間動かし続けるとき, 電熱線 ー で消費される電力量は何Jか。次の式中の空材| 8 | ・| 9 |に入れる 【 数字として最も適当なものを, 次の1011~こ0のうちから一つずつ選べ。ただ i し. 同じものを繰り返し選んでもよい。また, KI1TY-OBRMORHE は, 温度によらず一定であるとする。電力量は, 交流電源の電圧を 100 V と して直流の場合と同じように計算してよい。 コロ 10 1 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @20 9 @ 0 = — (2107—15) 物理基礎 第 3 問 次の文章は, 演劇部の公演の一場面を記述したものである。 王女の発言は 科学的に正しいが, 細工師の発言正しいとは限ちないとして, 後の問い(間1 ~ 3) に答えよ。 (配点 18) 王女役と細工師役が, 図1 のスプーン A とスプーン B についての言い人争いを演 じている。 王 女 細工師 Le (の スプーンA スプーンB りり 100.0g 100.0g ) > fe 1 7 Ma 9 - i [> 純金製 純金製か 庄光 4 1 E 女: ここに純金製のスプーン(スプーンA) と, あなたが作ったスプーン(ス プーン B) があります。どちらも質量は 100.0 g ですが, 色が少し異なっ ているように見え, スプーン Bは純金に銀が混ぜられているという噂が あります。 細工師: いえいえ, スプーン B は純金製です。純金製ではないという証拠を見せ てください。 EX, スプーン B が純金製か、銀が混ぜられたものかを判別するために, A プーン A と B の物理的な性質を実験で調べることにした。 —16— (2107—16) 物理基礎 1 次の文章中の空欄| 10 | | 12 |に入れる語句として最も適当なもの la を, それぞれの直後の | | で囲んだ選択肢のうちから一つずつ選べ。 1 王女はスプーン A とスプブーンBの比較(比欠容量) を比較するために次の実 験を行った。スプーン A とスプーンB を温度 60.0でにして, それぞれを温 度 20.0での水 200.0 g に入れたところ, 以下の温度で熱平衡になった。ただ し, 熱のやりとりはスプーンと水の間だけで行われるとする。 ・スブーン 4 を水に入れた場合 : 20.6 で ・スブーンB を水に入れた場合 : 20.7 で 王女: との結果からスプーンA とスプーンBの比熱は異なっており, ス 大きい ブーンB の方が比熱が| 10 | 隊 | ことがわかります。 @ 小さぃ ですから, スプーン B は純金製ではありません ! MLM: : いえいえ, この実験で温度の違いが 0.1 C というのは, 同じ温度の ようなものです。どちらも純金製ですよ。 細工師の主張に対して, もしこの実験における水量を 10 2 ff にしていれば. あるいは, 水に入れる前のスプーンと @ 半分 10 大き< 水の温度差を| 12 | していれば, 実験結果の温度の人違いをよ @ was り大きくできたであろう。しかし, 王女はそこまでは気が付かなかった。 =f = (2107一17) 物理基礎 問 2 次の文章中の空棚| 13 | | 15 |に入れる語句として最も適当なもの を, それぞれの直後の | | で囲んだ選択肢のうちから一つずっ選べ。 王女:ならば, スプーンA とスプーンBの密度を比較すれば, スプーンB が純金製かどうかわかるはずです。 スプブーン4 とスプーンを軽くて細いひもでつなぎ, 軽くてなめらかに回 転できる消車にかけると, 空気中では, 図 2(1)のようにつりあって静止した。 KK, このままゆっくりとスプーン A とスプーンB を水中に入れたとところ, 図 0のように, スプーン4 が下がり容器の底についた。ただし, 空気によ る洋力は無視できるものとする。 i) ti) ee oe ae 6 60 SN AS ペデージンジA APB SGS eR 図 2 . = 18S (2107一18)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9100,7 +9079,7 @@
       "data/images/questions/2022_common_main_physics_basic_a12_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "= 15}— (2107—15) マブパーブロブレラュープペレーツ DAP SIZ I RAG AL OO US GT あります。 細工師 : いえいえ, スプーン B は純金製です。純金製ではないという証拠を見せ てください。 EX, スプーン B が純金製か, 銀が混ぜられたものかを判別するために, ス プーンA とBの物理的な性質を実験で調べることにした。 一 16-— (2107一16) 細工訪の主張に対して, もしこの実験における水の量を 10 2 tf にしていれば. あるいは. 水に入れる前のスプーンと @ 半分 10 大きく 水の温度差を| 12 | していれば, 実験結果の温度の違いをよ @ 小さ< り大きくできたであろう。しかし, 王女はそこまでは気が付かなかった。 — =n (2107一17) 0 6 eel | ヌメプーシA スプーンB aye ti igudee Sie ais 図 2 — 18 一 (2107—18)",
+    "masked_problem_text": ": 物理基礎 問 4 電熱線の抵抗値が 10OQのドライヤーを 2 分間動かし続けるとき, 電熱線 ー で消費される電力量は何Jか。次の式中の空材| 8 | ・| 9 |に入れる 【 数字として最も適当なものを, 次の1011~こ0のうちから一つずつ選べ。ただ i し. 同じものを繰り返し選んでもよい。また, KI1TY-OBRMORHE は, 温度によらず一定であるとする。電力量は, 交流電源の電圧を 100 V と して直流の場合と同じように計算してよい。 コロ 10 1 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @20 9 @ 0 = — (2107—15) 物理基礎 第 3 問 次の文章は, 演劇部の公演の一場面を記述したものである。 王女の発言は 科学的に正しいが, 細工師の発言正しいとは限ちないとして, 後の問い(間1 ~ 3) に答えよ。 (配点 18) 王女役と細工師役が, 図1 のスプーン A とスプーン B についての言い人争いを演 じている。 王 女 細工師 Le (の スプーンA スプーンB りり 100.0g 100.0g ) > fe 1 7 Ma 9 - i [> 純金製 純金製か 庄光 4 1 E 女: ここに純金製のスプーン(スプーンA) と, あなたが作ったスプーン(ス プーン B) があります。どちらも質量は 100.0 g ですが, 色が少し異なっ ているように見え, スプーン Bは純金に銀が混ぜられているという噂が あります。 細工師: いえいえ, スプーン B は純金製です。純金製ではないという証拠を見せ てください。 EX, スプーン B が純金製か、銀が混ぜられたものかを判別するために, A プーン A と B の物理的な性質を実験で調べることにした。 —16— (2107—16) 物理基礎 1 次の文章中の空欄| 10 | | 12 |に入れる語句として最も適当なもの la を, それぞれの直後の | | で囲んだ選択肢のうちから一つずつ選べ。 1 王女はスプーン A とスプブーンBの比較(比欠容量) を比較するために次の実 験を行った。スプーン A とスプーンB を温度 60.0でにして, それぞれを温 度 20.0での水 200.0 g に入れたところ, 以下の温度で熱平衡になった。ただ し, 熱のやりとりはスプーンと水の間だけで行われるとする。 ・スブーン 4 を水に入れた場合 : 20.6 で ・スブーンB を水に入れた場合 : 20.7 で 王女: との結果からスプーンA とスプーンBの比熱は異なっており, ス 大きい ブーンB の方が比熱が| 10 | 隊 | ことがわかります。 @ 小さぃ ですから, スプーン B は純金製ではありません ! MLM: : いえいえ, この実験で温度の違いが 0.1 C というのは, 同じ温度の ようなものです。どちらも純金製ですよ。 細工師の主張に対して, もしこの実験における水量を 10 2 ff にしていれば. あるいは, 水に入れる前のスプーンと @ 半分 10 大き< 水の温度差を| 12 | していれば, 実験結果の温度の人違いをよ @ was り大きくできたであろう。しかし, 王女はそこまでは気が付かなかった。 =f = (2107一17) 物理基礎 問 2 次の文章中の空棚| 13 | | 15 |に入れる語句として最も適当なもの を, それぞれの直後の | | で囲んだ選択肢のうちから一つずっ選べ。 王女:ならば, スプーンA とスプーンBの密度を比較すれば, スプーンB が純金製かどうかわかるはずです。 スプブーン4 とスプーンを軽くて細いひもでつなぎ, 軽くてなめらかに回 転できる消車にかけると, 空気中では, 図 2(1)のようにつりあって静止した。 KK, このままゆっくりとスプーン A とスプーンB を水中に入れたとところ, 図 0のように, スプーン4 が下がり容器の底についた。ただし, 空気によ る洋力は無視できるものとする。 i) ti) ee oe ae 6 60 SN AS ペデージンジA APB SGS eR 図 2 . = 18S (2107一18)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9133,7 +9112,7 @@
       "data/images/questions/2022_common_main_physics_basic_a13_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 王 女: スプーンを水中に入れたとき, 図 2 0のようになった理由は, スプー ン B にはたらく重力の大きさは, スプーン A にはたらく重力の大き | 10 よりも大きく, き| 3 | 1@ よりも小さ<, A と同じであり 物理基礎 Hs 次の文章中の空棚| 16 | ・| 17 |に入れるものとして最も適当なもの を, 直後の| | で囲んだ選択肢のうちから一つずつ選べ。 王女:ならば, スプーンA とスプーンB の電気抵抗を測定して, さらに はっきりと判別してみせましょう。 物理基礎 王 女:図3の結果を見てみなさい。 針金Aと針金Bの電気抵抗はまっ たく違います。この結果から, 針金Bの電気抵抗々はおよそ @ 41x10-!o @ 2.42 であることがわかります。また, そ Q 410",
+    "masked_problem_text": "物理基礎 王女: スプーンを水中に入れたとき, 図 20のようになった理由は, スプー ン B にはたらく重力の大きさは, スプーン A にはたらく重力の大き | @ よりも大きく, き| 3 | 1@ よりも小さ<, @ と同じであり, スプブーン B にはたらく浮力の大きさは, スプーン A にはたらく浮力 10 よりや大きい の大きさ| 14 |] 1@ よりも小さい| ためです。 @ と同じである このことから, スプーンBの体積はスプーンA の体積よりも 10 大きく, スブーン4 とスプーンBの密度が違うこ @ 小さく, エがわかのり 生計- 物理基礎 Bs 次の文章中の空欄| 16 | ・ に入れるものとして最も適当なもの を, 直後の| | で囲んだ選択肢のうちから一つずつ選べ。 王女 :ならば, スプーンA とスプーン Bの電気抵抗を測定して, さらに はっきりと判別してみせましょう。 王女はスプーン A から針金 A を, スプーン Bから針金 B を, 形状がいずれ も 断面積 = 2.0 X 1078 m? 長 さ 7/=1.0m となるように作製した。この針金の両端に電極をとりつけ, 両端の電圧と 流れた電流7の関係を調べた。彼線を針金A, 実線を針金8として, TOK 験結果を図 3 に示す。 1.4) oy 1 日 昌 物理基礎 王 女:図3の結果を見てみなさい。針金Aと針金Bの電気抵抗はまっ たく違います。この結果から, 針金Bの電気抵抗々はおよそ : @ 41x 107'2 @ 2.42 であることがわかります。また, そ @ 412 @ 2.4x10'9 の抵抗率 &, 。 EROMOB HX -il 10 e= Rs a si, pa |用いて求めると, その仁は資料集に Q@ 。 =がで @ 。=*二",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9166,7 +9145,7 @@
       "data/images/questions/2022_common_main_physics_basic_a14_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "‘Tz]e よりも小さく, | @ と同じであり, スプーン B にはたらく浮力の大きさは, スプーン A にはたらく浮力 @ よりも大きい の大きさ| 14 |] 1@ よりも小さい| ためです。 @ と同じである とのことから, スプーンBの体積はスプーンAの体積よりも Haid, スプブーンムとスプーンBの電気抵抗如を測定して, さらに はっきりと判別してみせましょう。 王女はスプーン A から針金A を, スプーン Bから針金B を, 形状がいずれ も 断面積 S=2.0 X10~#m2 長 さ 7/=1.0m となるように作製した。 この針金の両端に電極をとりつけ, 両端の電圧と 流れた電流7の関係を調べた。破線を針金 A, 実線を針金Bとして, その実 験結果を図 3 に示す。 @ 2.42 であることがわかります。また, そ @ 412 @ 2.4x10'9 の抵抗氷 p を, o E ROMOBIRK ニエ た 10 e= Rs @ p=-tt Ril 17 ] KATH AL 4H SREI-",
+    "masked_problem_text": "物理基礎 王女: スプーンを水中に入れたとき, 図 20のようになった理由は, スプー ン B にはたらく重力の大きさは, スプーン A にはたらく重力の大き | @ よりも大きく, き| 3 | 1@ よりも小さ<, @ と同じであり, スプブーン B にはたらく浮力の大きさは, スプーン A にはたらく浮力 10 よりや大きい の大きさ| 14 |] 1@ よりも小さい| ためです。 @ と同じである このことから, スプーンBの体積はスプーンA の体積よりも 10 大きく, スブーン4 とスプーンBの密度が違うこ @ 小さく, エがわかのり 生計- 物理基礎 Bs 次の文章中の空欄| 16 | ・ に入れるものとして最も適当なもの を, 直後の| | で囲んだ選択肢のうちから一つずつ選べ。 王女 :ならば, スプーンA とスプーン Bの電気抵抗を測定して, さらに はっきりと判別してみせましょう。 王女はスプーン A から針金 A を, スプーン Bから針金 B を, 形状がいずれ も 断面積 = 2.0 X 1078 m? 長 さ 7/=1.0m となるように作製した。この針金の両端に電極をとりつけ, 両端の電圧と 流れた電流7の関係を調べた。彼線を針金A, 実線を針金8として, TOK 験結果を図 3 に示す。 1.4) oy 1 日 昌 物理基礎 王 女:図3の結果を見てみなさい。針金Aと針金Bの電気抵抗はまっ たく違います。この結果から, 針金Bの電気抵抗々はおよそ : @ 41x 107'2 @ 2.42 であることがわかります。また, そ @ 412 @ 2.4x10'9 の抵抗率 &, 。 EROMOB HX -il 10 e= Rs a si, pa |用いて求めると, その仁は資料集に Q@ 。 =がで @ 。=*二",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9199,7 +9178,7 @@
       "data/images/questions/2022_common_main_physics_basic_a15_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "AW CMY Oe) このことから, スプーンBの体積はスプーンAの体積よりも 10 大きく, ss | スブーン4 とスプーンBの密度が違うこ @20 小さく<, とがわかります。 DED, スプーン B は純金製ではありません ! amram: デジ)寺フーザーバレA LZ PH YL DOMME ATS) SSAA... 流れた電流7の関係を調べた。破線を針金 Al 実線を針金Bとして, その実 験結果を図 3 に示す。 1 Hl : ; Hl i j i 上 eae 08; ーーートーールーニートートー TA) : A H ts H H H H @ p= i= ee Ry I |用いて求めると, その値は資料集に @ 。=Aで @ 。= に 記載された金の抵抗率と明らかに違うととがわかります。一方, 針金 A の抵抗率を計算すると金の抵抗率と一致します。ですから, 針金B MAM THES OER !",
+    "masked_problem_text": "物理基礎 王女: スプーンを水中に入れたとき, 図 20のようになった理由は, スプー ン B にはたらく重力の大きさは, スプーン A にはたらく重力の大き | @ よりも大きく, き| 3 | 1@ よりも小さ<, @ と同じであり, スプブーン B にはたらく浮力の大きさは, スプーン A にはたらく浮力 10 よりや大きい の大きさ| 14 |] 1@ よりも小さい| ためです。 @ と同じである このことから, スプーンBの体積はスプーンA の体積よりも 10 大きく, スブーン4 とスプーンBの密度が違うこ @ 小さく, エがわかのり 生計- 物理基礎 Bs 次の文章中の空欄| 16 | ・ に入れるものとして最も適当なもの を, 直後の| | で囲んだ選択肢のうちから一つずつ選べ。 王女 :ならば, スプーンA とスプーン Bの電気抵抗を測定して, さらに はっきりと判別してみせましょう。 王女はスプーン A から針金 A を, スプーン Bから針金 B を, 形状がいずれ も 断面積 = 2.0 X 1078 m? 長 さ 7/=1.0m となるように作製した。この針金の両端に電極をとりつけ, 両端の電圧と 流れた電流7の関係を調べた。彼線を針金A, 実線を針金8として, TOK 験結果を図 3 に示す。 1.4) oy 1 日 昌 物理基礎 王 女:図3の結果を見てみなさい。針金Aと針金Bの電気抵抗はまっ たく違います。この結果から, 針金Bの電気抵抗々はおよそ : @ 41x 107'2 @ 2.42 であることがわかります。また, そ @ 412 @ 2.4x10'9 の抵抗率 &, 。 EROMOB HX -il 10 e= Rs a si, pa |用いて求めると, その仁は資料集に Q@ 。 =がで @ 。=*二",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9232,7 +9211,7 @@
       "data/images/questions/2022_common_main_physics_basic_a16_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "細工師: これは, スプーン A とスプーン B の形状が少し違うから...。 細工師は何か言いかけたところで言葉に詰まった。 ーー 7 05一ナートーーールーニートド 0 0.5 1 電圧 YUV〕 図 3 A の抵抗率を計算すると金の抵抗率と一致します。 ですから, HRB は純金製ではありません | 細工師があわてて逃げ出したところで巻が下りた。",
+    "masked_problem_text": "WY ACS, | | スブーン4 EXT—Y BOE ABS Z @ Wes, とがわかります。 DED, ATHY B は純金製ではありません | MLM: CN, スプーン 4 とスプーン B の形状が少し違うから...。 細工師は何か言いかけたところで言葉に詰まった。 ー19 一 (2107一19) 1 H ; H i H j H A ae Ste A | 08; ーーートーールーニートートー 0 0.5 1 電圧〔V〕 図 3 ーー 20 一 (2107一20) CO 記載された金の抵抗率と明らかに違うことがわかります。一方, ther A の抵抗率を計算すると金の抵抗率と一致します。ですから, 針金B は純金製ではありません | 細工師があわてて逃げ出したところで状が下りた。 — 21な一 (2107一21)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9266,7 +9245,7 @@
       "data/images/questions/2022_common_main_physics_basic_a17_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー 19 一 (2107一19) 図 3 — 20 一 (2107一20) — 2h (2107—21)",
+    "masked_problem_text": "WY ACS, | | スブーン4 EXT—Y BOE ABS Z @ Wes, とがわかります。 DED, ATHY B は純金製ではありません | MLM: CN, スプーン 4 とスプーン B の形状が少し違うから...。 細工師は何か言いかけたところで言葉に詰まった。 ー19 一 (2107一19) 1 H ; H i H j H A ae Ste A | 08; ーーートーールーニートートー 0 0.5 1 電圧〔V〕 図 3 ーー 20 一 (2107一20) CO 記載された金の抵抗率と明らかに違うことがわかります。一方, ther A の抵抗率を計算すると金の抵抗率と一致します。ですから, 針金B は純金製ではありません | 細工師があわてて逃げ出したところで状が下りた。 — 21な一 (2107一21)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9472,7 +9451,7 @@
       "data/images/questions/2021_common_main_physics_a06_p5.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 第 2 問 次の文章(A・B)を読み, 下の問い(問1 6)に答えよ。 (配点 25) A 。図1のように, 抵抗値が10Qと20Qの抵抗抵抗値〆を自由に変えられる 可変抵抗, 電気容量が 0.10Fのコンデンサー, スイッチおよび電圧が6.0V の 直流電源からなる回路がある。最初, スイッチは開いており, コンデンサーは売 電されていないとする。 物 理 問 1 次の文章中の空棚| 6 | に入れる選択肢として最も適当なものを, FO ' 10-9のうちから一つ, 空欄| 7 | -| 9 | に入れる数字として最も敵 | 当なものを, 下の10~こ010のうちから一つずつ選べ。ただし, | 7 ]~ : [9 |] には同じものを繰り返し選んでもよい。 - 可変抵抗の抵抗値をパー 10 0 に設定する。スイッチを閉じた瞬間はコン デンサーに電荷は若えられていないので. コンデンサーの両端の電位差は 物 理 問 2 次の文章中の補棚| 10 | ・| 11 | に入れる数値として最も適当なもの を, 下の10~100のうちから一つずつ選べ。ただし, 同じものを繰り返し選ん でもよい。 可変抵抗の抵抗値は〆ー 10 にしたまま、スイッチを閉じて十分時間が 経過すると, コンデンサーに流れ込む電流は 0 となる。このとき, 図1の点 P を流れる電流の大きさは| 10 |A で, コンデンサーに甘えられた電気量 物 理 (Fee h ® - 物理の試験問題は次に続く。 物 理 B 図2のように, 鉛直上向きで磁束密度の大きさぢの一様な磁場(磁界) 中に, 十分に長い 2 本の金属レールが水平面内に間隔7で平行に固定されている。そ の上に導体棒a, b をのせ, 静止させた。導体棒a, b の質量は等しく, 単位長 さあたりの抵抗値はヶ である。導体棒はレールと垂直を保ったまま, レール上を 摩擦なく動くものとする。また, 自己誘導の影響とレールの電気抵抗は無視でき る。 FPA t = 0 に導体棒 a にのみ, 右向きの初速度 10 を与えた。",
+    "masked_problem_text": "物 理 第 2 問 次の文章(4 ・B)を読み, 下の問い(問1 ~ 6)に答えよ。 (配点 25) A 図1のように, 抵抗値が 10Qと20Qの抵抗, 抵抗値を自由に変えられる 可変抵抗, 電気容量が 0.10Fのコンデンサー, スイッチおよび電圧が6.0V の 直流電源からなる回路がある。最初, スイッチは開いており, コンデンサーは売 電されていないとする。 100 Q 20Q ヒー レー ] 0.10F 202 . R {| トン P スイッチ 6.0V = 図 1 ー10 一 (2608一10) 物 理 問 1 次の文章中の空棚| 6 | に入れる選択肢として最も適当なものを, FO ) 10-2010のうちから一つ. 空欄| 7 | -| 9 | に入れる数字として最も敵 当なものを, 下の10-010のうちから一つずつ選べ。ただし, | 7 |- | | 9 ]keRUSOtMOBLBA TELM. - 可変抵抗の抵抗人をポー 10 Q に設定する。スイッチを閉じた時間はコン デンサーに電荷は花えられていないので, コンデンサーの両端の電位差は 0 Y である。スイッチを閉じた瞬間の回路は| 6 | と同じ回路とみなせ, スイッチを閉じた朋間に点 Q を流れる電洗の大きさを有効数字 2 桁で表す Ez LE Tk L6_lomas 9 2 @ 2 [—} a トー 』 CI 6.0V = 6.0V = @ 2 9 $ L_ L_ {I {__} 6.0V = 60Y = Lz ]~[_s_]onwasee 01 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @ 9 © o an = (2608一11) 物 理 問 2 次の文章中の空欄| 10 | ・| 11 ] に入れる数値として最も適当なもの を, 下の10~10のうちから一つずつ選べ。ただし, 同じものを繰り返し選ん でもよい。 可突的抗の抵抗値はだー 100Qにしたまま,スイッチを閉じて十分時間が 経過すると, コンデンサー流れ込む電流は 0 となる。ことのとき, MLO 『 を流れる電流の大きさは| 10 lac, コンデンサーに甘えられた電気量 は| 11 |Cであぁった。 10 0.10 @ 0.20 @ 0.30 @ 0.40 © 0.50 © 0.60 @ 0.70 0.80 @ 0.90 @ 0 問 3 Af yFEMW CIV FYI RBA SNE MMEBACMES UE. K に, WOM EBA, 再びスイッチを入れた。その後, 点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値ア - を有効数字2桁で表すと, どのようになるか。次の式中の空棚[ 12 | - [| 14 ] に入れる数字として最も適当なものを, 下の10-10のうちから一つ ずつ選べ。ただし, 同じものを繰り返し選んでもよい。 10 1 @ 2 @ 3 9 4 05 @ 6 9 ? 8 @ 3 @ 0 ー12 一 (2608一12) 物 理 (Fe = ® - 物理の試験問題は次に続く。 一19 = (2608一13) 物 理 B 図2のように, 鉛直上向きで破東密度の大きさぢの一様な破場 (磁界) 中に, 十分に長い 2 本の金属レールが水平面内に間隔ので平行に固定されている。そ の上に導体棒 a。 b をのせ, MLSte. BAe, b の質量は等しく, 単位長 さあたりの抵抗値はヶ である。導体棒はレールと垂直を保ったまま, レール上を MRSS BOLTS. HK, 自己誘導の影響とレールの電気抵抗は無視でき る。 時刻ー 0 に導体棒 a にのみ, 話向きの初速度 nn を与えた。 B B 金属レール ーーと ーーターゴゴ う vo smr-ッーーグー b a 図 2 問 4 Bika CHNSBRERCALT, Foxetoeml 7 |・ | イ |に入れる記号と式の組合せとして最も適当なものを, FOO~OO うちから一つ選べ。 BKM SML RMR, 導体棒aに流れる誘導電流は図の | ア | の矢車の向きであり, その大ききは| イ | でぁる。 17| rp | e | e | o | ィ | gzo Boy 22o Boo 2r 2ヶ 2ヶ ar — 14— (2608-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9510,7 +9489,7 @@
       "data/images/questions/2021_common_main_physics_a07_p5.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "電されていないとする。 10p Q 202 Ld Ld 0.10F 200 oR |_| LZ] P . 7 fw Dm - 可変抵抗の抵抗値をバー 10 0 に設定する。スイッチを閉じた瞬間はコン デンサーに電荷は敬えられていないので, コンデンサーの両端電位差は 0 Y である。スイッチを閉じた明間の回路は| 6 | と同じ回路とみなせ」 スイッチを閉じた瞬間に点 Q を流れる電流の大きさを和有効数字2桁で表す ef). Le xw Eh cas. | 6 |の 0 2 @ 2 [I L_ | L_ Ct 経骨すると, コンデンサーに流れ込む電流は 0 となる。このとき, 図 1の点 P を流れる電流の大きさは| 10 JAC, コンデンサーに甘えられた電気量 は| 11 |cでぁった。 10 0.10 @ 0.20 @ 0.30 @ 0.40 © 0.50 © 0.60 @ 0.70 0. 80 @ 0.90 © 0 問 3 スイッチを開いてコンデンサーに甘えられた電荷を完全に放電させた。次 に, 可変抵抗の抵抗値を変え, 再びがスイッチを入れた。その後, 点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値『 ee ee ee | る。 RFS t = 0 に導体棒 a にのみ, 右向きの初速度 po を与えた。 B B 金属レール ーーーーデター —— d Wi ググ< ン a ax: G2 ee) 1 Sa 図 2",
+    "masked_problem_text": "物 理 第 2 問 次の文章(4 ・B)を読み, 下の問い(問1 ~ 6)に答えよ。 (配点 25) A 図1のように, 抵抗値が 10Qと20Qの抵抗, 抵抗値を自由に変えられる 可変抵抗, 電気容量が 0.10Fのコンデンサー, スイッチおよび電圧が6.0V の 直流電源からなる回路がある。最初, スイッチは開いており, コンデンサーは売 電されていないとする。 100 Q 20Q ヒー レー ] 0.10F 202 . R {| トン P スイッチ 6.0V = 図 1 ー10 一 (2608一10) 物 理 問 1 次の文章中の空棚| 6 | に入れる選択肢として最も適当なものを, FO ) 10-2010のうちから一つ. 空欄| 7 | -| 9 | に入れる数字として最も敵 当なものを, 下の10-010のうちから一つずつ選べ。ただし, | 7 |- | | 9 ]keRUSOtMOBLBA TELM. - 可変抵抗の抵抗人をポー 10 Q に設定する。スイッチを閉じた時間はコン デンサーに電荷は花えられていないので, コンデンサーの両端の電位差は 0 Y である。スイッチを閉じた瞬間の回路は| 6 | と同じ回路とみなせ, スイッチを閉じた朋間に点 Q を流れる電洗の大きさを有効数字 2 桁で表す Ez LE Tk L6_lomas 9 2 @ 2 [—} a トー 』 CI 6.0V = 6.0V = @ 2 9 $ L_ L_ {I {__} 6.0V = 60Y = Lz ]~[_s_]onwasee 01 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @ 9 © o an = (2608一11) 物 理 問 2 次の文章中の空欄| 10 | ・| 11 ] に入れる数値として最も適当なもの を, 下の10~10のうちから一つずつ選べ。ただし, 同じものを繰り返し選ん でもよい。 可突的抗の抵抗値はだー 100Qにしたまま,スイッチを閉じて十分時間が 経過すると, コンデンサー流れ込む電流は 0 となる。ことのとき, MLO 『 を流れる電流の大きさは| 10 lac, コンデンサーに甘えられた電気量 は| 11 |Cであぁった。 10 0.10 @ 0.20 @ 0.30 @ 0.40 © 0.50 © 0.60 @ 0.70 0.80 @ 0.90 @ 0 問 3 Af yFEMW CIV FYI RBA SNE MMEBACMES UE. K に, WOM EBA, 再びスイッチを入れた。その後, 点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値ア - を有効数字2桁で表すと, どのようになるか。次の式中の空棚[ 12 | - [| 14 ] に入れる数字として最も適当なものを, 下の10-10のうちから一つ ずつ選べ。ただし, 同じものを繰り返し選んでもよい。 10 1 @ 2 @ 3 9 4 05 @ 6 9 ? 8 @ 3 @ 0 ー12 一 (2608一12) 物 理 (Fe = ® - 物理の試験問題は次に続く。 一19 = (2608一13) 物 理 B 図2のように, 鉛直上向きで破東密度の大きさぢの一様な破場 (磁界) 中に, 十分に長い 2 本の金属レールが水平面内に間隔ので平行に固定されている。そ の上に導体棒 a。 b をのせ, MLSte. BAe, b の質量は等しく, 単位長 さあたりの抵抗値はヶ である。導体棒はレールと垂直を保ったまま, レール上を MRSS BOLTS. HK, 自己誘導の影響とレールの電気抵抗は無視でき る。 時刻ー 0 に導体棒 a にのみ, 話向きの初速度 nn を与えた。 B B 金属レール ーーと ーーターゴゴ う vo smr-ッーーグー b a 図 2 問 4 Bika CHNSBRERCALT, Foxetoeml 7 |・ | イ |に入れる記号と式の組合せとして最も適当なものを, FOO~OO うちから一つ選べ。 BKM SML RMR, 導体棒aに流れる誘導電流は図の | ア | の矢車の向きであり, その大ききは| イ | でぁる。 17| rp | e | e | o | ィ | gzo Boy 22o Boo 2r 2ヶ 2ヶ ar — 14— (2608-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9549,7 +9528,7 @@
       "data/images/questions/2021_common_main_physics_a08_p5.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "スイッチ L 6.0V = 1 ーー LH ーー し ーーリパーデーイレ ビー ーー ij ーー 60V = 6.0V = 102 209 102 200 ® p48 ® ee ee — ピーコ ーー ーー に, 本変抵抗の抵抗値を変え, 再びスイッチを入れた。その後,点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値々 . を有効数字2桁で表すと, どのようになるか。次の式中の科棚| 12 | - | 14 |に入れる数字として最も適当なものを, 下の10~-10のうちから一つ ずつ選べ。ただし, 同じものを繰り返し選んでもよい。 scLg Fs 」xP4 10 1 @ 2 @ 3 @4 @5 @ 6 @ 7 8 @ 9 ® 0 図 2 問 4 導体和aに流れる誘導電流に関して, 下の文章中の空欄| 7 | ・ | イ | に入れる記号と式の組合せとして最も適当なものを, FOO~OO うちから一つ選べ。 導体棒a が動き出した直後に, 導体棒aに流れる誘導電流は図の | ア | の矢印の向きであり, その大きさは| イ |でぁる。 10 @ 6) @",
+    "masked_problem_text": "物 理 第 2 問 次の文章(4 ・B)を読み, 下の問い(問1 ~ 6)に答えよ。 (配点 25) A 図1のように, 抵抗値が 10Qと20Qの抵抗, 抵抗値を自由に変えられる 可変抵抗, 電気容量が 0.10Fのコンデンサー, スイッチおよび電圧が6.0V の 直流電源からなる回路がある。最初, スイッチは開いており, コンデンサーは売 電されていないとする。 100 Q 20Q ヒー レー ] 0.10F 202 . R {| トン P スイッチ 6.0V = 図 1 ー10 一 (2608一10) 物 理 問 1 次の文章中の空棚| 6 | に入れる選択肢として最も適当なものを, FO ) 10-2010のうちから一つ. 空欄| 7 | -| 9 | に入れる数字として最も敵 当なものを, 下の10-010のうちから一つずつ選べ。ただし, | 7 |- | | 9 ]keRUSOtMOBLBA TELM. - 可変抵抗の抵抗人をポー 10 Q に設定する。スイッチを閉じた時間はコン デンサーに電荷は花えられていないので, コンデンサーの両端の電位差は 0 Y である。スイッチを閉じた瞬間の回路は| 6 | と同じ回路とみなせ, スイッチを閉じた朋間に点 Q を流れる電洗の大きさを有効数字 2 桁で表す Ez LE Tk L6_lomas 9 2 @ 2 [—} a トー 』 CI 6.0V = 6.0V = @ 2 9 $ L_ L_ {I {__} 6.0V = 60Y = Lz ]~[_s_]onwasee 01 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @ 9 © o an = (2608一11) 物 理 問 2 次の文章中の空欄| 10 | ・| 11 ] に入れる数値として最も適当なもの を, 下の10~10のうちから一つずつ選べ。ただし, 同じものを繰り返し選ん でもよい。 可突的抗の抵抗値はだー 100Qにしたまま,スイッチを閉じて十分時間が 経過すると, コンデンサー流れ込む電流は 0 となる。ことのとき, MLO 『 を流れる電流の大きさは| 10 lac, コンデンサーに甘えられた電気量 は| 11 |Cであぁった。 10 0.10 @ 0.20 @ 0.30 @ 0.40 © 0.50 © 0.60 @ 0.70 0.80 @ 0.90 @ 0 問 3 Af yFEMW CIV FYI RBA SNE MMEBACMES UE. K に, WOM EBA, 再びスイッチを入れた。その後, 点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値ア - を有効数字2桁で表すと, どのようになるか。次の式中の空棚[ 12 | - [| 14 ] に入れる数字として最も適当なものを, 下の10-10のうちから一つ ずつ選べ。ただし, 同じものを繰り返し選んでもよい。 10 1 @ 2 @ 3 9 4 05 @ 6 9 ? 8 @ 3 @ 0 ー12 一 (2608一12) 物 理 (Fe = ® - 物理の試験問題は次に続く。 一19 = (2608一13) 物 理 B 図2のように, 鉛直上向きで破東密度の大きさぢの一様な破場 (磁界) 中に, 十分に長い 2 本の金属レールが水平面内に間隔ので平行に固定されている。そ の上に導体棒 a。 b をのせ, MLSte. BAe, b の質量は等しく, 単位長 さあたりの抵抗値はヶ である。導体棒はレールと垂直を保ったまま, レール上を MRSS BOLTS. HK, 自己誘導の影響とレールの電気抵抗は無視でき る。 時刻ー 0 に導体棒 a にのみ, 話向きの初速度 nn を与えた。 B B 金属レール ーーと ーーターゴゴ う vo smr-ッーーグー b a 図 2 問 4 Bika CHNSBRERCALT, Foxetoeml 7 |・ | イ |に入れる記号と式の組合せとして最も適当なものを, FOO~OO うちから一つ選べ。 BKM SML RMR, 導体棒aに流れる誘導電流は図の | ア | の矢車の向きであり, その大ききは| イ | でぁる。 17| rp | e | e | o | ィ | gzo Boy 22o Boo 2r 2ヶ 2ヶ ar — 14— (2608-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9588,7 +9567,7 @@
       "data/images/questions/2021_common_main_physics_a09_p5.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー10 一 (2608一10) 6.0V マ 6.0V = [71-2 Jone 10 1 @ 2 8 3 @ 4 © 5 © 6 @ 7 8 19 9 @ 6 ュー 11 一= (2608一11) @ 6 QO 7 8 Q 9 Q 0 ー12 一 (2608一12) ー138 一 (2608—13) |ァ7| er |r fe | e | ィ | Badvy Boo Bdvo Boo ar ar ar ar — 14— (2608—14)",
+    "masked_problem_text": "物 理 第 2 問 次の文章(4 ・B)を読み, 下の問い(問1 ~ 6)に答えよ。 (配点 25) A 図1のように, 抵抗値が 10Qと20Qの抵抗, 抵抗値を自由に変えられる 可変抵抗, 電気容量が 0.10Fのコンデンサー, スイッチおよび電圧が6.0V の 直流電源からなる回路がある。最初, スイッチは開いており, コンデンサーは売 電されていないとする。 100 Q 20Q ヒー レー ] 0.10F 202 . R {| トン P スイッチ 6.0V = 図 1 ー10 一 (2608一10) 物 理 問 1 次の文章中の空棚| 6 | に入れる選択肢として最も適当なものを, FO ) 10-2010のうちから一つ. 空欄| 7 | -| 9 | に入れる数字として最も敵 当なものを, 下の10-010のうちから一つずつ選べ。ただし, | 7 |- | | 9 ]keRUSOtMOBLBA TELM. - 可変抵抗の抵抗人をポー 10 Q に設定する。スイッチを閉じた時間はコン デンサーに電荷は花えられていないので, コンデンサーの両端の電位差は 0 Y である。スイッチを閉じた瞬間の回路は| 6 | と同じ回路とみなせ, スイッチを閉じた朋間に点 Q を流れる電洗の大きさを有効数字 2 桁で表す Ez LE Tk L6_lomas 9 2 @ 2 [—} a トー 』 CI 6.0V = 6.0V = @ 2 9 $ L_ L_ {I {__} 6.0V = 60Y = Lz ]~[_s_]onwasee 01 @ 2 @ 3 @ 4 @ 5 © 6 @ 7 8 @ 9 © o an = (2608一11) 物 理 問 2 次の文章中の空欄| 10 | ・| 11 ] に入れる数値として最も適当なもの を, 下の10~10のうちから一つずつ選べ。ただし, 同じものを繰り返し選ん でもよい。 可突的抗の抵抗値はだー 100Qにしたまま,スイッチを閉じて十分時間が 経過すると, コンデンサー流れ込む電流は 0 となる。ことのとき, MLO 『 を流れる電流の大きさは| 10 lac, コンデンサーに甘えられた電気量 は| 11 |Cであぁった。 10 0.10 @ 0.20 @ 0.30 @ 0.40 © 0.50 © 0.60 @ 0.70 0.80 @ 0.90 @ 0 問 3 Af yFEMW CIV FYI RBA SNE MMEBACMES UE. K に, WOM EBA, 再びスイッチを入れた。その後, 点Pを流 れる電流はスイッチを入れた直後の値を保持した。可変抵抗の抵抗値ア - を有効数字2桁で表すと, どのようになるか。次の式中の空棚[ 12 | - [| 14 ] に入れる数字として最も適当なものを, 下の10-10のうちから一つ ずつ選べ。ただし, 同じものを繰り返し選んでもよい。 10 1 @ 2 @ 3 9 4 05 @ 6 9 ? 8 @ 3 @ 0 ー12 一 (2608一12) 物 理 (Fe = ® - 物理の試験問題は次に続く。 一19 = (2608一13) 物 理 B 図2のように, 鉛直上向きで破東密度の大きさぢの一様な破場 (磁界) 中に, 十分に長い 2 本の金属レールが水平面内に間隔ので平行に固定されている。そ の上に導体棒 a。 b をのせ, MLSte. BAe, b の質量は等しく, 単位長 さあたりの抵抗値はヶ である。導体棒はレールと垂直を保ったまま, レール上を MRSS BOLTS. HK, 自己誘導の影響とレールの電気抵抗は無視でき る。 時刻ー 0 に導体棒 a にのみ, 話向きの初速度 nn を与えた。 B B 金属レール ーーと ーーターゴゴ う vo smr-ッーーグー b a 図 2 問 4 Bika CHNSBRERCALT, Foxetoeml 7 |・ | イ |に入れる記号と式の組合せとして最も適当なものを, FOO~OO うちから一つ選べ。 BKM SML RMR, 導体棒aに流れる誘導電流は図の | ア | の矢車の向きであり, その大ききは| イ | でぁる。 17| rp | e | e | o | ィ | gzo Boy 22o Boo 2r 2ヶ 2ヶ ar — 14— (2608-14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9622,7 +9601,7 @@
       "data/images/questions/2021_common_main_physics_a10_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 問 5 導体筐が動き始めると, 導体棒bも動き始めた。このとき, 導体棒a - とぅが磁場から受ける力に関する文として最も適当なものを, 次の111~20 のうちから一つ選べ。 ] (10 カの大きさは等しく, 向きは同じである。 Q@ カの大きさは異なり, 向きは同じである。 20 カの大きさは等しく, 向きは反対である。 @ カカの大きさは異なり, 向きは反対である。 問6 導体棒aが動き始めたのちの, 導体棒a, b の速度と時間の関係を表すグ ラフとして最も適当なものを, 次の0~20のうちから一つ選べ。ただし, 速 度の向きは図 2 の右向きを正とする。 O sere @ sae a 20 | っ、、。 物理 ・ 第 3 問 次の文章(A・B)を読み, 下の問い(問1 ご 6 ) に答えよ。 (配点 30) A 図1のような装館用にカット GER) LEAT ED Ra, さまざまな色で 明るく輝く。その理由を考えよう。 | oP X a ae 問 1 次の文章中の空欄| ア | -| ウ | に入れる語句の組合せとして最適 当なものを, 次ページの011-20のうちから一つ選べ。 ダイヤモンドがさまざまな色で座くのは光の分散によるものである。有断面",
+    "masked_problem_text": "物 理 問 5 導体棒aが動き始めると, 導体棒bも動き始めた。このとき, 導体棒a z とbが磁場から受ける力に関する文として最も適当なものを, KOO~O のうちから一つ選べ。 k @Q カの大きさは等しく, 向きは同じである。 Q@ カの大きさは異なり, 向きは同じである。 Q カの大きさは等しく, 向きは反対である。 @ カカの大きさは異なり, 向きは反対である。 AG 導体棒aが動き始めたのちの, 導体棒a, b の速度と時間の関係を表すグ ラフとして最も適当なものを, 次の20~20のうちから一つ選べ。ただし, 速 度の向きは図 2 の右向きを正とする。 O sex @ sae ae a . ° vo Sl O 2 0 t b ー 20) b 12 6) 速度 69) 速度 vo v% a a vo 円 - > 2 2 b O t O t — 1— (2608—15) 第 3 問 火の文章(A・B)を読み, 下の問い(問1 < 6)に答えよ。 (配点 30) A 図1 のような装飾用にカット (研磨成形) したダイヤモンドは, さまざまな色で 明るく輝く。その理由を考えよう。 NR ・ SA a ・ ha SX LP - - 図 1 間 1 次の文章中の空欄| ア | 上| ウ | に入れる語句の組合せとして最も敵 当なものを, 次ページの010~-20のうちから一つ選べ。 ダイヤモンドがさまざまな色で輝くのは光の分散によるものである。 断面 を図 2 のようにカットしたダイヤモンドに白色光が DE 面から入り, ACH と BC 面で反射したのち, EB 面から出て行く場合を考える。 ー16 一 (2608一16)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9657,7 +9636,7 @@
       "data/images/questions/2021_common_main_physics_a11_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "10 速度 @ 速度 vo v9 a vo ここーーテー Oo t O t — 20)... b 2 a |....へっ Jd 6) 速度 @ 速度 vo の0 a 2 vo, a > Se 2 1 5 Oo t o t — 15 一 (2608一15) ダイヤモンドがさまざまな色で輝くのは光の分散によるものである。 断面 を図 2 のようにカットしたダイヤモンドに白色光が DE 面から入り, ACH と BC 面で反射したのち, EB 面から出て行く場合を考える。 — 16 一 (2608一16)",
+    "masked_problem_text": "物 理 問 5 導体棒aが動き始めると, 導体棒bも動き始めた。このとき, 導体棒a z とbが磁場から受ける力に関する文として最も適当なものを, KOO~O のうちから一つ選べ。 k @Q カの大きさは等しく, 向きは同じである。 Q@ カの大きさは異なり, 向きは同じである。 Q カの大きさは等しく, 向きは反対である。 @ カカの大きさは異なり, 向きは反対である。 AG 導体棒aが動き始めたのちの, 導体棒a, b の速度と時間の関係を表すグ ラフとして最も適当なものを, 次の20~20のうちから一つ選べ。ただし, 速 度の向きは図 2 の右向きを正とする。 O sex @ sae ae a . ° vo Sl O 2 0 t b ー 20) b 12 6) 速度 69) 速度 vo v% a a vo 円 - > 2 2 b O t O t — 1— (2608—15) 第 3 問 火の文章(A・B)を読み, 下の問い(問1 < 6)に答えよ。 (配点 30) A 図1 のような装飾用にカット (研磨成形) したダイヤモンドは, さまざまな色で 明るく輝く。その理由を考えよう。 NR ・ SA a ・ ha SX LP - - 図 1 間 1 次の文章中の空欄| ア | 上| ウ | に入れる語句の組合せとして最も敵 当なものを, 次ページの010~-20のうちから一つ選べ。 ダイヤモンドがさまざまな色で輝くのは光の分散によるものである。 断面 を図 2 のようにカットしたダイヤモンドに白色光が DE 面から入り, ACH と BC 面で反射したのち, EB 面から出て行く場合を考える。 ー16 一 (2608一16)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9693,7 +9672,7 @@
       "data/images/questions/2021_common_main_physics_a12_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ayy fe し (i) f / Gi) L 1 D E ee ee eS AR EO EE? B 物 理 問 2 次の文章中の空欄| エ | ・| オ |に入れる式の組合せとして最も適当 なものを, 次ページの011~20のうちから一つ選べ。 次に, 図3 のように, DE 面のある点Pでダイヤモンドに入射し, AC面 に科する単色光を考える。 この単色光でのダイヤモンドの絶対必折率を n, 外側の空気の絶対必折率を 1 として, 入射角?と屈折角ァの関係は| エ | で与えられる。AC 面での入射角 94cが大きくなって随界角 9の。を超えると -全反射する。この孔界角9。は| オ | から求められる。 にーー ノ | sind =nsinr sin@é.=n a . _ 1 1 Sin2三Sinア sin 9。 三 っ ss 1 。 _ @ sint = — sine sin@,=n wo 1. 、 ー 1 20 sing = —~sinr sin 9の。ニーー n n 物 理 問 3 つづいて, ダイヤモンドが明るく輝く理由を考えよう。 図 4 は, DE 面上のある点Pから入射した単色光の光路の一部を示してい る。この光の DE 面への入射角をヵ AC面への入射角を94c, BC面への入 HAS Onc とする。 D P! E",
+    "masked_problem_text": "物 理 (if / (i) : : c 図 2 真空中では光速は振動数によらず一定である。 ある振動数の光が旭質中に 入射したとき, は変化しないで, | イ |が変化する。 SED RHO が光の人色によって進うので分散が起こる。波長が異なる二つの光が同じ光路 を通ってダイヤモンドに入射すると, 図 2 のように(と全の二つの光路に分 かれた。ダイヤモンドでは波長の短い光ほど屈折率が大きくなることから, 波長の短い方が図 2 の の経路をとる。 Slt 一 (2608一17) 物 理 問 2 次の文章中の宅欄| エ | ・| オ | に入れる式の組合せとして最も適当 なものを, 次ページの010~20のうちから一つ選べ。 次に, 図3のように, DE 面のある点Pでダイヤモンドに入射し ACT に人する単色光を考える。この単色光でのダイヤモンドの絶対民折氷を 外側の空気の絶対居折率を 1 として, 入射秀?と央折角ヶの関係は| エ | で与えられる。AC面での入射角 xcが大きくなって風界角 9。 を超えると 全反射する。 TOMBE aL オ |] から求められる。 ry E C 3 , — 18 一 (2608-18) 物 理 1 k @ Sin2三Sinテ sin 0, = —— n woe he. に _ (6) sint = ~~ sin r sin@.=n 。 1. . ー 1 @ sini = —sinr sin 9。ニーー n n —19— (2608—19) 物 理 問 3 つづいて, ダイヤモンドが明るく輝く理由を考えよう。 4は, DE 面上のある点Pから入射した単色光の光中の一部を示してい る。とこの光の DE 面への入射角をヵ AC面への入射角を9ac, BC面への入 HAS 9sc とする。 F D Pi E C 4 ー 20 一 (2608一20)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9729,7 +9708,7 @@
       "data/images/questions/2021_common_main_physics_a13_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "と 2 真空中では光速は振動数によらず一定である。ある振動数の光が尋質中に 入射したとき, | ア |は変化しないで, | イ | が変化する。 人換中の| イ | xewo[イ| が光の色によって逢うので分散が起こる。波長が異なる二つの光が同じ光路 を通っつてダイヤモンドに入射すると, 図2 のように(Gi)と1311の二つの光路に分 かれた。ダイヤモンドでは波長の短い光ほど屈折率が大きくなることから. Mt FE mist . EASE の Om ple 1 NOVO デー LS ERWTS. COMA AHL] A |から求められる。 1 D Pi E SI > 8 ee @ 3 17 D P} E a ee eee AQ eee fe DB ee ee ee NO C 4",
+    "masked_problem_text": "物 理 (if / (i) : : c 図 2 真空中では光速は振動数によらず一定である。 ある振動数の光が旭質中に 入射したとき, は変化しないで, | イ |が変化する。 SED RHO が光の人色によって進うので分散が起こる。波長が異なる二つの光が同じ光路 を通ってダイヤモンドに入射すると, 図 2 のように(と全の二つの光路に分 かれた。ダイヤモンドでは波長の短い光ほど屈折率が大きくなることから, 波長の短い方が図 2 の の経路をとる。 Slt 一 (2608一17) 物 理 問 2 次の文章中の宅欄| エ | ・| オ | に入れる式の組合せとして最も適当 なものを, 次ページの010~20のうちから一つ選べ。 次に, 図3のように, DE 面のある点Pでダイヤモンドに入射し ACT に人する単色光を考える。この単色光でのダイヤモンドの絶対民折氷を 外側の空気の絶対居折率を 1 として, 入射秀?と央折角ヶの関係は| エ | で与えられる。AC面での入射角 xcが大きくなって風界角 9。 を超えると 全反射する。 TOMBE aL オ |] から求められる。 ry E C 3 , — 18 一 (2608-18) 物 理 1 k @ Sin2三Sinテ sin 0, = —— n woe he. に _ (6) sint = ~~ sin r sin@.=n 。 1. . ー 1 @ sini = —sinr sin 9。ニーー n n —19— (2608—19) 物 理 問 3 つづいて, ダイヤモンドが明るく輝く理由を考えよう。 4は, DE 面上のある点Pから入射した単色光の光中の一部を示してい る。とこの光の DE 面への入射角をヵ AC面への入射角を9ac, BC面への入 HAS 9sc とする。 F D Pi E C 4 ー 20 一 (2608一20)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9765,7 +9744,7 @@
       "data/images/questions/2021_common_main_physics_a14_p4.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "を通ってダイヤモンドに入射すると, 図 2 のように()と0の二つの光路に分 かれた。ダイヤモンドでは波長の短い光ほど屈折率が大きくなることから, 波長の短い方が図 2 の の経路をとる。 | @ | mww | mg | m | . ー 17 一 (2608一17) Cc 3 : ー 18 一 (2608—18) ー19 一 (2608一19) ー 20 一 (2608一20)",
+    "masked_problem_text": "物 理 (if / (i) : : c 図 2 真空中では光速は振動数によらず一定である。 ある振動数の光が旭質中に 入射したとき, は変化しないで, | イ |が変化する。 SED RHO が光の人色によって進うので分散が起こる。波長が異なる二つの光が同じ光路 を通ってダイヤモンドに入射すると, 図 2 のように(と全の二つの光路に分 かれた。ダイヤモンドでは波長の短い光ほど屈折率が大きくなることから, 波長の短い方が図 2 の の経路をとる。 Slt 一 (2608一17) 物 理 問 2 次の文章中の宅欄| エ | ・| オ | に入れる式の組合せとして最も適当 なものを, 次ページの010~20のうちから一つ選べ。 次に, 図3のように, DE 面のある点Pでダイヤモンドに入射し ACT に人する単色光を考える。この単色光でのダイヤモンドの絶対民折氷を 外側の空気の絶対居折率を 1 として, 入射秀?と央折角ヶの関係は| エ | で与えられる。AC面での入射角 xcが大きくなって風界角 9。 を超えると 全反射する。 TOMBE aL オ |] から求められる。 ry E C 3 , — 18 一 (2608-18) 物 理 1 k @ Sin2三Sinテ sin 0, = —— n woe he. に _ (6) sint = ~~ sin r sin@.=n 。 1. . ー 1 @ sini = —sinr sin 9。ニーー n n —19— (2608—19) 物 理 問 3 つづいて, ダイヤモンドが明るく輝く理由を考えよう。 4は, DE 面上のある点Pから入射した単色光の光中の一部を示してい る。とこの光の DE 面への入射角をヵ AC面への入射角を9ac, BC面への入 HAS 9sc とする。 F D Pi E C 4 ー 20 一 (2608一20)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -9967,7 +9946,7 @@
       "data/images/questions/2021_common_main_physics_a20_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 加速された電子が水銀原子に衝突した場合には, 7 のような二つの過程 (8, (D)が考えられる。 図に示したように, 水銀原子が動いた向きをヶ HOB の向きとし, 衝突は*y 平面内で起こったものとする。 電子 衝突前 電子 衝突後 電子 衝突前 電子 衝突後 E Y 静止 CRG) 状態A ! 静止 Gee) 状態A y | ッ 状態A 状態B © Bea © Ex 過程 ! 過程) 図 7 過程(20 運動エネルギーp。の電子と状態A で静止している水銀原子が衝突 HB 問 5 それぞれの過程における衝突の前後で, 電子と水銀原子の運動量の和はど うなるか。 最も適当なものを, 次の10-10のうちから一つ選べ。| 2 | | 過程0の運動量の和 過各の運重量の和 (Ol mere . | は保存するが方向は保存しない | . 方向は保存するが方向は保存しない 問 6 それぞれの過租における衝突後電子と水銀原子の運動エネルギーの和なは どうなるか。最も適当なものを, 次の10-9のうちから一つ選べ。 過程(の運動エネルギーの和 過租(DDの運動エネルギーの",
+    "masked_problem_text": "物 理 加速された電子が水銀原子に衝突した場合には, 7 のような二つの過程 @, (b)が考えられる。 図に示したように, 水銀原子が動いた向きをヶ軸の負 の向きとし, GR sy 平面内で起こったものとする。 電子 衝突前 電子 衝突後 電子 衝突前 電子 衝突後 E 1 E fib (aD) 状態A 1 静止 GRE) 状態 y 1 ! y 1 状態A 1 状態B © Bx © Exe 過程20 過程11) 図 7 過程(2) 運動エネルギー pち。の電子と状態 A で静止している水銀原子が衝突 し, 電子の運動エネルギーは となる。水銀原子は状態A のまま, 運動エネルギー ぢjm をもって運動する。 過程(b) 運動エネルギー Eo DBF LARA で静止している水銀原子が衝突 し, 電子の運動エネルギーは ぢ' となる。水銀原子は状態A よりエネ ルギーが高い状態 B に変化して, BRIE EB’ をもって運動 する。 状態 B の水銀原子は,。 やがてエネルギーの低い状態A に戻り そのとき 紫外線を放出する。その後, この紫外線が蛍光条管内の堂光物質にあたっ て, 可視光線が生じる。 — 26 一 (2608一26) 物 理 HS それぞれの過程における衝突の前後で, 電子と水急原子の運動重の和はど 」 うなるか。 最も適当なものを, 次の10-10のうちから一つ選べ。 | ー | IOlwess lass | M6 CNENOWRKBISHRA, CGHEAMMTOMHLRY—OMM どうなるか。最も適当なものを, 次の1011-10のうちから一つ選べ。 | leLss tte 9 ー 27 一 (2608—27)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10001,7 +9980,7 @@
       "data/images/questions/2021_common_main_physics_a21_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "Bef 過程(3) 運動エネルギー Ey ORF EIR A で静止している水銀原子が衝突 し, 電子の運動エネルギーは となる。水銀原子は状態A のまま, 運動エネルギー Exg をもって運動する。 過程11) 運動エネルギー Eo DBF ERB A で静止している水銀原子が衝突 し, 電子の運動エネルギーは となる。 水銀原子は状態A よりエネ ルギーが高い状態 B に変化して, 運動エネルギー Beg をもって運動 する。 状態Bの水銀原子は, やがてエネルギーの低い状態A に戻り, そのとき 紫外線を放出する。 その後, この紫外線が蛍光条管内の蛍光物質にあたっ て, 可視光線が生じる。 — 26 一 (2608一26) とつうなるがか。最や適当なものを, 次のりーのうちから一つ選べ。 | 24 | | ee ー 27 一 (2608—27)",
+    "masked_problem_text": "物 理 加速された電子が水銀原子に衝突した場合には, 7 のような二つの過程 @, (b)が考えられる。 図に示したように, 水銀原子が動いた向きをヶ軸の負 の向きとし, GR sy 平面内で起こったものとする。 電子 衝突前 電子 衝突後 電子 衝突前 電子 衝突後 E 1 E fib (aD) 状態A 1 静止 GRE) 状態 y 1 ! y 1 状態A 1 状態B © Bx © Exe 過程20 過程11) 図 7 過程(2) 運動エネルギー pち。の電子と状態 A で静止している水銀原子が衝突 し, 電子の運動エネルギーは となる。水銀原子は状態A のまま, 運動エネルギー ぢjm をもって運動する。 過程(b) 運動エネルギー Eo DBF LARA で静止している水銀原子が衝突 し, 電子の運動エネルギーは ぢ' となる。水銀原子は状態A よりエネ ルギーが高い状態 B に変化して, BRIE EB’ をもって運動 する。 状態 B の水銀原子は,。 やがてエネルギーの低い状態A に戻り そのとき 紫外線を放出する。その後, この紫外線が蛍光条管内の堂光物質にあたっ て, 可視光線が生じる。 — 26 一 (2608一26) 物 理 HS それぞれの過程における衝突の前後で, 電子と水急原子の運動重の和はど 」 うなるか。 最も適当なものを, 次の10-10のうちから一つ選べ。 | ー | IOlwess lass | M6 CNENOWRKBISHRA, CGHEAMMTOMHLRY—OMM どうなるか。最も適当なものを, 次の1011-10のうちから一つ選べ。 | leLss tte 9 ー 27 一 (2608—27)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10299,7 +10278,7 @@
       "data/images/questions/2021_common_main_physics_basic_a02_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "| ee ME o ee ES ace | 上人 eee es ge, Gene EME EE peed eee pees Use Sis Ren coe SS fae AS3S お JS Appa 半生 ped に 時 ae i EE Bees ce Uo eee Eases eee RS SEAS REESE eee eae ps ee a Perea’ i RE 1 Ns 物理基礎 問 2 次の文剖中の空欄| 2 | に入れる語として最も適当なものを, その直後の { 、]から一つ選び, aml 3 | に入れる最も適当な向きを.下の1011-8の うちから一つ選べ。 長さとの絶縁体の権の両端をそれぞれ電気基?とー9(9> 0 )に帯電させ, 図 2 のように, 棒の中心を点A に固定し, oy 平面内で自由に回転できるよう にした。まず, 電気量 0に帯電させた小球をヶ MEOR BIBS &, HAH 電気力の作用でめっくりてと回転し, 図 2に示す向きになったので, 0の符号 は| 2 |( 10 正 @ & }であるととがわかった。次に, 小球をヶ 軸に 沿って点Cまでゆっくり移動させると, 秩に描かれた矢印の向きは| s | になった。 J i\" Dp,",
+    "masked_problem_text": "© WW ET WI 4 e NN と SS ea Cee eo eee 9 ce a ae ee 結い キー ee | | | ー5 一 (2607一5) 物理基礎 問 2 次の文章中の空棚| 2 | に入れる語として最も適当なものを, その直後の { }から一つ選び, 空欄| 3 | に入れる最も適当な向きを.下の10~@の うちから一つ選べ。 REL ORMEOMO MME CNENERE g L—g(q> 0 )に普電させ, 剛 2 のように, 棒の中心を点A に固定し, xy 平面内で自由に回転できるよう にした。まず, 電気量 0 に帯電させた小球をヶ軸上の点Bにおくと, at 電気力の作用でゆっくりと回転し, 図 2 に示す向きになったので, の符号 は| 2 |( 10 © @ & }であるととがわかった。次に 小球をヵ電に 沿って点Cまでゆっくり移動させると, 棒に抽かれた矢印の向きは| 3 | になった。 J c(0,L) L q 9| _» ACL 0) * SRIROW Q@B(0, -2) 2 @8 aad ® WAN 0) @ | @ —t 一 (2607—6)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10331,7 +10310,7 @@
       "data/images/questions/2021_common_main_physics_basic_a03_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "Pes eke Pee | 5 ro | 上 ーー | 1 TI ae 3 RR se WE es ee 80 Beco 5 (2607—5) C(0,L) L q 0 ー2 A(ん0) * 絶縁体の棒 Q@B(0,—-L) 2 @ @ | @ oe ik o’ |e @ ー 6一 (2607一6)",
+    "masked_problem_text": "© WW ET WI 4 e NN と SS ea Cee eo eee 9 ce a ae ee 結い キー ee | | | ー5 一 (2607一5) 物理基礎 問 2 次の文章中の空棚| 2 | に入れる語として最も適当なものを, その直後の { }から一つ選び, 空欄| 3 | に入れる最も適当な向きを.下の10~@の うちから一つ選べ。 REL ORMEOMO MME CNENERE g L—g(q> 0 )に普電させ, 剛 2 のように, 棒の中心を点A に固定し, xy 平面内で自由に回転できるよう にした。まず, 電気量 0 に帯電させた小球をヶ軸上の点Bにおくと, at 電気力の作用でゆっくりと回転し, 図 2 に示す向きになったので, の符号 は| 2 |( 10 © @ & }であるととがわかった。次に 小球をヵ電に 沿って点Cまでゆっくり移動させると, 棒に抽かれた矢印の向きは| 3 | になった。 J c(0,L) L q 9| _» ACL 0) * SRIROW Q@B(0, -2) 2 @8 aad ® WAN 0) @ | @ —t 一 (2607—6)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10395,7 +10374,7 @@
       "data/images/questions/2021_common_main_physics_basic_a05_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 BH 4 ブールから帰ってきたAさんが, 同級生のBさんと熱に関する会話を交わし ている。次の会話文を読み, 下線部に誤りを含むものを10~20のうちからニつ 選べ。ただし, 解答番号の順序は問わない。 ・| 6 ] Aさん : ブールで泳ぐのはすごどくいい運動になるよね。ちょっと泳いだだけで へヘトヘトだよ。水中で手足を動かすのに使ったエネルギーは, いったい どとにいってしまうんだろう? B さん : 水の流れや体が進む運動エネルギーもあるし, 手足が水にした仁 EC その水の温度が少し上昇するがんもあると思うよ。 仕事は, 熱エ ネルギーになったりもするからね。たしかエネルギーは、 QML ルギーになってしまうと, その一部でも仕事に変えられないんだった ね。 Aさん : 物理基礎の授業で, 熱が関係するような現象は不可逆変化だって習っ たよ。でも, @不可逆変化のときでも熱エネルギーを含めたすべての エネルギーの総和は保存きれているんだよね。 PP と テア 。 KROME AES ee lo eee eL 1.日日たと 了 moe ニーーど、くニテニー Lt a. eB OL 物理基礎 Fe & A 物理基礎の試験問題は次に続く。 |",
+    "masked_problem_text": "物理基礎 問 4 プールから帰ってきたAさんが, 同級生のBさんと熟に関する会話を交わし ている。次の会話文を読み, 下線部に誤りを含むものを10~6のうちからニつ BR. REL, 解和番号の順序は問わない。 ‘Le ] Aさん : ブールで泳ぐのはすごくいい運動になるよね。ちょっと泳いだだけで へヘトヘトだよ。水中で手足を動かすのに使ったエネルギーは, いったい どことにいってしまうんだろう? B さん : 水の流れや体が進む運動エネルギーもあるし。 手足が水にした仁 BC, その水の温度が少し上昇するがんもやあると思うよ。仕事は。熱エ ネルギーになったりもするからね。たしか, エネルギーは。塾エネ ルギーになってしまうと, その一部でも仕事に変えられないんだった ね。 Aさん : 物理基礎の授業で, 熱が関係するような現象は不可逆変化だって習っ teks TH, 不可聞変化のときでも熱エネルギーを含めたすべての エネルギーの総和は保存きれているんだよね。 Bさん : BEC, 物体の温度なは抽選動と関係しているっていうことも習ったよ ね。 たとえば, の気圧のもとで水の温度を上げていったとき, 水分 子の熱較動が激しくなって, やがて沸勝するわけだね。 Aさん : それじゃ逆に温度を下げたら, 熱運動は租やかになるんだね。 冷凍庫 の中の温度は 20°C Ld, 業務用だともっと低いらしいよ。太陽から MS MNEBRORMBERAT, きっと, ものすどく低いんだろう ね。 Bさん : そうだね, 天王星とか, 海王星の表面だと — 200 てより低い温度ら しいね。もっと遠くでは, @ニ 300 てよりも低い温度になることもあ るはずだよ。そんなところじゃ, 宇宙服を着ないと, すぐに凍ってしま うね。 — $= (2607—8) 物理基礎 Fee : 物理基礎の試験問題は次に続く。 = 3=— (2607—9)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10428,7 +10407,7 @@
       "data/images/questions/2021_common_main_physics_basic_a06_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "たよ。でも, @8不可逆変化のとさきでも熱エネルギーを含めたすべての エネルギーの総和は保存きれているんだよね。 Bさん : 授業で, 物体の温度は熱運動と関係しているっていうととも習ったよ ね。たとえばゆば, @ 1 気圧のもとで水の温度を上げていったとき, 水分 子の熱運動が激しくなって, やがて沸騰するわけだね。 Aさん : それじゃ逆に温度を下げたら, 府運動は穏やかねになるんだね。 冷凍庫 の中の温度は 一 20°C とか, 業務用だともっと低いらしいよ。太陽から 遠く離れた惑星の表面温度なんて, きっと, ものすごく低いんだろう ね。 B さん : そうだね, 天王星とか, 海王星の表面だと — 200 てより低い温度ら しいね。もっと遠くでは, @ニ 300 てよりも低い温度になることもあ るはずだよ。そんなところじゃ, 宇宙服を着ないと, すぐに凍っつてしま うね。 ー8 一 (2607-8) ーー一 (2607一9)",
+    "masked_problem_text": "物理基礎 問 4 プールから帰ってきたAさんが, 同級生のBさんと熟に関する会話を交わし ている。次の会話文を読み, 下線部に誤りを含むものを10~6のうちからニつ BR. REL, 解和番号の順序は問わない。 ‘Le ] Aさん : ブールで泳ぐのはすごくいい運動になるよね。ちょっと泳いだだけで へヘトヘトだよ。水中で手足を動かすのに使ったエネルギーは, いったい どことにいってしまうんだろう? B さん : 水の流れや体が進む運動エネルギーもあるし。 手足が水にした仁 BC, その水の温度が少し上昇するがんもやあると思うよ。仕事は。熱エ ネルギーになったりもするからね。たしか, エネルギーは。塾エネ ルギーになってしまうと, その一部でも仕事に変えられないんだった ね。 Aさん : 物理基礎の授業で, 熱が関係するような現象は不可逆変化だって習っ teks TH, 不可聞変化のときでも熱エネルギーを含めたすべての エネルギーの総和は保存きれているんだよね。 Bさん : BEC, 物体の温度なは抽選動と関係しているっていうことも習ったよ ね。 たとえば, の気圧のもとで水の温度を上げていったとき, 水分 子の熱較動が激しくなって, やがて沸勝するわけだね。 Aさん : それじゃ逆に温度を下げたら, 熱運動は租やかになるんだね。 冷凍庫 の中の温度は 20°C Ld, 業務用だともっと低いらしいよ。太陽から MS MNEBRORMBERAT, きっと, ものすどく低いんだろう ね。 Bさん : そうだね, 天王星とか, 海王星の表面だと — 200 てより低い温度ら しいね。もっと遠くでは, @ニ 300 てよりも低い温度になることもあ るはずだよ。そんなところじゃ, 宇宙服を着ないと, すぐに凍ってしま うね。 — $= (2607—8) 物理基礎 Fee : 物理基礎の試験問題は次に続く。 = 3=— (2607—9)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10460,7 +10439,7 @@
       "data/images/questions/2021_common_main_physics_basic_a07_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 第 2 問 次の文章(A・B)を読み, 下の問い(問1 5) に答えよ。 (配点 18) A 図1のようにクラシックギターの音の波形をオシロスコープで観察したとこ ろ, 図 2 のような波形が観測された。図 2 の模軸は時間, 縦軸は電気信号の電圧 を表している。また, 表1は音階と振動数の関係を示している。 V6 8) クラシックギター cS £ ff ee 6 Sq ォシロスコーブ iy 1 物理基礎 表 1 5 | gama | 8b Hz | 147 Hz | 165 Hz | 175 Hz | 196 Hz | 220 Hz 247 Hz 262 Hz | 294 Hz | 330 Hz | 349 Hz | 392 Hz | 440 Hz | 494 Hz All 図2 の波形の音の周期は何 s か。最も適当な数値を. 次の11~20のうちか らーっ選べ。[| 7 |s @ 0.0023 @ 0.0028 8 0.0051 @ 0.0076 また, 表1 をもとにして, この音の音階として最も適当なものを, 次の 10~-20のうちから一つ選べ。 10 ド @ レ @ 8 @ ファ @ ソ ® 3 9 シ",
+    "masked_problem_text": "物理基礎 第 2 間 次の文章(A・B)を読み, 下の問い(問1 5)に答えよ。 (配点 18) A 図1のようにクラシックギターの音の波形をオシロスコープで観察したとこ ろ, 図2 のような波形が観測された。図 2 の横朝は時間、 縮軸は電気信号の電圧 を表している。また, 表1 は音階と振動数の関係を示している。 Qn a クラシックギター M/ J LG 天-ズオシロスコープ に ジノ ) ea a: VS f 図 1 BE H J : H : # : 0001s i 2 日 日 図 2 ー10 一 (2607一10) 物理基礎 表 1 : sgagyay, 131Hz | 147 Hz | 165 Hz | 175 Hz | 196 Hz | 220 Hz 247 Hz ! * | 262 Hz | 294 Hz | 330 Hz | 349 Hz | 392 Hz | 440 Hz | 494 Hz 間 1 図2 の波形の音の周期は何 s か。最も適当な数値を、次の20~20のうちか 5ーっ選べ。| 7 |s @ 0.0023 @ 0.0028 @ 0.0051 @ 0.0076 また, 表1 をもとにして, この音の音階として最も適当なものを, KO 10~-20のうちから一つ選べ。 @ ド @ レ @20 @ ファ @ ソ @ ラ 20 シ 一 (2607一11)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10492,7 +10471,7 @@
       "data/images/questions/2021_common_main_physics_basic_a08_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "1 電圧 SPPん MM 0.001 s 図 2 ー 10 一 (2607一10) 10 ド @ レ ® ミ @ ファ @ ソ © ラ 1217 シ ー 11 一 (2607一11)",
+    "masked_problem_text": "物理基礎 第 2 間 次の文章(A・B)を読み, 下の問い(問1 5)に答えよ。 (配点 18) A 図1のようにクラシックギターの音の波形をオシロスコープで観察したとこ ろ, 図2 のような波形が観測された。図 2 の横朝は時間、 縮軸は電気信号の電圧 を表している。また, 表1 は音階と振動数の関係を示している。 Qn a クラシックギター M/ J LG 天-ズオシロスコープ に ジノ ) ea a: VS f 図 1 BE H J : H : # : 0001s i 2 日 日 図 2 ー10 一 (2607一10) 物理基礎 表 1 : sgagyay, 131Hz | 147 Hz | 165 Hz | 175 Hz | 196 Hz | 220 Hz 247 Hz ! * | 262 Hz | 294 Hz | 330 Hz | 349 Hz | 392 Hz | 440 Hz | 494 Hz 間 1 図2 の波形の音の周期は何 s か。最も適当な数値を、次の20~20のうちか 5ーっ選べ。| 7 |s @ 0.0023 @ 0.0028 @ 0.0051 @ 0.0076 また, 表1 をもとにして, この音の音階として最も適当なものを, KO 10~-20のうちから一つ選べ。 @ ド @ レ @20 @ ファ @ ソ @ ラ 20 シ 一 (2607一11)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10681,7 +10660,7 @@
       "data/images/questions/2021_common_main_physics_basic_a14_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物理基礎 問 1 図2の線Aから線Bまでの台車の平均の速さヵusはいくぐらか。次の式の空 - 欄| 13 | に入れる数値として最も適当なものを, 下の10-人のうちから一つ に ass lm @ 0.017 @ 0.026 @ 0.17 @ 0.26 © 1.7 © 2.6 物理基礎 次に, 台車から記録テープを取りはずし, 図 3 のように加速度測定機能のついた スマートフォンを人台車に固定し, 加速度を測定した。 スマートフォン ag トト っ- ひも 滑車 lool oi の ストッパー 物理基礎 問 3 測定したデータにはわずかな乱れが含まれているが, 走行中の台車は等加 | 速度運動をしているものとする。 測定結果を見ると, 加速度は記録テープによ る測定値 0.72 m/s? より小さい0.60 m/s? であることがわかった。加速度が 小さくなった理由として最も適当な文を, 次の20こ20のうちから一つ選べ。 | Q スマートフォンの質量が, おもりと比べて小さかったから。",
+    "masked_problem_text": "物理基礎 All 図2の線Aから線 Bまでの台車の平均の速さ pas はいくらか。次の式の空 欄| 13 | に入れる数値として最も適当なものを, 下の10-010のうちから一つ に 選べ。 | iw =a lm @ 0.017 @ 0.026 8 0.17 @ 0.26 © 17 © 2.6 問 2 速度と時間のグラフ(ヵ-#グラフ) を作ると, 傾きが一定になっていた。この 傾きから加速度を計算すると, 0.72 m/s? となった。質量が 0.50 kg の台車を 引くひもの張カアはいくらか。次の式中の宅棚| 14 |-| 16 |に入れる 数字として最も適当なものを, 下の200~-20のうちから一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 (\\ ュ1 {\\ 。 {Try 。 7 4 fY oc 物理基礎 次に, 台車から記録テープを取りはずし, 図 3 のように加速度測定機能のついた スマートフォンを人台車に固定し, 加速度を測定した。 スマートフォン an rs ひも 滑車 lo-ol mt の ストッパー |おもり 図 3 測定を開始してからおもりを落下させ, 台車がストッパーによって停止したこと を確認して測定を終了した。 スマートフォンには図 4 のような画面が表示された。図 4 は縦軸が加速度, 横軸 が時間である。ただし, スマートフォンは台車の進む向きを正とした加速度を測定 物理基礎 間 3 測定したデータにはわずかな乱れが含まれているが, 走行中の台車は等加 | 才度運動をしているものとする。油定結果を見ると 加速度は記録デーブプによ | SRE 0.72 m/s? より小さい0.60 m/s? であることがわかった。加速度が 小さくなった理由として最も適当な文を, 次の11~こ20のうちから一つ選べ。 | OQ スマートフォンの質量が, おもりと比べて小さかったから。 20 スマートフォンの分だけ, 全体の質量が大きくなったから。 20 スマートフォンをのせたので, 摩擦が小さくなったから。 @ スマートフォンをのせても, 糸の張力が変わらちなかったから。 問 4 図4から等加速度運動をしている時間を読み取り, 加速度の値 0.60 m/s? を用いると, 台車がストッパーに接触する直前の速さ の を求めることができ る。 の: はいくらか。次の式の空欄| 18 | に入れる数値として最も適当なも のを, 下の10-20のうちから一つ選べ。 ーーエーーー",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10714,7 +10693,7 @@
       "data/images/questions/2021_common_main_physics_basic_a15_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "10 0.017 @ 0.026 8 0.17 @ 0.26 © 1.7 © 2.6 問 2 速度と時間のグラフ(?ヵ-#グラフ) を作ると, 傾きが一定になっていた。この 傾きから加速度を計算すると, 0.72 m/s? となった。質量が0.50 kg の台車を 引くひもの張カ7はいくらか。次の式中の空棚| 14 |-| 16 ]に入れる 数字として最も適当なものを, 下の200~-20のうちから一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 ーー -15一〇の ia A, ストッパー |おもり 3 測定を開始してからおもりを落下させ, 台車がストッパーによって停止したこと を確認して測定を終了した。 スマートフォンには図 4 のような画面が表示された。図 4 は縦軸が加速度, Bi が時間である。ただし, スマートフォンは台車の進む向きを正とした加速度を測定 10 スマートフォンの質量が, おもりと比べて小さかったから。 Q スマートフォンの分だけ. 全体の質量が大きくなったから。 20 スマートフォンをのせたので, 摩擦が小さくなったから。 @ スマートフォンをのせても, 糸の張力が変わらちなかったから。 問 4 図4から等加速度運動をしている時間を読み取り, 加速度の値 0.60 m/s? を用いると, 台車がストッパーに接触する直前の速さ ヵ, を求めることができ る。 の: はいくらか。次の式の空欄| 18 | に入れる数値として最も適当なも De, 下の10~-20のうちから一つ選べ。 ——",
+    "masked_problem_text": "物理基礎 All 図2の線Aから線 Bまでの台車の平均の速さ pas はいくらか。次の式の空 欄| 13 | に入れる数値として最も適当なものを, 下の10-010のうちから一つ に 選べ。 | iw =a lm @ 0.017 @ 0.026 8 0.17 @ 0.26 © 17 © 2.6 問 2 速度と時間のグラフ(ヵ-#グラフ) を作ると, 傾きが一定になっていた。この 傾きから加速度を計算すると, 0.72 m/s? となった。質量が 0.50 kg の台車を 引くひもの張カアはいくらか。次の式中の宅棚| 14 |-| 16 |に入れる 数字として最も適当なものを, 下の200~-20のうちから一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 (\\ ュ1 {\\ 。 {Try 。 7 4 fY oc 物理基礎 次に, 台車から記録テープを取りはずし, 図 3 のように加速度測定機能のついた スマートフォンを人台車に固定し, 加速度を測定した。 スマートフォン an rs ひも 滑車 lo-ol mt の ストッパー |おもり 図 3 測定を開始してからおもりを落下させ, 台車がストッパーによって停止したこと を確認して測定を終了した。 スマートフォンには図 4 のような画面が表示された。図 4 は縦軸が加速度, 横軸 が時間である。ただし, スマートフォンは台車の進む向きを正とした加速度を測定 物理基礎 間 3 測定したデータにはわずかな乱れが含まれているが, 走行中の台車は等加 | 才度運動をしているものとする。油定結果を見ると 加速度は記録デーブプによ | SRE 0.72 m/s? より小さい0.60 m/s? であることがわかった。加速度が 小さくなった理由として最も適当な文を, 次の11~こ20のうちから一つ選べ。 | OQ スマートフォンの質量が, おもりと比べて小さかったから。 20 スマートフォンの分だけ, 全体の質量が大きくなったから。 20 スマートフォンをのせたので, 摩擦が小さくなったから。 @ スマートフォンをのせても, 糸の張力が変わらちなかったから。 問 4 図4から等加速度運動をしている時間を読み取り, 加速度の値 0.60 m/s? を用いると, 台車がストッパーに接触する直前の速さ の を求めることができ る。 の: はいくらか。次の式の空欄| 18 | に入れる数値として最も適当なも のを, 下の10-20のうちから一つ選べ。 ーーエーーー",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10747,7 +10726,7 @@
       "data/images/questions/2021_common_main_physics_basic_a16_p3.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "@ 1 @ 2 @ 3 @ 4 @ 5 16 6 Q 7 @ 8 @ 9 @ 0 Seo Va スマートフォンには図 4 のような画面が表示された。図 4 は縦軸が加速度, Bie が時間である。ただし, スマートフォンは台車の進む向きを正とした加速度を測定 している。また., 台事が停止する直前の加速度はグラフの表示範囲を超えていた。 TTT TTT TTT AAU EET eOEUERERUREREMDRORARSES(NGD/U- OU AREA) A SULEEEEIRERELELEL TMM TET mT TTT Ee TTT: eH MTT ool AA MIHHIIIHAUH MAST WP (m/s) oo Ue oe EULA TTT ETT 04 beeper bere beret reer epee etre beet bebe pee berry る。 の: はいくらか。次の式の空柚| 18 | に入れる数値として最も適当なも DE, 下の10-20のうちから一つ選べ。 ぃLe Js @ 0.40 @ 1.0 @ 1.6 @ 2.2 問 5 台車を引いているおもりが落下しているとき, おもりのエネルギーの変化と して最も遺当なものを, 次の10~10のうちから一つ選べ。 16 1 19|@1l@l@",
+    "masked_problem_text": "物理基礎 All 図2の線Aから線 Bまでの台車の平均の速さ pas はいくらか。次の式の空 欄| 13 | に入れる数値として最も適当なものを, 下の10-010のうちから一つ に 選べ。 | iw =a lm @ 0.017 @ 0.026 8 0.17 @ 0.26 © 17 © 2.6 問 2 速度と時間のグラフ(ヵ-#グラフ) を作ると, 傾きが一定になっていた。この 傾きから加速度を計算すると, 0.72 m/s? となった。質量が 0.50 kg の台車を 引くひもの張カアはいくらか。次の式中の宅棚| 14 |-| 16 |に入れる 数字として最も適当なものを, 下の200~-20のうちから一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 (\\ ュ1 {\\ 。 {Try 。 7 4 fY oc 物理基礎 次に, 台車から記録テープを取りはずし, 図 3 のように加速度測定機能のついた スマートフォンを人台車に固定し, 加速度を測定した。 スマートフォン an rs ひも 滑車 lo-ol mt の ストッパー |おもり 図 3 測定を開始してからおもりを落下させ, 台車がストッパーによって停止したこと を確認して測定を終了した。 スマートフォンには図 4 のような画面が表示された。図 4 は縦軸が加速度, 横軸 が時間である。ただし, スマートフォンは台車の進む向きを正とした加速度を測定 物理基礎 間 3 測定したデータにはわずかな乱れが含まれているが, 走行中の台車は等加 | 才度運動をしているものとする。油定結果を見ると 加速度は記録デーブプによ | SRE 0.72 m/s? より小さい0.60 m/s? であることがわかった。加速度が 小さくなった理由として最も適当な文を, 次の11~こ20のうちから一つ選べ。 | OQ スマートフォンの質量が, おもりと比べて小さかったから。 20 スマートフォンの分だけ, 全体の質量が大きくなったから。 20 スマートフォンをのせたので, 摩擦が小さくなったから。 @ スマートフォンをのせても, 糸の張力が変わらちなかったから。 問 4 図4から等加速度運動をしている時間を読み取り, 加速度の値 0.60 m/s? を用いると, 台車がストッパーに接触する直前の速さ の を求めることができ る。 の: はいくらか。次の式の空欄| 18 | に入れる数値として最も適当なも のを, 下の10-20のうちから一つ選べ。 ーーエーーー",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -10809,7 +10788,9 @@
     "image_paths": [
       "data/images/questions/2021_common_main_physics_basic_a18.webp"
     ],
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "tesseract-image-ocr",
+    "masked_problem_text": "@ 1 Q@ 2 @ 3 @ 4 @ 5 16 6 2019 7 8 @ 9 @ 0 ー 17 一 (2607一17)",
+    "problem_text_source": "tesseract jpn+eng"
   },
   {
     "id": "2021_common_main_physics_basic_a19",
@@ -10840,7 +10821,7 @@
       "data/images/questions/2021_common_main_physics_basic_a19_p2.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "0HTYTNTTTUITTTTTTTTNAMPOY cvs) _ oo UL eT WMI 旧川川昌有有目昨上上昨目上 っHHHHHH間間昌昌明目朋目昨目 TPP 上 HH yo VE HL 0.0 05 10 415 20 25 30 35 40 45 50 55 6.0 FET (s) 図 4 — 18 一 (2607—18) [elelelelslel ー19 一 (2607一19)",
+    "masked_problem_text": "CMBR Ly CLALAR BS JU /Co スマートフォンには図 4 のような画面が表示された。図 SARE, 横山 が時間である。ただし, スマートフォンは人台車の進む向きを正とした加速度を測定 している。また, 台車が停止する直前の加速度はグラフの表示範囲を超えていた。 TTT O8 上p PETRI Peer rere Pepe Le Ae AAU td mT EET TT ATTEN THTTETETTECTTTETE HH用川上用 m 2 iit TE ※ DAA Be OO Te NT NTT rr AY YN7 (m/s) oo Ue aaa SATCU TT a ULE TE TTT TST ETT meal AATUUEEEUUETENUEEDUAETEUHETEUUEEUGET TART TAGTTUUATHI っ9HHHHHHHHHHIHETTHHTHHHTITHHH og HLTA TET TTP TTT 0.0 405 10 15 20 25 30 35 40 45 50 55 6.0 時間(s] 図 4 ー18 一 (2607一18) る。 の: はいくらか。次の式の空欄| 18 | に入れる数値として最も適当なも DE, 下の10-20のうちから一つ選べ。 ぃLe vs @ 0.40 @ 1.0 @ 1.6 @ 2.2 問 5 台車を引いているおもりが落下しているとき, おもりのエネルギーの変化と して最も遺当なものを, 次の10~2010のうちから一つ選べ。 16 1 19|@l@l@ BO Olt RI おもりの運動エネルギー Benois Ra ー 19 一 (2607一19)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -11498,11 +11479,10 @@
     "image_path": "data/images/questions/2020_center_main_physics_a20_p1.webp",
     "notes": "出典: 東進 センター試験2020解答速報。",
     "image_paths": [
-      "data/images/questions/2020_center_main_physics_a20_p1.webp",
-      "data/images/questions/2020_center_main_physics_a20_p2.webp"
+      "data/images/questions/2020_center_main_physics_a20_p1.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 問 3 AOMORI SRC HME ATT, 鉛直上向きにc線2線(電子)、 7 線を放出させる。水平方向に電場電界) をかけると, 3 種類の放射線は異な | る進み方をする。電場の向きとこれらの放射線の軌道を表す図として最も適当 なものを, 次の10~のうちから一っ選べ。| s ] 0) @ ag ak ak = Bm / 2線 “Sf <> 88 レー <3 sw 放射性物質 @ @ 人 ae ie [ie ogg \\ 物 理 (下書き用紙)",
+    "masked_problem_text": "物 理 問 3 AOMORI SRC HME ATT, 鉛直上向きにc線2線(電子)、 7 線を放出させる。水平方向に電場電界) をかけると, 3 種類の放射線は異な | る進み方をする。電場の向きとこれらの放射線の軌道を表す図として最も適当 なものを, 次の10~のうちから一っ選べ。| s ] 0) @ ag ak ak = Bm / 2線 “Sf <> 88 レー <3 sw 放射性物質 @ @ 人 ae ie [ie ogg \\",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -11593,11 +11573,10 @@
     "image_path": "data/images/questions/2020_center_main_physics_a23_p1.webp",
     "notes": "出典: 東進 センター試験2020解答速報。",
     "image_paths": [
-      "data/images/questions/2020_center_main_physics_a23_p1.webp",
-      "data/images/questions/2020_center_main_physics_a23_p2.webp"
+      "data/images/questions/2020_center_main_physics_a23_p1.webp"
     ],
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ツ Ww + # e線 : * a. | <2 68 om .\\ a8 @ @ , ag ae if - Ta | g線 へ <a a ae el 一 (2108—31) ー 32 一 (2108一32)",
+    "masked_problem_text": "ツ Ww + # e線 : * a. | <2 68 om .\\ a8 @ @ , ag ae if - Ta | g線 へ <a a ae el 一 (2108—31)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -12027,16 +12006,15 @@
     "correct_rate": null,
     "page": "17-18",
     "pdf_path": "data/pdf/2020_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2020_center_main_physics_basic_a13_p1.webp",
+    "image_path": "data/images/questions/2020_center_main_physics_basic_a13_p2.webp",
     "notes": "出典: 東進 センター試験2020解答速報。",
     "image_paths": [
-      "data/images/questions/2020_center_main_physics_basic_a13_p1.webp",
       "data/images/questions/2020_center_main_physics_basic_a13_p2.webp"
     ],
     "summary_source_url": "https://www.toshin.com/center/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "== 16 — (2107一16) vy v 2 wv jen 3 10 3 @ a, Crs 2 @ = 5の 3が 2g @ 89 @ 4g ー17 一 (2107-17)",
+    "masked_problem_text": "vy v 2 wv jen 3 10 3 @ a, Crs 2 @ = 5の 3が 2g @ 89 @ 4g ー17 一 (2107-17)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -12828,13 +12806,12 @@
     "image_path": "data/images/questions/2019_center_main_physics_a24_p1.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
     "image_paths": [
-      "data/images/questions/2019_center_main_physics_a24_p1.webp",
-      "data/images/questions/2019_center_main_physics_a24_p2.webp"
+      "data/images/questions/2019_center_main_physics_a24_p1.webp"
     ],
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "i fv a eal =>) i (C) 0 2 4 6 8 10 波長 (x 107! m) 図 4 | @ | wewm | wee | Fe [mee | ete — 36» — (2608—36) 9か (2608一37)",
+    "masked_problem_text": "i fv a eal =>) i (C) 0 2 4 6 8 10 波長 (x 107! m) 図 4 | @ | wewm | wee | Fe [mee | ete — 36» — (2608—36)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -13326,16 +13303,15 @@
     "correct_rate": null,
     "page": "19-20",
     "pdf_path": "data/pdf/2019_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_basic_a14_p1.webp",
+    "image_path": "data/images/questions/2019_center_main_physics_basic_a14_p2.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
     "image_paths": [
-      "data/images/questions/2019_center_main_physics_basic_a14_p1.webp",
       "data/images/questions/2019_center_main_physics_basic_a14_p2.webp"
     ],
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "— 18 一 (2607一18) 直抗力は小物体に| ア |。この間に, 重力が小物体 1. 2 にする仕事をそ NENW, Messe, その大小関係は| イ |となる。 9 | avers | mem | 6 | eWeugn | ws | 6 | Weren | mam | 一幸一 (2607—19)",
+    "masked_problem_text": "直抗力は小物体に| ア |。この間に, 重力が小物体 1. 2 にする仕事をそ NENW, Messe, その大小関係は| イ |となる。 9 | avers | mem | 6 | eWeugn | ws | 6 | Weren | mam | 一幸一 (2607—19)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -14629,14 +14605,13 @@
     "image_path": "data/images/questions/2018_center_main_physics_basic_a11_p1.webp",
     "notes": "出典: 東進 センター試験2018解答速報。",
     "image_paths": [
-      "data/images/questions/2018_center_main_physics_basic_a11_p1.webp",
-      "data/images/questions/2018_center_main_physics_basic_a11_p2.webp"
+      "data/images/questions/2018_center_main_physics_basic_a11_p1.webp"
     ],
     "common_summary": "鉛直投げ上げ・水平投射と、定滑車につるされた物体の運動を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "Bl 時刻:王0に, 静止した台車から小球を打ち出した。小球が最高点に到達 する時刻を表す式として正しいものを, 次の10~20のうちから一つ選べ。 vo Lo 200 0 29 @ g 9 g ve 2 2 @ 29 @ 9 @ g — 16 一 (2107一16) ー17 一 (2107一17)",
+    "masked_problem_text": "Bl 時刻:王0に, 静止した台車から小球を打ち出した。小球が最高点に到達 する時刻を表す式として正しいものを, 次の10~20のうちから一つ選べ。 vo Lo 200 0 29 @ g 9 g ve 2 2 @ 29 @ 9 @ g — 16 一 (2107一16)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -14941,18 +14916,16 @@
     "correct_rate": null,
     "page": "9-11",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a07_p1.webp",
+    "image_path": "data/images/questions/2017_center_main_physics_a07_p3.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
     "image_paths": [
-      "data/images/questions/2017_center_main_physics_a07_p1.webp",
-      "data/images/questions/2017_center_main_physics_a07_p2.webp",
       "data/images/questions/2017_center_main_physics_a07_p3.webp"
     ],
     "common_summary": "金属板を挿入した平行板コンデンサーと、コイルの電磁誘導・ダイオードの整流を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー12 一 (2608一12) ー 18 一 (2608一13) ~ ダイオード 2 問 3 スイッチをP側に入れて, 磁束密度おを図3のように変化させた。三つ OFM CO << TT, T<t< 27, 27 <t< 37)における, 抵抗器を 流れる電流に関する記述の組合せとして最も適当なものを, FOO~OOS ちから一つ選べ。 B Bo プー t 「/ T 。 27 37 —Bo 図 3 ー14 一 (2608—14)",
+    "masked_problem_text": "~ ダイオード 2 問 3 スイッチをP側に入れて, 磁束密度おを図3のように変化させた。三つ OFM CO << TT, T<t< 27, 27 <t< 37)における, 抵抗器を 流れる電流に関する記述の組合せとして最も適当なものを, FOO~OOS ちから一つ選べ。 B Bo プー t 「/ T 。 27 37 —Bo 図 3 ー14 一 (2608—14)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -15456,14 +15429,13 @@
     "image_path": "data/images/questions/2017_center_main_physics_a21_p1.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
     "image_paths": [
-      "data/images/questions/2017_center_main_physics_a21_p1.webp",
-      "data/images/questions/2017_center_main_physics_a21_p2.webp"
+      "data/images/questions/2017_center_main_physics_a21_p1.webp"
     ],
     "common_summary": "観測者・音源・反射板が動く場合のドップラー効果を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 問 3 次の文章中の空欄[| ア | ・| イ |に入れる式と語の組合せとして最も適 なものを, 下の10-のうちから一つ選べ。[ 3 | 太陽の中心部では, iH が次々に核豆合して, 最終的に#He が生成されてい る。その最終段階の反応の一つは, 次の式で表すことができる。 tHe + iHe 一・ He+| アァ | この反応ではエネルギーが| イ | される。ただし. TH. He, He の結合エ ネルギーは, それぞれ 2.2 MeV, 7.7 MeV, 28.3 MeV であるとする。 oO | mm | gm | 9 | mm | ww | @ | in | ew | fy dee eg, ae 物 理 (下書き用紙)",
+    "masked_problem_text": "物 理 問 3 次の文章中の空欄[| ア | ・| イ |に入れる式と語の組合せとして最も適 なものを, 下の10-のうちから一つ選べ。[ 3 | 太陽の中心部では, iH が次々に核豆合して, 最終的に#He が生成されてい る。その最終段階の反応の一つは, 次の式で表すことができる。 tHe + iHe 一・ He+| アァ | この反応ではエネルギーが| イ | される。ただし. TH. He, He の結合エ ネルギーは, それぞれ 2.2 MeV, 7.7 MeV, 28.3 MeV であるとする。 oO | mm | gm | 9 | mm | ww | @ | in | ew | fy dee eg, ae",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -16358,10 +16330,9 @@
     "correct_rate": null,
     "page": "10-12",
     "pdf_path": "data/pdf/2016_center_main_physics.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_a09_p1.webp",
+    "image_path": "data/images/questions/2016_center_main_physics_a09_p2.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
     "image_paths": [
-      "data/images/questions/2016_center_main_physics_a09_p1.webp",
       "data/images/questions/2016_center_main_physics_a09_p2.webp",
       "data/images/questions/2016_center_main_physics_a09_p3.webp"
     ],
@@ -16369,7 +16340,7 @@
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー18 一 (2108—13) Bo CWS, 昌孝 ieAVINS CY CORDIES/SOWe, 状ウリーのつうちら から一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 電場の場合:| s | 磁場の場合: | 4 | 10 + © Ofc En cH Ss #OMz e+ @ + © @抵面に垂直で表から裏の向き 6) と Q コーニーニニニニニニニュゴュなこー 前しーーーニーニーニーニニニーニニニーニーニーニニーーニーニニーーニニニニニーーー- ーーニーニーニーニーーーーーーーーー £ P nA ー14 一 (2108—14) To | ame [| ー15 一 (2108一15)",
+    "masked_problem_text": "Bo CWS, 昌孝 ieAVINS CY CORDIES/SOWe, 状ウリーのつうちら から一つずつ選べ。ただし, 同じものを繰り返し選んでもよい。 電場の場合:| s | 磁場の場合: | 4 | 10 + © Ofc En cH Ss #OMz e+ @ + © @抵面に垂直で表から裏の向き 6) と Q コーニーニニニニニニニュゴュなこー 前しーーーニーニーニーニニニーニニニーニーニーニニーーニーニニーーニニニニニーーー- ーーニーニーニーニーーーーーーーーー £ P nA ー14 一 (2108—14) To | ame [| ー15 一 (2108一15)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -16767,14 +16738,13 @@
     "image_path": "data/images/questions/2016_center_main_physics_a21_p1.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
     "image_paths": [
-      "data/images/questions/2016_center_main_physics_a21_p1.webp",
-      "data/images/questions/2016_center_main_physics_a21_p2.webp"
+      "data/images/questions/2016_center_main_physics_a21_p1.webp"
     ],
     "common_summary": "理想気体の混合と内部エネルギーを扱う選択問題。",
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "物 理 問 3 次の文章中の空欄| エ | ・| オ |に入れる語句の組合せとして最も適当 なものを、下の10-20のうちから一つ選べ。| 3 | 前ページの図 1 の装置の光源を, 単色光を発する別の光源に交換し, と7 の関係を調べたところ、図3 の破線の結果が得ちられた。図 3 の実線は交換前の と7の関係を示している。このグラフから次のことがわかる。交換後の光の 振動数は, | エ |。 また.単位時間あたりに電極bに入射する光子の数 a, La]. I Ia 交換前 ンーーーー交換後 Vv ーP。 0 お の 物 理 CF # &",
+    "masked_problem_text": "物 理 問 3 次の文章中の空欄| エ | ・| オ |に入れる語句の組合せとして最も適当 なものを、下の10-20のうちから一つ選べ。| 3 | 前ページの図 1 の装置の光源を, 単色光を発する別の光源に交換し, と7 の関係を調べたところ、図3 の破線の結果が得ちられた。図 3 の実線は交換前の と7の関係を示している。このグラフから次のことがわかる。交換後の光の 振動数は, | エ |。 また.単位時間あたりに電極bに入射する光子の数 a, La]. I Ia 交換前 ンーーーー交換後 Vv ーP。 0 お の",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -16836,12 +16806,11 @@
     "image_path": "data/images/questions/2016_center_main_physics_a23_p1.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
     "image_paths": [
-      "data/images/questions/2016_center_main_physics_a23_p1.webp",
-      "data/images/questions/2016_center_main_physics_a23_p2.webp"
+      "data/images/questions/2016_center_main_physics_a23_p1.webp"
     ],
     "common_summary": "光電効果、阻止電圧、光電流を扱う選択問題。",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ーヤ。 O Vv 3 | 9 | zwWkoxe | msn | | 6 | kgAst | AMWkりをい | | @ | zewru | xen | | 0 | wkpなeu | kp2な| ー32 一 (2108一32) — 33 一 (2108—33)",
+    "masked_problem_text": "ーヤ。 O Vv 3 | 9 | zwWkoxe | msn | | 6 | kgAst | AMWkりをい | | @ | zewru | xen | | 0 | wkpなeu | kp2な| ー32 一 (2108一32)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -17298,15 +17267,14 @@
     "correct_rate": null,
     "page": "15-16",
     "pdf_path": "data/pdf/2016_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_basic_a13_p1.webp",
+    "image_path": "data/images/questions/2016_center_main_physics_basic_a13_p2.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
     "image_paths": [
-      "data/images/questions/2016_center_main_physics_basic_a13_p1.webp",
       "data/images/questions/2016_center_main_physics_basic_a13_p2.webp"
     ],
     "common_summary": "力学的エネルギー保存則と、鉛直投げ上げを扱う。",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "ー16 一 (2107一16) 9 ち ot 9 t,t タ y, le) ty t O to t ー17 一 (2107一17)",
+    "masked_problem_text": "9 ち ot 9 t,t タ y, le) ty t O to t ー17 一 (2107一17)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
@@ -18057,11 +18025,10 @@
     "image_path": "data/images/questions/2015_center_main_physics_a23_p1.webp",
     "notes": "出典: 東進 センター試験2015解答速報。",
     "image_paths": [
-      "data/images/questions/2015_center_main_physics_a23_p1.webp",
-      "data/images/questions/2015_center_main_physics_a23_p2.webp"
+      "data/images/questions/2015_center_main_physics_a23_p1.webp"
     ],
     "common_summary": "ラザフォード散乱、ボーアの原子模型、量子条件を扱う選択問題。",
-    "problem_text_status": "tesseract-image-ocr",
+    "problem_text_status": "pending-empty-ocr",
     "masked_problem_text": "— 28 一 (2608一28) ー29 一 (2608一29)",
     "problem_text_source": "tesseract jpn+eng"
   },
@@ -18817,14 +18784,13 @@
     "image_path": "data/images/questions/2014_center_main_physics1_a09_p1.webp",
     "notes": "出典: 東進 センター試験2014解答速報。",
     "image_paths": [
-      "data/images/questions/2014_center_main_physics1_a09_p1.webp",
-      "data/images/questions/2014_center_main_physics1_a09_p2.webp"
+      "data/images/questions/2014_center_main_physics1_a09_p1.webp"
     ],
     "common_summary": "電流・磁場・電磁誘導・回路に関する大問。",
     "summary_source_url": "https://www.toshin.com/center/2014/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
     "problem_text_status": "tesseract-image-ocr",
-    "masked_problem_text": "コイル側の電力は等しく保たれるものとする。 je 200 m 一ーーーーーーー* 光り le 源 R {a) ミーーーーーーー 200mーーーーーーー* | ーー | 交 J fe Le E ie Are 変圧器 (b) 図 2 — 68 一 (2107—68) — 69 一 (2107-69)",
+    "masked_problem_text": "コイル側の電力は等しく保たれるものとする。 je 200 m 一ーーーーーーー* 光り le 源 R {a) ミーーーーーーー 200mーーーーーーー* | ーー | 交 J fe Le E ie Are 変圧器 (b) 図 2 — 68 一 (2107—68)",
     "problem_text_source": "tesseract jpn+eng"
   },
   {
