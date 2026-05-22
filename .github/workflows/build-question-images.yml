@@ -23,6 +23,7 @@ jobs:
           node scripts/heuristic-vertical-crop-boxes.mjs
           node scripts/extract-search-text-from-pdf.mjs
           node scripts/build-question-images.mjs
+          node scripts/prune-tiny-question-images.mjs
           node scripts/ocr-search-text-from-images.mjs
           node scripts/check-db.mjs
       - name: Commit generated images
