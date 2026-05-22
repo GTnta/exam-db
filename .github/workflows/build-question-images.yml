@@ -14,14 +14,16 @@ jobs:
       - name: Install PDF and image tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y poppler-utils imagemagick webp
+          sudo apt-get install -y poppler-utils imagemagick webp tesseract-ocr tesseract-ocr-jpn
       - name: Build images
         run: |
           node scripts/infer-pages-from-pdf-text.mjs
           node scripts/init-full-page-crops.mjs
           node scripts/sync-question-image-pages.mjs
+          node scripts/heuristic-vertical-crop-boxes.mjs
           node scripts/extract-search-text-from-pdf.mjs
           node scripts/build-question-images.mjs
+          node scripts/ocr-search-text-from-images.mjs
           node scripts/check-db.mjs
       - name: Commit generated images
         run: |
