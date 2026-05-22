@@ -21,6 +21,7 @@ jobs:
           node scripts/init-full-page-crops.mjs
           node scripts/sync-question-image-pages.mjs
           node scripts/heuristic-vertical-crop-boxes.mjs
+          node scripts/fallback-tiny-crops-to-full-page.mjs
           node scripts/extract-search-text-from-pdf.mjs
           node scripts/build-question-images.mjs
           node scripts/prune-tiny-question-images.mjs

@@ -9,21 +9,22 @@ const thresholdBytes = Number(process.argv.find((arg) => arg.startsWith('--thres
 
 const questions = JSON.parse(fs.readFileSync(questionsPath, 'utf8'));
 const crops = JSON.parse(fs.readFileSync(cropsPath, 'utf8'));
+const questionsById = new Map(questions.map((question) => [question.id, question]));
 
 const rowsByQuestion = groupBy(crops, (row) => row.question_id);
 const removedOutputs = new Set();
 const inspected = [];
 
 for (const [questionId, rows] of rowsByQuestion.entries()) {
+  const question = questionsById.get(questionId);
   const existingRows = rows
     .map((row) => ({ row, output: normalizePath(row.output), size: fileSize(row.output) }))
     .filter((item) => item.output && item.size != null);
 
-  if (existingRows.length <= 1) continue;
-
   const smallRows = existingRows.filter((item) => item.size < thresholdBytes);
   const usableRows = existingRows.filter((item) => item.size >= thresholdBytes);
-  if (!smallRows.length || !usableRows.length) continue;
+  if (!smallRows.length) continue;
+  if (!usableRows.length && question?.problem_text_status !== 'pending-empty-ocr') continue;
 
   for (const item of smallRows) {
     removedOutputs.add(item.output);
@@ -48,9 +49,15 @@ for (const question of questions) {
       ? [normalizePath(question.image_path)]
       : [];
   const next = current.filter((output) => !removedOutputs.has(output));
-  if (!next.length) continue;
-  question.image_paths = next;
-  question.image_path = next[0];
+  if (next.length) {
+    question.image_paths = next;
+    question.image_path = next[0];
+    delete question.image_status;
+  } else if (current.some((output) => removedOutputs.has(output))) {
+    delete question.image_paths;
+    delete question.image_path;
+    question.image_status = 'unavailable-small-crop';
+  }
 }
 
 fs.writeFileSync(cropsPath, `${JSON.stringify(keptCrops, null, 2)}\n`);

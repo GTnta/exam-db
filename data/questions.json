@@ -10209,14 +10209,11 @@
     "correct_rate": 63.3,
     "page": "32",
     "pdf_path": "data/pdf/2021_common_main_physics.pdf",
-    "image_path": "data/images/questions/2021_common_main_physics_a28.webp",
     "notes": "3を解答した場合は3点。",
     "correct_rate_source_name": "Z会共通テスト対策サイト",
     "correct_rate_source_url": "https://www.zkai.co.jp/kyotsu-test/result/butsuri-rate/",
-    "image_paths": [
-      "data/images/questions/2021_common_main_physics_a28.webp"
-    ],
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2021_common_main_physics_basic_a01",
@@ -12176,14 +12173,11 @@
     "correct_rate": null,
     "page": "8",
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_a05.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
-    "image_paths": [
-      "data/images/questions/2019_center_main_physics_a05.webp"
-    ],
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2019_center_main_physics_a06",
@@ -12742,12 +12736,9 @@
     "correct_rate": null,
     "page": "34",
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
-    "image_paths": [
-      "data/images/questions/2019_center_main_physics_a22.webp"
-    ],
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2019_center_main_physics_a23",
@@ -12772,14 +12763,11 @@
     "correct_rate": null,
     "page": "35-36",
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_a23.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
-    "image_paths": [
-      "data/images/questions/2019_center_main_physics_a23.webp"
-    ],
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2019_center_main_physics_a24",
@@ -12838,14 +12826,11 @@
     "correct_rate": null,
     "page": "39",
     "pdf_path": "data/pdf/2019_center_main_physics.pdf",
-    "image_path": "data/images/questions/2019_center_main_physics_a25.webp",
     "notes": "出典: 東進 センター試験2019解答速報。",
-    "image_paths": [
-      "data/images/questions/2019_center_main_physics_a25.webp"
-    ],
     "summary_source_url": "https://www.toshin.com/center/2019/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2019_center_main_physics_basic_a01",
@@ -13615,15 +13600,12 @@
     "correct_rate": null,
     "page": "14",
     "pdf_path": "data/pdf/2018_center_main_physics.pdf",
-    "image_path": "data/images/questions/2018_center_main_physics_a09.webp",
     "notes": "出典: 東進 センター試験2018解答速報。",
-    "image_paths": [
-      "data/images/questions/2018_center_main_physics_a09.webp"
-    ],
     "common_summary": "コンデンサーの過渡現象とジュール熱、長方形コイルの電磁誘導を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2018_center_main_physics_a10",
@@ -14155,15 +14137,12 @@
     "correct_rate": null,
     "page": "37-38",
     "pdf_path": "data/pdf/2018_center_main_physics.pdf",
-    "image_path": "data/images/questions/2018_center_main_physics_a24.webp",
     "notes": "出典: 東進 センター試験2018解答速報。",
-    "image_paths": [
-      "data/images/questions/2018_center_main_physics_a24.webp"
-    ],
     "common_summary": "原子核、素粒子、崩壊系列、半減期に関する選択問題。",
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2018_center_main_physics_a25",
@@ -14225,15 +14204,12 @@
     "correct_rate": null,
     "page": "41",
     "pdf_path": "data/pdf/2018_center_main_physics.pdf",
-    "image_path": "data/images/questions/2018_center_main_physics_a26.webp",
     "notes": "出典: 東進 センター試験2018解答速報。",
-    "image_paths": [
-      "data/images/questions/2018_center_main_physics_a26.webp"
-    ],
     "common_summary": "原子核、素粒子、崩壊系列、半減期に関する選択問題。",
     "summary_source_url": "https://www.toshin.com/center/2018/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2018_center_main_physics_basic_a01",
@@ -15394,15 +15370,12 @@
     "correct_rate": null,
     "page": "32",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a20.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_a20.webp"
-    ],
     "common_summary": "円錐内部での小物体の運動と、エレベーター内の慣性力を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2017_center_main_physics_a21",
@@ -15460,15 +15433,12 @@
     "correct_rate": null,
     "page": "35-36",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_a22.webp"
-    ],
     "common_summary": "観測者・音源・反射板が動く場合のドップラー効果を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2017_center_main_physics_a23",
@@ -15530,15 +15500,12 @@
     "correct_rate": null,
     "page": "38",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a24.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_a24.webp"
-    ],
     "common_summary": "放射線の性質、質量欠損、原子核反応を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2017_center_main_physics_a25",
@@ -15564,15 +15531,12 @@
     "correct_rate": null,
     "page": "39",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a25.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_a25.webp"
-    ],
     "common_summary": "放射線の性質、質量欠損、原子核反応を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2017_center_main_physics_a26",
@@ -15599,15 +15563,12 @@
     "correct_rate": null,
     "page": "39",
     "pdf_path": "data/pdf/2017_center_main_physics.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_a26.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_a26.webp"
-    ],
     "common_summary": "放射線の性質、質量欠損、原子核反応を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2017_center_main_physics_basic_a01",
@@ -16034,15 +15995,12 @@
     "correct_rate": null,
     "page": "15",
     "pdf_path": "data/pdf/2017_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2017_center_main_physics_basic_a13.webp",
     "notes": "出典: 東進 センター試験2017解答速報。",
-    "image_paths": [
-      "data/images/questions/2017_center_main_physics_basic_a13.webp"
-    ],
     "common_summary": "斜面上のつり合いとエネルギー保存、糸でつながった2物体の等加速度運動を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2017/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2016_center_main_physics_a01",
@@ -16500,15 +16458,12 @@
     "correct_rate": null,
     "page": "20",
     "pdf_path": "data/pdf/2016_center_main_physics.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_a14.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
-    "image_paths": [
-      "data/images/questions/2016_center_main_physics_a14.webp"
-    ],
     "common_summary": "音波の干渉とドップラー効果、薄膜による光の干渉を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2016_center_main_physics_a15",
@@ -16770,15 +16725,12 @@
     "correct_rate": null,
     "page": "31-32",
     "pdf_path": "data/pdf/2016_center_main_physics.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
-    "image_paths": [
-      "data/images/questions/2016_center_main_physics_a22.webp"
-    ],
     "common_summary": "光電効果、阻止電圧、光電流を扱う選択問題。",
     "summary_source_url": "https://www.toshin.com/center/2016/butsuri_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2016_center_main_physics_a23",
@@ -16836,13 +16788,10 @@
     "correct_rate": null,
     "page": "35",
     "pdf_path": "data/pdf/2016_center_main_physics.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_a24.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
-    "image_paths": [
-      "data/images/questions/2016_center_main_physics_a24.webp"
-    ],
     "common_summary": "光電効果、阻止電圧、光電流を扱う選択問題。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2016_center_main_physics_basic_a01",
@@ -17237,13 +17186,10 @@
     "correct_rate": null,
     "page": "14",
     "pdf_path": "data/pdf/2016_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2016_center_main_physics_basic_a12.webp",
     "notes": "出典: 東進 センター試験2016解答速報。",
-    "image_paths": [
-      "data/images/questions/2016_center_main_physics_basic_a12.webp"
-    ],
     "common_summary": "力学的エネルギー保存則と、鉛直投げ上げを扱う。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2016_center_main_physics_basic_a13",
@@ -17992,13 +17938,10 @@
     "correct_rate": null,
     "page": "27-28",
     "pdf_path": "data/pdf/2015_center_main_physics.pdf",
-    "image_path": "data/images/questions/2015_center_main_physics_a22.webp",
     "notes": "出典: 東進 センター試験2015解答速報。",
-    "image_paths": [
-      "data/images/questions/2015_center_main_physics_a22.webp"
-    ],
     "common_summary": "ラザフォード散乱、ボーアの原子模型、量子条件を扱う選択問題。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2015_center_main_physics_a23",
@@ -18054,13 +17997,10 @@
     "correct_rate": null,
     "page": "31",
     "pdf_path": "data/pdf/2015_center_main_physics.pdf",
-    "image_path": "data/images/questions/2015_center_main_physics_a24.webp",
     "notes": "出典: 東進 センター試験2015解答速報。",
-    "image_paths": [
-      "data/images/questions/2015_center_main_physics_a24.webp"
-    ],
     "common_summary": "ラザフォード散乱、ボーアの原子模型、量子条件を扱う選択問題。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2015_center_main_physics_basic_a01",
@@ -18449,15 +18389,12 @@
     "correct_rate": null,
     "page": "16",
     "pdf_path": "data/pdf/2015_center_main_physics_basic.pdf",
-    "image_path": "data/images/questions/2015_center_main_physics_basic_a12.webp",
     "notes": "出典: 東進 センター試験2015解答速報。",
-    "image_paths": [
-      "data/images/questions/2015_center_main_physics_basic_a12.webp"
-    ],
     "common_summary": "ばねに働く力と仕事、斜面上の等加速度運動を扱う。",
     "summary_source_url": "https://www.toshin.com/center/2015/butsuri-kiso_shousai.html#analysis",
     "summary_source_name": "東進 設問別分析",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2015_center_main_physics_basic_a13",
@@ -20689,13 +20626,10 @@
     "correct_rate": null,
     "page": "21",
     "pdf_path": "data/pdf/2012_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2012_center_main_physics1_a21.webp",
     "notes": "出典: 東進 センター試験2012解答速報。",
-    "image_paths": [
-      "data/images/questions/2012_center_main_physics1_a21.webp"
-    ],
     "common_summary": "弾性力、力学的エネルギー、摩擦、気体の状態変化を扱う大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2012_center_main_physics1_a22",
@@ -23013,13 +22947,10 @@
     "correct_rate": null,
     "page": "26",
     "pdf_path": "data/pdf/2009_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2009_center_main_physics1_a23.webp",
     "notes": "出典: 東進 センター試験2009解答速報。",
-    "image_paths": [
-      "data/images/questions/2009_center_main_physics1_a23.webp"
-    ],
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2008_center_main_physics1_a01",
@@ -23774,13 +23705,10 @@
     "correct_rate": null,
     "page": "24",
     "pdf_path": "data/pdf/2008_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2008_center_main_physics1_a24.webp",
     "notes": "出典: 東進 センター試験2008解答速報。",
-    "image_paths": [
-      "data/images/questions/2008_center_main_physics1_a24.webp"
-    ],
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2007_center_main_physics1_a01",
@@ -24463,13 +24391,10 @@
     "correct_rate": null,
     "page": "22",
     "pdf_path": "data/pdf/2007_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2007_center_main_physics1_a22.webp",
     "notes": "出典: 東進 センター試験2007解答速報。",
-    "image_paths": [
-      "data/images/questions/2007_center_main_physics1_a22.webp"
-    ],
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2007_center_main_physics1_a23",
@@ -24525,13 +24450,10 @@
     "correct_rate": null,
     "page": "24",
     "pdf_path": "data/pdf/2007_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2007_center_main_physics1_a24.webp",
     "notes": "出典: 東進 センター試験2007解答速報。",
-    "image_paths": [
-      "data/images/questions/2007_center_main_physics1_a24.webp"
-    ],
     "common_summary": "力学、エネルギー、熱に関する総合大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2006_center_main_physics1_a01",
@@ -24713,12 +24635,9 @@
     "correct_rate": null,
     "page": "5",
     "pdf_path": "data/pdf/2006_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2006_center_main_physics1_a06.webp",
     "notes": "出典: JS日本の学校 センター試験過去問題。",
-    "image_paths": [
-      "data/images/questions/2006_center_main_physics1_a06.webp"
-    ],
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2006_center_main_physics1_a07",
@@ -24958,13 +24877,10 @@
     "correct_rate": null,
     "page": "11",
     "pdf_path": "data/pdf/2006_center_main_physics1.pdf",
-    "image_path": "data/images/questions/2006_center_main_physics1_a14.webp",
     "notes": "出典: JS日本の学校 センター試験過去問題。",
-    "image_paths": [
-      "data/images/questions/2006_center_main_physics1_a14.webp"
-    ],
     "common_summary": "波の性質、干渉、共鳴、音波に関する大問。",
-    "problem_text_status": "pending-empty-ocr"
+    "problem_text_status": "pending-empty-ocr",
+    "image_status": "unavailable-small-crop"
   },
   {
     "id": "2006_center_main_physics1_a15",
