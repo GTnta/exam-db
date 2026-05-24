@@ -35,8 +35,8 @@ for (const question of questions) {
   question.image_paths = record.image_paths;
   question.image_path = record.image_paths[0] ?? "";
   question.masked_problem_text = compactText(record.masked_problem_text);
-  question.problem_text_status = "pdfium-question-marker-slice";
-  question.problem_text_source = "pdfium-question-marker-crop";
+  question.problem_text_status = record.problem_text_status ?? "pdfium-question-marker-slice";
+  question.problem_text_source = record.problem_text_source ?? "pdfium-question-marker-crop";
   delete question.image_status;
   const page = pageLabel(record.crop_rows);
   if (page) question.page = page;

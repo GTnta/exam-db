@@ -1,6 +1,8 @@
 data/questions.sqlite
 data/_tmp/
 worklogs/*.json
+worklogs/*.jpg
+worklogs/**/*.jpg
 worklogs/analysis-pages/
 worklogs/candidate-pdfs/
 worklogs/restore-points/

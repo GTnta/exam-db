@@ -49,8 +49,10 @@ for (const question of questions) {
 
   for (const crop of questionCrops) {
     if (crop.status === 'full-page-placeholder' || !crop.box) fullPagePlaceholders += 1;
-    if (Number(crop.pdf_page) <= 2) pdfPageOneOrTwo += 1;
-    if (Number(crop.pdf_page) <= 2 && Number(crop.page) <= 2) {
+    const pdfPage = crop.pdf_page === '' || crop.pdf_page == null ? NaN : Number(crop.pdf_page);
+    const displayPage = crop.page === '' || crop.page == null ? NaN : Number(crop.page);
+    if (Number.isFinite(pdfPage) && pdfPage <= 2) pdfPageOneOrTwo += 1;
+    if (Number.isFinite(pdfPage) && Number.isFinite(displayPage) && pdfPage <= 2 && displayPage <= 2) {
       findings.push({
         id: question.id,
         type: 'possible_cover_or_instruction_page',

@@ -228,6 +228,36 @@ select:focus {
   gap: 6px;
 }
 
+.answer-reveal {
+  display: inline-grid;
+  gap: 6px;
+}
+
+.answer-reveal summary {
+  width: fit-content;
+  cursor: pointer;
+  color: var(--accent);
+  background: #f8fffc;
+  border: 1px solid rgba(15, 118, 110, 0.34);
+  border-radius: 6px;
+  padding: 5px 9px;
+  font-size: 13px;
+  font-weight: 700;
+  list-style: none;
+}
+
+.answer-reveal summary:hover {
+  background: var(--accent-soft);
+}
+
+.answer-reveal summary::-webkit-details-marker {
+  display: none;
+}
+
+.answer-reveal span {
+  font-weight: 700;
+}
+
 .image-box {
   margin-top: 16px;
   border: 1px dashed var(--line);
@@ -268,7 +298,7 @@ select:focus {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  margin-top: 16px;
+  margin: 10px 0 16px;
 }
 
 .link-row a {

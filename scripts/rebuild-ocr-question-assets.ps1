@@ -1,5 +1,6 @@
 ﻿param(
   [switch]$AnalyzeOnly,
+  [switch]$TightMiddleStart,
   [string]$OnlyPdf = '',
   [int]$Limit = 0
 )
@@ -283,7 +284,8 @@ function Process-PdfGroup($PdfPathRel, $Records, $Engine) {
 
       $imageStartPage = $marker.page
       $startRatioForMarkerPage = [Math]::Max(0.02, ([double]$marker.y_px - 34.0) / 2200.0 / ($document.PageSizes[$marker.page - 1].Height / $document.PageSizes[$marker.page - 1].Width))
-      if (-not $sameContextAsPrev -and $group.major_no -gt 0) {
+      $canBacktrackToMajorHeader = -not ($TightMiddleStart -and -not [string]::IsNullOrWhiteSpace($group.middle_no))
+      if ($canBacktrackToMajorHeader -and -not $sameContextAsPrev -and $group.major_no -gt 0) {
         $imageStartPage = Find-HeaderPage $ocrPages $group.major_no $marker.page
         $startRatioForMarkerPage = if ($imageStartPage -eq $marker.page) { 0.04 } else { $startRatioForMarkerPage }
       }
@@ -336,6 +338,8 @@ function Process-PdfGroup($PdfPathRel, $Records, $Engine) {
           marker_no = $marker.no
           image_paths = @($outputs.ToArray())
           masked_problem_text = $text
+          problem_text_status = 'windows-ocr-question-marker-slice'
+          problem_text_source = 'windows-ocr-question-marker-crop'
           crop_rows = @($cropRows.ToArray())
         }
       }
@@ -358,7 +362,7 @@ foreach ($question in $questions) {
   $pdfPath = [string]$question.pdf_path
   if (-not $pdfPath.StartsWith('data/pdf/')) { continue }
   if ($OnlyPdf -and $pdfPath -ne $OnlyPdf) { continue }
-  if ($question.problem_text_status -eq 'pdfium-question-marker-slice') { continue }
+  if ($question.problem_text_status -eq 'pdfium-question-marker-slice' -and $question.problem_text_source -eq 'pdfium-question-marker-crop') { continue }
   $fullPdf = Join-Path $Root $pdfPath
   if (-not (Test-Path -LiteralPath $fullPdf)) { continue }
   if (-not $groupsByPdf.Contains($pdfPath)) {

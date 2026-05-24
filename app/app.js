@@ -352,7 +352,7 @@ function renderDetail(question) {
       <dt>解答番号</dt><dd>${escapeHtml(question.answer_no || "未登録")}</dd>
       <dt>単元</dt><dd>${escapeHtml(question.unit)}</dd>
       <dt>典型度</dt><dd>${escapeHtml(question.typicality)}</dd>
-      <dt>正答</dt><dd>${escapeHtml(question.answer || "未登録")}</dd>
+      <dt>正答</dt><dd>${renderAnswerReveal(question)}</dd>
       <dt>配点</dt><dd>${question.points == null ? "未登録" : `${question.points}点`}</dd>
       <dt>正答率</dt><dd>${correctRate}</dd>
       <dt>掲載ページ</dt><dd>${escapeHtml(question.page || "未登録")}</dd>
@@ -360,10 +360,20 @@ function renderDetail(question) {
       <dt>キーワード</dt>
       <dd class="keywords">${(question.keywords ?? []).map((keyword) => `<span class="pill">${escapeHtml(keyword)}</span>`).join("")}</dd>
     </dl>
-    <div class="image-box${hasQuestionImages(question) ? " has-images" : ""}">${imageContent}</div>
     <div class="link-row">${pdfLink}</div>
+    <div class="image-box${hasQuestionImages(question) ? " has-images" : ""}">${imageContent}</div>
     ${sourceLinks}
     ${question.notes ? `<div class="note">${escapeHtml(question.notes)}</div>` : ""}
+  `;
+}
+
+function renderAnswerReveal(question) {
+  const answer = escapeHtml(question.answer || "未登録");
+  return `
+    <details class="answer-reveal">
+      <summary>正答を表示</summary>
+      <span>${answer}</span>
+    </details>
   `;
 }
 
