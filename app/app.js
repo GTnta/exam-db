@@ -44,6 +44,7 @@ async function loadQuestions() {
   questions = await questionsResponse.json();
   sources = await sourcesResponse.json();
   populateSubjectOptions();
+  populateYearOptions();
   render();
 }
 
@@ -54,6 +55,17 @@ function populateSubjectOptions() {
     option.value = subject;
     option.textContent = subject;
     elements.subject.append(option);
+  }
+}
+
+function populateYearOptions() {
+  const years = [...new Set(questions.map((q) => q.year).filter(Boolean))]
+    .sort((a, b) => b - a);
+  for (const year of years) {
+    const option = document.createElement("option");
+    option.value = String(year);
+    option.textContent = `${year}年度`;
+    elements.year.append(option);
   }
 }
 
@@ -76,6 +88,7 @@ function canonicalizeForSearch(value) {
     .replace(/バネ/g, "ばね")
     .replace(/ドップラー効果/g, "ドップラー")
     .replace(/doppler/gi, "ドップラー")
+    .replace(/ド[・･\s-]*(?:ブ|プ)ロイ/g, "ドブロイ")
     .replace(/熱力学第\s*1\s*法則/g, "熱力学第一法則")
     .replace(/エネルギー保存則/g, "エネルギー保存")
     .replace(/力学的エネルギー保存則/g, "力学的エネルギー保存")
@@ -109,10 +122,74 @@ function searchableText(question) {
     question.answer_no,
     question.typicality,
     question.summary,
+    question.common_summary,
     question.problem_text,
     question.masked_problem_text,
     ...(question.keywords ?? []),
   ].join(" "));
+}
+
+const fuzzyTermGroups = [
+  ["回転", "円運動", "等速円運動", "鉛直円運動", "向心力"],
+  ["音源", "波源"],
+  ["観測者", "受信者"],
+  ["ドップラー", "ドップラー効果"],
+  ["ばね", "バネ", "弾性力", "フック"],
+  ["コンデンサー", "コンデンサ", "電気容量", "静電容量"],
+  ["電圧", "電位差"],
+  ["運動量保存", "運動量保存則"],
+  ["力学的エネルギー保存", "力学的エネルギー保存則", "エネルギー保存"],
+];
+
+const fuzzyNoiseWords = [
+  "する",
+  "した",
+  "して",
+  "される",
+  "され",
+  "場合",
+  "問題",
+  "設問",
+  "もの",
+  "こと",
+  "について",
+  "に関する",
+  "の",
+  "が",
+  "を",
+  "は",
+  "に",
+  "で",
+];
+
+function splitTerms(value) {
+  const rawTerms = normalize(value)
+    .replace(/[、。，．・,;；/]/g, " ")
+    .split(/\s+|\u3068/)
+    .filter(Boolean);
+
+  const terms = [];
+  for (const rawTerm of rawTerms) {
+    terms.push(...decomposeFuzzyTerm(rawTerm));
+  }
+  return [...new Set(terms)];
+}
+
+function decomposeFuzzyTerm(rawTerm) {
+  let term = rawTerm;
+  for (const noiseWord of fuzzyNoiseWords) {
+    term = term.replaceAll(noiseWord, " ");
+  }
+
+  const found = [];
+  for (const group of fuzzyTermGroups) {
+    if (group.some((alias) => rawTerm.includes(normalize(alias)))) {
+      found.push(normalize(group[0]));
+    }
+  }
+
+  const pieces = term.split(/\s+/).filter(Boolean);
+  return [...new Set([...found, ...pieces])].filter(Boolean);
 }
 
 function scoreQuestion(question, terms) {
@@ -121,14 +198,42 @@ function scoreQuestion(question, terms) {
   const text = searchableText(question);
   let score = 0;
   for (const term of terms) {
-    if (text.includes(term)) score += 4;
-    if (normalize(question.unit).includes(term)) score += 3;
-    if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(term))) score += 5;
-    if (normalize(question.summary).includes(term)) score += 2;
-    if (normalize(question.problem_text).includes(term)) score += 3;
-    if (normalize(question.masked_problem_text).includes(term)) score += 3;
+    for (const variant of expandTermVariants(term)) {
+      if (text.includes(variant)) score += 4;
+      if (normalize(question.unit).includes(variant)) score += 3;
+      if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant))) score += 5;
+      if (normalize(question.summary).includes(variant)) score += 2;
+      if (normalize(question.common_summary).includes(variant)) score += 2;
+      if (normalize(question.problem_text).includes(variant)) score += 3;
+      if (normalize(question.masked_problem_text).includes(variant)) score += 3;
+    }
   }
   return score;
+}
+
+function termMatchesQuestion(question, term) {
+  for (const variant of expandTermVariants(term)) {
+    if (searchableText(question).includes(variant)) return true;
+    if (normalize(question.unit).includes(variant)) return true;
+    if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant))) return true;
+    if (normalize(question.summary).includes(variant)) return true;
+    if (normalize(question.common_summary).includes(variant)) return true;
+    if (normalize(question.problem_text).includes(variant)) return true;
+    if (normalize(question.masked_problem_text).includes(variant)) return true;
+  }
+  return false;
+}
+
+function expandTermVariants(term) {
+  const normalizedTerm = normalize(term);
+  const variants = new Set([normalizedTerm]);
+  for (const group of fuzzyTermGroups) {
+    const normalizedGroup = group.map((alias) => normalize(alias));
+    if (normalizedGroup.some((alias) => alias.includes(normalizedTerm) || normalizedTerm.includes(alias))) {
+      normalizedGroup.forEach((alias) => variants.add(alias));
+    }
+  }
+  return [...variants];
 }
 
 function getFilteredQuestions() {
@@ -146,6 +251,7 @@ function getFilteredQuestions() {
     .map((question) => ({ question, score: scoreQuestion(question, terms) }))
     .filter(({ question, score }) => {
       if (terms.length > 0 && score === 0) return false;
+      if (terms.length > 1 && terms.some((term) => !termMatchesQuestion(question, term))) return false;
       if (filters.subject && question.subject !== filters.subject) return false;
       if (filters.exam_system && question.exam_system !== filters.exam_system) return false;
       if (filters.session && question.session !== filters.session) return false;

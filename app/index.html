@@ -11,17 +11,15 @@
   <header class="topbar">
     <div>
       <h1>物理入試問題DB</h1>
-      <p>センター試験・共通テストの物理系問題をローカル検索</p>
     </div>
     <div class="count" id="count">0件</div>
   </header>
 
-  <main class="layout">
-    <aside class="filters" aria-label="検索条件">
-      <label>
-        検索語
-        <input id="query" type="search" placeholder="例: ドップラー 回転">
-      </label>
+  <aside class="filters" aria-label="検索条件">
+    <label class="search-field">
+      検索語
+      <input id="query" type="search" placeholder="例: ドップラー 回転">
+    </label>
 
       <label>
         科目
@@ -60,7 +58,9 @@
 
       <label>
         年度
-        <input id="year" type="number" placeholder="例: 2024">
+        <select id="year">
+          <option value="">すべて</option>
+        </select>
       </label>
 
       <label>
@@ -71,7 +71,9 @@
           <option value="year_asc">年度順（古い順）</option>
         </select>
       </label>
-    </aside>
+  </aside>
+
+  <main class="layout">
 
     <section class="results" aria-label="検索結果">
       <div class="result-list" id="results"></div>
