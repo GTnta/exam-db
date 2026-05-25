@@ -290,7 +290,7 @@ function inferredKeywordIsReliable(question, keyword) {
 }
 
 const fuzzyTermGroups = [
-  ["回転", "円運動", "等速円運動", "鉛直円運動", "向心力"],
+  ["円運動", "等速円運動", "鉛直円運動", "向心力"],
   ["音源", "波源"],
   ["観測者", "受信者"],
   ["ドップラー", "ドップラー効果"],
@@ -330,6 +330,13 @@ const fuzzyNoiseWords = [
   "で",
 ];
 
+const fuzzyPhraseRules = [
+  {
+    patterns: [/回転.*音源/, /音源.*回転/],
+    terms: ["ドップラー"],
+  },
+];
+
 function splitTerms(value) {
   const rawTerms = normalize(value)
     .replace(/[、。，．・,;；/]/g, " ")
@@ -344,6 +351,12 @@ function splitTerms(value) {
 }
 
 function decomposeFuzzyTerm(rawTerm) {
+  for (const rule of fuzzyPhraseRules) {
+    if (rule.patterns.some((pattern) => pattern.test(rawTerm))) {
+      return rule.terms.map((term) => normalize(term));
+    }
+  }
+
   let term = rawTerm;
   for (const noiseWord of fuzzyNoiseWords) {
     term = term.replaceAll(noiseWord, " ");
@@ -380,7 +393,7 @@ function expandTermVariants(term) {
   const variants = new Set([normalizedTerm]);
   for (const group of fuzzyTermGroups) {
     const normalizedGroup = group.map((alias) => normalize(alias));
-    if (normalizedGroup.some((alias) => alias.includes(normalizedTerm) || normalizedTerm.includes(alias))) {
+    if (normalizedGroup.some((alias) => alias === normalizedTerm || (normalizedTerm.length >= 4 && (alias.includes(normalizedTerm) || normalizedTerm.includes(alias))))) {
       normalizedGroup.forEach((alias) => variants.add(alias));
     }
   }
@@ -388,6 +401,26 @@ function expandTermVariants(term) {
 }
 
 const guardedSearchConcepts = [
+  {
+    terms: ["力学", "運動", "力", "仕事", "運動方程式", "等加速度運動", "落下運動", "放物運動", "慣性力", "遠心力", "円運動", "向心力", "万有引力", "力のモーメント", "剛体", "浮力", "摩擦"],
+    support: ["力学", "運動", "加速度", "速度", "仕事", "運動量", "衝突", "円運動", "単振動", "単振り子", "ばね", "摩擦", "モーメント", "浮力", "万有引力", "慣性力"],
+  },
+  {
+    terms: ["波動", "波", "波長", "振動数", "周期", "波の速さ", "定常波", "定在波", "弦の振動"],
+    support: ["波動", "波", "音", "光", "干渉", "屈折", "反射", "回折", "共鳴", "レンズ", "ドップラー", "気柱", "弦", "振動数", "波長"],
+  },
+  {
+    terms: ["電磁気", "電気", "電荷", "電場", "電界", "電位", "電圧", "電流", "抵抗", "回路", "磁場", "磁界", "電力", "電力量"],
+    support: ["電磁気", "電気", "電荷", "電場", "電位", "電圧", "電流", "抵抗", "回路", "磁", "コンデンサー", "誘導", "交流", "電力", "電力量"],
+  },
+  {
+    terms: ["熱", "熱量", "比熱", "熱容量", "温度", "熱平衡", "潜熱", "状態変化", "理想気体", "状態方程式", "内部エネルギー", "熱力学", "pVグラフ", "p-Vグラフ", "熱機関", "熱効率"],
+    support: ["熱", "気体", "比熱", "温度", "状態方程式", "内部エネルギー", "熱力学", "断熱", "等温", "pV", "p-V", "熱機関", "熱効率"],
+  },
+  {
+    terms: ["原子", "電子", "原子核", "放射線", "半減期", "X線", "光電効果", "光電子", "物質波", "ド・ブロイ波", "ボーア模型", "エネルギー準位", "核反応", "核分裂", "核融合"],
+    support: ["原子", "電子", "光子", "X線", "放射線", "半減期", "原子核", "核", "光電効果", "物質波", "ド・ブロイ", "ボーア", "エネルギー準位"],
+  },
   {
     terms: ["干渉", "ヤングの実験", "ニュートンリング", "薄膜干渉", "回折格子", "明線", "暗線"],
     support: ["波動", "光", "干渉", "回折", "スリット", "レンズ", "ニュートンリング", "ヤング"],
