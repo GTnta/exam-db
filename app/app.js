@@ -122,11 +122,171 @@ function searchableText(question) {
     question.answer_no,
     question.typicality,
     question.summary,
-    question.common_summary,
+    question.problem_text,
+    question.masked_problem_text,
+    ...trustedInferredSearchKeywords(question),
+    ...(question.keywords ?? []),
+  ].join(" "));
+}
+
+function compactSearchText(question) {
+  return normalize([
+    question.subject,
+    question.unit,
+    question.summary,
     question.problem_text,
     question.masked_problem_text,
     ...(question.keywords ?? []),
+  ].join(" ")).replace(/\s+/g, "");
+}
+
+const inferredSearchKeywordRules = [
+  {
+    keywords: ["ニュートンリング", "等厚干渉", "薄膜干渉", "光の干渉"],
+    patterns: [
+      /平凸レンズ.*平面ガラス/,
+      /平面ガラス.*平凸レンズ/,
+      /暗環.*明環.*同心円/,
+      /明環.*暗環.*同心円/,
+      /同心円状.*しま模様/,
+      /同心円状.*縞模様/,
+    ],
+  },
+  {
+    keywords: ["ヤングの実験", "二重スリット", "光の干渉", "干渉縞"],
+    patterns: [
+      /二重スリット/,
+      /2つのスリット/,
+      /二つのスリット/,
+      /スリット.*スクリーン.*明線/,
+      /スリット.*明線.*暗線/,
+      /干渉縞.*スリット/,
+    ],
+  },
+  {
+    keywords: ["回折格子", "光の干渉", "明線"],
+    patterns: [/回折格子/, /格子定数.*明線/, /一次回折光/],
+  },
+  {
+    keywords: ["薄膜干渉", "光の干渉", "反射の位相変化"],
+    patterns: [
+      /薄膜.*ガラス.*反射/,
+      /膜厚.*反射光.*干渉/,
+      /境界面.*反射.*位相/,
+      /反射.*位相.*ずれ/,
+    ],
+  },
+  {
+    keywords: ["くさび形空気層", "等厚干渉", "光の干渉"],
+    patterns: [
+      /くさび形空気層/,
+      /ガラス板.*下面.*反射.*ガラス板.*上面.*反射/,
+      /ガラス板.*明線.*間隔/,
+    ],
+  },
+  {
+    keywords: ["クインケ管", "音波の干渉", "経路差"],
+    patterns: [/クインケ管/, /音.*経路差.*最小/, /管.*引き出.*経路差/],
+  },
+  {
+    keywords: ["定常波", "弦の振動", "基本振動", "倍振動"],
+    patterns: [/弦.*基本振動/, /弦.*倍振動/, /弦.*定常波/, /節.*腹.*弦/],
+  },
+  {
+    keywords: ["気柱共鳴", "閉管", "開管", "定常波"],
+    patterns: [/気柱.*共鳴/, /閉管/, /開管/, /空気柱.*定常波/],
+  },
+  {
+    keywords: ["うなり", "おんさ", "振動数差"],
+    patterns: [/うなり/, /おんさ.*振動数/, /振動数差/],
+  },
+  {
+    keywords: ["全反射", "臨界角", "屈折"],
+    patterns: [/全反射/, /臨界角/, /屈折率.*境界面.*反射/],
+  },
+  {
+    keywords: ["ホイートストンブリッジ", "ブリッジ回路", "抵抗回路"],
+    patterns: [/ブリッジ回路/, /検流計.*電流.*0/, /ホイートストン/],
+  },
+  {
+    keywords: ["キルヒホッフの法則", "回路方程式", "電流"],
+    patterns: [/キルヒホッフ/, /閉回路.*電圧/, /分岐点.*電流/],
+  },
+  {
+    keywords: ["レンズの公式", "凸レンズ", "実像", "虚像"],
+    patterns: [/凸レンズ.*実像/, /凸レンズ.*虚像/, /レンズ.*焦点距離/, /レンズの公式/],
+  },
+  {
+    keywords: ["単振動", "ばね振り子", "周期"],
+    patterns: [/ばね振り子/, /単振動/, /復元力.*変位/, /周期.*ばね/],
+  },
+  {
+    keywords: ["単振り子", "振り子", "周期", "単振動"],
+    patterns: [
+      /単振り子/,
+      /振り子.*周期/,
+      /振り子.*振動/,
+      /小振幅.*振り子/,
+      /糸.*小球.*小振幅/,
+    ],
+  },
+  {
+    keywords: ["速度交換", "弾性衝突", "衝突", "運動量保存", "反発係数"],
+    patterns: [
+      /速度交換/,
+      /同じ質量.*弾性衝突/,
+      /同質量.*弾性衝突/,
+      /質量.*等しい.*衝突/,
+      /衝突.*速度.*入れ替/,
+      /衝突.*速さ.*入れ替/,
+    ],
+  },
+  {
+    keywords: ["フィゾーの実験", "光速測定", "光速", "歯車"],
+    patterns: [
+      /フィゾー/,
+      /光速.*歯車/,
+      /歯車.*光速/,
+      /歯車.*反射.*光/,
+      /回転.*歯車.*光/,
+    ],
+  },
+  {
+    keywords: ["万有引力", "ケプラーの法則", "惑星運動"],
+    patterns: [/ケプラー/, /惑星.*公転/, /万有引力.*円運動/],
+  },
+];
+
+function inferSearchKeywords(question) {
+  const text = compactSearchText(question);
+  const keywords = [];
+  for (const rule of inferredSearchKeywordRules) {
+    if (rule.patterns.some((pattern) => pattern.test(text))) {
+      keywords.push(...rule.keywords);
+    }
+  }
+  return [...new Set(keywords)];
+}
+
+function trustedInferredSearchKeywords(question) {
+  return inferSearchKeywords(question).filter((keyword) => inferredKeywordIsReliable(question, keyword));
+}
+
+function inferredKeywordIsReliable(question, keyword) {
+  const guard = guardedSearchConcepts.find((concept) => {
+    const conceptTerms = concept.terms.map((term) => normalize(term));
+    const normalizedKeyword = normalize(keyword);
+    return conceptTerms.some((term) => term.includes(normalizedKeyword) || normalizedKeyword.includes(term));
+  });
+  if (!guard) return true;
+
+  const metadataText = normalize([
+    question.subject,
+    question.unit,
+    question.summary,
+    ...(question.keywords ?? []),
   ].join(" "));
+  return guard.support.some((support) => metadataText.includes(normalize(support)));
 }
 
 const fuzzyTermGroups = [
@@ -134,6 +294,14 @@ const fuzzyTermGroups = [
   ["音源", "波源"],
   ["観測者", "受信者"],
   ["ドップラー", "ドップラー効果"],
+  ["ヤングの実験", "二重スリット"],
+  ["薄膜干渉", "薄膜", "反射の位相変化"],
+  ["クインケ管", "音波の干渉"],
+  ["気柱共鳴", "気柱の共鳴", "閉管", "開管"],
+  ["ホイートストンブリッジ", "ブリッジ回路"],
+  ["単振り子", "振り子"],
+  ["速度交換", "弾性衝突"],
+  ["フィゾーの実験", "光速測定", "歯車"],
   ["ばね", "バネ", "弾性力", "フック"],
   ["コンデンサー", "コンデンサ", "電気容量", "静電容量"],
   ["電圧", "電位差"],
@@ -187,41 +355,24 @@ function decomposeFuzzyTerm(rawTerm) {
       found.push(normalize(group[0]));
     }
   }
+  if (found.length > 0) return [...new Set(found)].filter(Boolean);
 
   const pieces = term.split(/\s+/).filter(Boolean);
-  return [...new Set([...found, ...pieces])].filter(Boolean);
+  return [...new Set(pieces)].filter(Boolean);
 }
 
 function scoreQuestion(question, terms) {
   if (terms.length === 0) return 1;
 
-  const text = searchableText(question);
   let score = 0;
   for (const term of terms) {
-    for (const variant of expandTermVariants(term)) {
-      if (text.includes(variant)) score += 4;
-      if (normalize(question.unit).includes(variant)) score += 3;
-      if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant))) score += 5;
-      if (normalize(question.summary).includes(variant)) score += 2;
-      if (normalize(question.common_summary).includes(variant)) score += 2;
-      if (normalize(question.problem_text).includes(variant)) score += 3;
-      if (normalize(question.masked_problem_text).includes(variant)) score += 3;
-    }
+    score += termMatchInfo(question, term).score;
   }
   return score;
 }
 
 function termMatchesQuestion(question, term) {
-  for (const variant of expandTermVariants(term)) {
-    if (searchableText(question).includes(variant)) return true;
-    if (normalize(question.unit).includes(variant)) return true;
-    if ((question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant))) return true;
-    if (normalize(question.summary).includes(variant)) return true;
-    if (normalize(question.common_summary).includes(variant)) return true;
-    if (normalize(question.problem_text).includes(variant)) return true;
-    if (normalize(question.masked_problem_text).includes(variant)) return true;
-  }
-  return false;
+  return termMatchInfo(question, term).matched;
 }
 
 function expandTermVariants(term) {
@@ -234,6 +385,92 @@ function expandTermVariants(term) {
     }
   }
   return [...variants];
+}
+
+const guardedSearchConcepts = [
+  {
+    terms: ["干渉", "ヤングの実験", "ニュートンリング", "薄膜干渉", "回折格子", "明線", "暗線"],
+    support: ["波動", "光", "干渉", "回折", "スリット", "レンズ", "ニュートンリング", "ヤング"],
+  },
+  {
+    terms: ["ドップラー", "ドップラー効果", "うなり", "音波の干渉", "クインケ管", "気柱共鳴"],
+    support: ["波動", "音", "音波", "振動数", "波長", "共鳴", "気柱", "ドップラー"],
+  },
+  {
+    terms: ["単振り子", "単振動", "ばね振り子"],
+    support: ["力学", "単振動", "単振り子", "振り子", "周期", "ばね"],
+  },
+  {
+    terms: ["速度交換", "弾性衝突", "衝突"],
+    support: ["力学", "衝突", "運動量", "速度交換", "反発係数"],
+  },
+  {
+    terms: ["フィゾーの実験", "光速測定"],
+    support: ["波動", "光", "光速", "フィゾー", "歯車"],
+  },
+];
+
+function structuredSearchText(question) {
+  return normalize([
+    question.year,
+    question.subject,
+    question.unit,
+    question.major_no,
+    question.middle_no,
+    question.minor_no,
+    question.answer_no,
+    question.typicality,
+    question.summary,
+    ...trustedInferredSearchKeywords(question),
+    ...(question.keywords ?? []),
+  ].join(" "));
+}
+
+function bodySearchText(question) {
+  return normalize([
+    question.problem_text,
+    question.masked_problem_text,
+  ].join(" "));
+}
+
+function termMatchInfo(question, term) {
+  let score = 0;
+  let matched = false;
+  const structuredText = structuredSearchText(question);
+  const bodyText = bodySearchText(question);
+
+  for (const variant of expandTermVariants(term)) {
+    const structuredHit = structuredText.includes(variant);
+    const unitHit = normalize(question.unit).includes(variant);
+    const keywordHit = (question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant));
+    const summaryHit = normalize(question.summary).includes(variant);
+    const bodyHit = bodyText.includes(variant);
+
+    if (structuredHit) {
+      matched = true;
+      score += 4;
+    }
+    if (unitHit) score += 3;
+    if (keywordHit) score += 5;
+    if (summaryHit) score += 2;
+    if (bodyHit && bodyMatchIsReliable(question, variant, structuredText)) {
+      matched = true;
+      score += 2;
+    }
+  }
+
+  return { matched, score };
+}
+
+function bodyMatchIsReliable(question, variant, structuredText) {
+  const guard = guardedSearchConcepts.find((concept) => {
+    const conceptTerms = concept.terms.map((term) => normalize(term));
+    return conceptTerms.some((term) => term.includes(variant) || variant.includes(term));
+  });
+  if (!guard) return true;
+
+  const supportText = structuredText || structuredSearchText(question);
+  return guard.support.some((support) => supportText.includes(normalize(support)));
 }
 
 function getFilteredQuestions() {
