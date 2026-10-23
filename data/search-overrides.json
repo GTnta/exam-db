@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "data/pdf/2016_center_main_physics.pdf|4|A": {
+      "tags": ["鉛直面内の円運動", "円運動"],
+      "evidence": "原本PDF第25ページの第4問A・図1。鉛直面内の円形レール。"
+    }
+  },
+  "questions": {
+    "2018_center_main_physics_a23": { "direct_tags": ["力学的エネルギー保存", "惑星運動"], "evidence": "第5問問3、近日点・遠日点での力学的エネルギーと速さの比較。" },
+    "2021_common_main_physics_basic_a19": { "direct_tags": ["運動エネルギー", "位置エネルギー", "力学的エネルギー"], "evidence": "原本PDF第20ページ・問5のエネルギー変化。" },
+    "2016_center_main_physics_basic_a07": { "direct_tags": ["縦波", "横波表示", "疎密"], "evidence": "原本PDF第10ページ、媒質が最も密な位置。" },
+    "2015_center_main_physics_a08": { "direct_tags": ["電場の仕事", "電位差", "荷電粒子の加速"], "evidence": "原本の第2問B問3、電極間でqVの加速。" },
+    "2015_center_main_physics_a12": { "direct_tags": ["波の干渉", "経路差", "逆位相"], "evidence": "原本の第3問B問3、逆位相の水面波源。" },
+    "2015_center_main_physics_a13": { "direct_tags": ["波の干渉", "経路差"], "evidence": "原本の第3問B問4、波源をずらしたときの強弱。" },
+    "2014_center_main_physics1_a17": { "direct_tags": ["等加速度運動", "速度時間グラフ", "運動方程式"], "evidence": "原本PDF第22ページ・問2。" },
+    "2014_center_main_physics1_a20": { "direct_tags": ["液体の圧力", "力のつり合い"], "evidence": "原本PDF第25ページ、液面差から気体の圧力。" },
+    "2014_center_main_physics1_a21": { "direct_tags": ["液体の圧力", "力のつり合い"], "evidence": "原本PDF第26ページ、管内気体の長さ。" },
+    "2013_center_main_physics1_a18": { "direct_tags": ["力学的エネルギー保存", "位置エネルギー", "ばねの弾性エネルギー"], "evidence": "原本PDF第23ページ・問3。" },
+    "2011_center_main_physics1_a10": { "direct_tags": ["電磁誘導", "レンツの法則"], "summary": "銅のリングに棒磁石を近づけたとき、誘導電流の向きと磁石を近づける速さによる電流の変化を判断する。", "evidence": "原本PDF第13ページ・問3。旧要約が欠落していた。" },
+    "2011_center_main_physics1_a23": { "direct_tags": ["液体の圧力", "浮力", "力のつり合い"], "evidence": "原本の第4問C、円筒と水面・気体のつり合い。" },
+    "2010_center_main_physics1_a24": { "direct_tags": ["静止摩擦", "力のつり合い"], "summary": "糸と滑車でつながれた2物体について、斜面の角度を変えてすべり始める限界から質量比を求める。", "evidence": "原本PDF第24ページ・問7。" },
+    "2016_center_main_physics_a15": {
+      "direct_tags": ["力学的エネルギー保存", "エネルギー保存"],
+      "summary": "鉛直面内の円形レールを進む小物体について、力学的エネルギー保存から点Aを通過する速さを求める。",
+      "evidence": "原本PDF第25ページ、第4問A問1。"
+    },
+    "2016_center_main_physics_a16": {
+      "direct_tags": ["鉛直面内の円運動", "向心力", "運動方程式", "垂直抗力"],
+      "summary": "円形レールの最高点Aで垂直抗力が0となる限界を、円運動の運動方程式から求める。",
+      "evidence": "原本PDF第25・26ページ、第4問A問2。"
+    }
+  },
+  "record_fixes": {
+    "2015_center_main_physics_a03": { "fields": { "summary": "単振動する粗い水平な台上の物体について、慣性力と静止摩擦からすべらない条件を判断する。" }, "evidence": "原本の第1問問3。物体をばねにつないだ設定ではない。" },
+    "2010_center_main_physics1_a14": { "fields": { "unit": "波動・全反射", "summary": "光ファイバーの媒質境界で全反射が起こる条件から、端面への入射角の最大値を求める。" }, "evidence": "原本PDF第15ページ・第3問A問2。" },
+    "2010_center_main_physics1_a15": { "fields": { "unit": "波動・水面波の干渉", "summary": "逆位相の二つの水面波源からの波が強め合う点を結んだ曲線群を選ぶ。" }, "evidence": "原本PDF第16ページ・第3問B問3。音波ではない。" },
+    "2010_center_main_physics1_a16": { "fields": { "unit": "波動・水面波の干渉", "summary": "同位相の二つの水面波源から遠方の点までの経路差を角度で近似し、強め合う条件を表す。" }, "evidence": "原本PDF第17ページ・第3問B問4。" },
+    "2010_center_main_physics1_a17": { "fields": { "unit": "波動・水面波の干渉", "summary": "二つの水面波源による干渉について、波長・振動数と強め合う方向の関係を判断する。" }, "evidence": "原本PDF第17ページ・第3問B問4。" },
+    "2006_center_main_physics1_a09": { "fields": { "summary": "陰極線の実体が電子であることを判断する。", "unit": "電磁気・陰極線" }, "evidence": "原本PDF第7ページ・第2問B問3。選択肢のX線・原子核を直接タグにしない。" },
+    "2024_common_makeup_physics_basic_a05": { "fields": { "middle_no": "A" }, "evidence": "第2問A・問1-2は投げ下ろす小球の運動。" },
+    "2024_common_makeup_physics_basic_a06": { "fields": { "middle_no": "A" }, "evidence": "第2問A・問1-2。" },
+    "2024_common_makeup_physics_basic_a07": { "fields": { "middle_no": "B" }, "evidence": "第2問B・問3-5は摩擦のある斜面。" },
+    "2024_common_makeup_physics_basic_a08": { "fields": { "middle_no": "B" }, "evidence": "第2問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a09": { "fields": { "middle_no": "B" }, "evidence": "第2問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a10": { "fields": { "middle_no": "B" }, "evidence": "第2問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a11": { "fields": { "middle_no": "A" }, "evidence": "第3問A・問1-2は発電。" },
+    "2024_common_makeup_physics_basic_a12": { "fields": { "middle_no": "A" }, "evidence": "第3問A・問1-2。" },
+    "2024_common_makeup_physics_basic_a13": { "fields": { "middle_no": "B" }, "evidence": "第3問B・問3-5は電気自動車。" },
+    "2024_common_makeup_physics_basic_a14": { "fields": { "middle_no": "B" }, "evidence": "第3問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a15": { "fields": { "middle_no": "B" }, "evidence": "第3問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a16": { "fields": { "middle_no": "B" }, "evidence": "第3問B・問3-5。" },
+    "2024_common_makeup_physics_basic_a17": { "fields": { "middle_no": "B" }, "evidence": "第3問B・問3-5。" },
+    "2018_center_main_physics_a13": { "fields": { "middle_no": "B", "unit": "波動・光の干渉", "summary": "平行なガラス板を透過する光の干渉で、反射時の位相変化と板間隔の変化による強弱を判断する。" }, "evidence": "原本PDF第23ページのB・問4。弦の振動ではない。" },
+    "2014_center_main_physics1_a20": { "fields": { "middle_no": "C" }, "evidence": "原本PDF第25ページ、Cのリード文に続く問5。" },
+    "2013_center_main_physics1_a19": { "fields": { "middle_no": "B" }, "evidence": "原本PDF第25ページ、Bのリード文に続く問4。" },
+    "2010_center_main_physics1_a21": { "fields": { "middle_no": "B" }, "evidence": "原本の第4問B、問4-6は斜面とばねの共通設定。" },
+    "2007_center_main_physics1_a20": { "fields": { "middle_no": "B" }, "evidence": "原本PDF第19ページから潜水艇のB、問4-6。" },
+    "2006_center_main_physics1_a18": { "fields": { "middle_no": "B" }, "evidence": "原本PDF第14ページからばねのB、問4-6。" },
+    "2006_center_main_physics1_a21": { "fields": { "middle_no": "C" }, "evidence": "原本PDF第16ページから熱のC、問7-9。" }
+  },
+  "anchors": {
+    "2015_center_main_physics_a14": { "page": 19, "y": 0.738, "evidence": "原本の問1はOCRが問番号を認識できない。" }
+  }
+}

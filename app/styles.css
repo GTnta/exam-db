@@ -20,6 +20,9 @@ body {
   font-family: "Segoe UI", "Yu Gothic UI", "Hiragino Sans", Meiryo, sans-serif;
   background: var(--bg);
   color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
 }
 
 .topbar {
@@ -30,6 +33,7 @@ body {
   padding: 14px 24px;
   border-bottom: 1px solid var(--line);
   background: #fbfcf8;
+  flex: 0 0 auto;
 }
 
 h1 {
@@ -58,7 +62,8 @@ p {
   grid-template-columns: 430px minmax(0, 1fr);
   gap: 18px;
   padding: 18px;
-  min-height: calc(100vh - 168px);
+  flex: 1;
+  min-height: 0;
 }
 
 .filters,
@@ -78,6 +83,7 @@ p {
   border: 1px solid var(--line);
   border-radius: 8px;
   box-shadow: var(--shadow);
+  flex: 0 0 auto;
 }
 
 .search-field {
@@ -121,7 +127,8 @@ select:focus {
 .result-list {
   display: grid;
   gap: 10px;
-  max-height: calc(100vh - 190px);
+  height: 100%;
+  max-height: 100%;
   overflow: auto;
 }
 
@@ -160,6 +167,15 @@ select:focus {
   color: #07544e;
 }
 
+.match-reason { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.pill.match-3 { background: #d9f1ec; color: #07544e; }
+.pill.match-2 { background: #fff0d5; color: #785000; }
+.pill.match-1 { background: #edf0f3; color: #52616b; }
+.image-heading { margin: 20px 0 8px; font-size: 16px; }
+.context-section { border-top: 1px solid var(--line); margin-top: 18px; }
+.context-section p { font-size: 13px; }
+.empty-results { padding: 16px; }
+
 .title {
   margin: 0 0 7px;
   font-size: 16px;
@@ -173,7 +189,7 @@ select:focus {
 }
 
 #detailPanel {
-  height: calc(100vh - 190px);
+  height: 100%;
   overflow: auto;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -368,6 +384,7 @@ select:focus {
 }
 
 @media (max-width: 760px) {
+  body { height: auto; min-height: 100dvh; }
   .topbar {
     align-items: flex-start;
     flex-direction: column;
@@ -387,6 +404,7 @@ select:focus {
 
   .result-list {
     max-height: none;
+    height: auto;
   }
 
   #detailPanel {

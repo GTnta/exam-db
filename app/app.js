@@ -69,446 +69,10 @@ function populateYearOptions() {
   }
 }
 
-function normalize(value) {
-  return canonicalizeForSearch(String(value ?? ""))
-    .toLowerCase()
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function canonicalizeForSearch(value) {
-  return value
-    .normalize("NFKC")
-    .replace(/[‐‑‒–—−ー]/g, "-")
-    .replace(/p\s*-?\s*v/gi, "pv")
-    .replace(/pv\s*グラフ/g, "pvグラフ")
-    .replace(/p\s*-?\s*t/gi, "pt")
-    .replace(/t\s*-?\s*v/gi, "tv")
-    .replace(/コンデンサ(?!ー)/g, "コンデンサー")
-    .replace(/バネ/g, "ばね")
-    .replace(/ドップラー効果/g, "ドップラー")
-    .replace(/doppler/gi, "ドップラー")
-    .replace(/ド[・･\s-]*(?:ブ|プ)ロイ/g, "ドブロイ")
-    .replace(/熱力学第\s*1\s*法則/g, "熱力学第一法則")
-    .replace(/エネルギー保存則/g, "エネルギー保存")
-    .replace(/力学的エネルギー保存則/g, "力学的エネルギー保存")
-    .replace(/ボイル[・･\s-]*シャルル/g, "ボイルシャルル")
-    .replace(/電位差/g, "電圧")
-    .replace(/電気容量/g, "容量")
-    .replace(/α/g, "アルファ")
-    .replace(/β/g, "ベータ")
-    .replace(/γ/g, "ガンマ")
-    .replace(/x線/gi, "X線")
-    .replace(/摩擦力/g, "摩擦")
-    .replace(/向心力/g, "中心力")
-    .replace(/求心力/g, "中心力");
-}
-
-function splitTerms(value) {
-  return normalize(value)
-    .replace(/[、,，+＋/／]/g, " ")
-    .split(/\s+|と/)
-    .filter(Boolean);
-}
-
-function searchableText(question) {
-  return normalize([
-    question.year,
-    question.subject,
-    question.unit,
-    question.major_no,
-    question.middle_no,
-    question.minor_no,
-    question.answer_no,
-    question.typicality,
-    question.summary,
-    question.problem_text,
-    question.masked_problem_text,
-    ...trustedInferredSearchKeywords(question),
-    ...(question.keywords ?? []),
-  ].join(" "));
-}
-
-function compactSearchText(question) {
-  return normalize([
-    question.subject,
-    question.unit,
-    question.summary,
-    question.problem_text,
-    question.masked_problem_text,
-    ...(question.keywords ?? []),
-  ].join(" ")).replace(/\s+/g, "");
-}
-
-const inferredSearchKeywordRules = [
-  {
-    keywords: ["ニュートンリング", "等厚干渉", "薄膜干渉", "光の干渉"],
-    patterns: [
-      /平凸レンズ.*平面ガラス/,
-      /平面ガラス.*平凸レンズ/,
-      /暗環.*明環.*同心円/,
-      /明環.*暗環.*同心円/,
-      /同心円状.*しま模様/,
-      /同心円状.*縞模様/,
-    ],
-  },
-  {
-    keywords: ["ヤングの実験", "二重スリット", "光の干渉", "干渉縞"],
-    patterns: [
-      /二重スリット/,
-      /2つのスリット/,
-      /二つのスリット/,
-      /スリット.*スクリーン.*明線/,
-      /スリット.*明線.*暗線/,
-      /干渉縞.*スリット/,
-    ],
-  },
-  {
-    keywords: ["回折格子", "光の干渉", "明線"],
-    patterns: [/回折格子/, /格子定数.*明線/, /一次回折光/],
-  },
-  {
-    keywords: ["薄膜干渉", "光の干渉", "反射の位相変化"],
-    patterns: [
-      /薄膜.*ガラス.*反射/,
-      /膜厚.*反射光.*干渉/,
-      /境界面.*反射.*位相/,
-      /反射.*位相.*ずれ/,
-    ],
-  },
-  {
-    keywords: ["くさび形空気層", "等厚干渉", "光の干渉"],
-    patterns: [
-      /くさび形空気層/,
-      /ガラス板.*下面.*反射.*ガラス板.*上面.*反射/,
-      /ガラス板.*明線.*間隔/,
-    ],
-  },
-  {
-    keywords: ["クインケ管", "音波の干渉", "経路差"],
-    patterns: [/クインケ管/, /音.*経路差.*最小/, /管.*引き出.*経路差/],
-  },
-  {
-    keywords: ["定常波", "弦の振動", "基本振動", "倍振動"],
-    patterns: [/弦.*基本振動/, /弦.*倍振動/, /弦.*定常波/, /節.*腹.*弦/],
-  },
-  {
-    keywords: ["気柱共鳴", "閉管", "開管", "定常波"],
-    patterns: [/気柱.*共鳴/, /閉管/, /開管/, /空気柱.*定常波/],
-  },
-  {
-    keywords: ["うなり", "おんさ", "振動数差"],
-    patterns: [/うなり/, /おんさ.*振動数/, /振動数差/],
-  },
-  {
-    keywords: ["全反射", "臨界角", "屈折"],
-    patterns: [/全反射/, /臨界角/, /屈折率.*境界面.*反射/],
-  },
-  {
-    keywords: ["ホイートストンブリッジ", "ブリッジ回路", "抵抗回路"],
-    patterns: [/ブリッジ回路/, /検流計.*電流.*0/, /ホイートストン/],
-  },
-  {
-    keywords: ["キルヒホッフの法則", "回路方程式", "電流"],
-    patterns: [/キルヒホッフ/, /閉回路.*電圧/, /分岐点.*電流/],
-  },
-  {
-    keywords: ["レンズの公式", "凸レンズ", "実像", "虚像"],
-    patterns: [/凸レンズ.*実像/, /凸レンズ.*虚像/, /レンズ.*焦点距離/, /レンズの公式/],
-  },
-  {
-    keywords: ["単振動", "ばね振り子", "周期"],
-    patterns: [/ばね振り子/, /単振動/, /復元力.*変位/, /周期.*ばね/],
-  },
-  {
-    keywords: ["単振り子", "振り子", "周期", "単振動"],
-    patterns: [
-      /単振り子/,
-      /振り子.*周期/,
-      /振り子.*振動/,
-      /小振幅.*振り子/,
-      /糸.*小球.*小振幅/,
-    ],
-  },
-  {
-    keywords: ["速度交換", "弾性衝突", "衝突", "運動量保存", "反発係数"],
-    patterns: [
-      /速度交換/,
-      /同じ質量.*弾性衝突/,
-      /同質量.*弾性衝突/,
-      /質量.*等しい.*衝突/,
-      /衝突.*速度.*入れ替/,
-      /衝突.*速さ.*入れ替/,
-    ],
-  },
-  {
-    keywords: ["フィゾーの実験", "光速測定", "光速", "歯車"],
-    patterns: [
-      /フィゾー/,
-      /光速.*歯車/,
-      /歯車.*光速/,
-      /歯車.*反射.*光/,
-      /回転.*歯車.*光/,
-    ],
-  },
-  {
-    keywords: ["万有引力", "ケプラーの法則", "惑星運動"],
-    patterns: [/ケプラー/, /惑星.*公転/, /万有引力.*円運動/],
-  },
-];
-
-function inferSearchKeywords(question) {
-  const text = compactSearchText(question);
-  const keywords = [];
-  for (const rule of inferredSearchKeywordRules) {
-    if (rule.patterns.some((pattern) => pattern.test(text))) {
-      keywords.push(...rule.keywords);
-    }
-  }
-  return [...new Set(keywords)];
-}
-
-function trustedInferredSearchKeywords(question) {
-  return inferSearchKeywords(question).filter((keyword) => inferredKeywordIsReliable(question, keyword));
-}
-
-function inferredKeywordIsReliable(question, keyword) {
-  const guard = guardedSearchConcepts.find((concept) => {
-    const conceptTerms = concept.terms.map((term) => normalize(term));
-    const normalizedKeyword = normalize(keyword);
-    return conceptTerms.some((term) => term.includes(normalizedKeyword) || normalizedKeyword.includes(term));
-  });
-  if (!guard) return true;
-
-  const metadataText = normalize([
-    question.subject,
-    question.unit,
-    question.summary,
-    ...(question.keywords ?? []),
-  ].join(" "));
-  return guard.support.some((support) => metadataText.includes(normalize(support)));
-}
-
-const fuzzyTermGroups = [
-  ["円運動", "等速円運動", "鉛直円運動", "向心力"],
-  ["音源", "波源"],
-  ["観測者", "受信者"],
-  ["ドップラー", "ドップラー効果"],
-  ["ヤングの実験", "二重スリット"],
-  ["薄膜干渉", "薄膜", "反射の位相変化"],
-  ["クインケ管", "音波の干渉"],
-  ["気柱共鳴", "気柱の共鳴", "閉管", "開管"],
-  ["ホイートストンブリッジ", "ブリッジ回路"],
-  ["単振り子", "振り子"],
-  ["速度交換", "弾性衝突"],
-  ["フィゾーの実験", "光速測定", "歯車"],
-  ["ばね", "バネ", "弾性力", "フック"],
-  ["コンデンサー", "コンデンサ", "電気容量", "静電容量"],
-  ["電圧", "電位差"],
-  ["運動量保存", "運動量保存則"],
-  ["力学的エネルギー保存", "力学的エネルギー保存則", "エネルギー保存"],
-];
-
-const fuzzyNoiseWords = [
-  "する",
-  "した",
-  "して",
-  "される",
-  "され",
-  "場合",
-  "問題",
-  "設問",
-  "もの",
-  "こと",
-  "について",
-  "に関する",
-  "の",
-  "が",
-  "を",
-  "は",
-  "に",
-  "で",
-];
-
-const fuzzyPhraseRules = [
-  {
-    patterns: [/回転.*音源/, /音源.*回転/],
-    terms: ["ドップラー"],
-  },
-];
-
-function splitTerms(value) {
-  const rawTerms = normalize(value)
-    .replace(/[、。，．・,;；/]/g, " ")
-    .split(/\s+|\u3068/)
-    .filter(Boolean);
-
-  const terms = [];
-  for (const rawTerm of rawTerms) {
-    terms.push(...decomposeFuzzyTerm(rawTerm));
-  }
-  return [...new Set(terms)];
-}
-
-function decomposeFuzzyTerm(rawTerm) {
-  for (const rule of fuzzyPhraseRules) {
-    if (rule.patterns.some((pattern) => pattern.test(rawTerm))) {
-      return rule.terms.map((term) => normalize(term));
-    }
-  }
-
-  let term = rawTerm;
-  for (const noiseWord of fuzzyNoiseWords) {
-    term = term.replaceAll(noiseWord, " ");
-  }
-
-  const found = [];
-  for (const group of fuzzyTermGroups) {
-    if (group.some((alias) => rawTerm.includes(normalize(alias)))) {
-      found.push(normalize(group[0]));
-    }
-  }
-  if (found.length > 0) return [...new Set(found)].filter(Boolean);
-
-  const pieces = term.split(/\s+/).filter(Boolean);
-  return [...new Set(pieces)].filter(Boolean);
-}
-
-function scoreQuestion(question, terms) {
-  if (terms.length === 0) return 1;
-
-  let score = 0;
-  for (const term of terms) {
-    score += termMatchInfo(question, term).score;
-  }
-  return score;
-}
-
-function termMatchesQuestion(question, term) {
-  return termMatchInfo(question, term).matched;
-}
-
-function expandTermVariants(term) {
-  const normalizedTerm = normalize(term);
-  const variants = new Set([normalizedTerm]);
-  for (const group of fuzzyTermGroups) {
-    const normalizedGroup = group.map((alias) => normalize(alias));
-    if (normalizedGroup.some((alias) => alias === normalizedTerm || (normalizedTerm.length >= 4 && (alias.includes(normalizedTerm) || normalizedTerm.includes(alias))))) {
-      normalizedGroup.forEach((alias) => variants.add(alias));
-    }
-  }
-  return [...variants];
-}
-
-const guardedSearchConcepts = [
-  {
-    terms: ["力学", "運動", "力", "仕事", "運動方程式", "等加速度運動", "落下運動", "放物運動", "慣性力", "遠心力", "円運動", "向心力", "万有引力", "力のモーメント", "剛体", "浮力", "摩擦"],
-    support: ["力学", "運動", "加速度", "速度", "仕事", "運動量", "衝突", "円運動", "単振動", "単振り子", "ばね", "摩擦", "モーメント", "浮力", "万有引力", "慣性力"],
-  },
-  {
-    terms: ["波動", "波", "波長", "振動数", "周期", "波の速さ", "定常波", "定在波", "弦の振動"],
-    support: ["波動", "波", "音", "光", "干渉", "屈折", "反射", "回折", "共鳴", "レンズ", "ドップラー", "気柱", "弦", "振動数", "波長"],
-  },
-  {
-    terms: ["電磁気", "電気", "電荷", "電場", "電界", "電位", "電圧", "電流", "抵抗", "回路", "磁場", "磁界", "電力", "電力量"],
-    support: ["電磁気", "電気", "電荷", "電場", "電位", "電圧", "電流", "抵抗", "回路", "磁", "コンデンサー", "誘導", "交流", "電力", "電力量"],
-  },
-  {
-    terms: ["熱", "熱量", "比熱", "熱容量", "温度", "熱平衡", "潜熱", "状態変化", "理想気体", "状態方程式", "内部エネルギー", "熱力学", "pVグラフ", "p-Vグラフ", "熱機関", "熱効率"],
-    support: ["熱", "気体", "比熱", "温度", "状態方程式", "内部エネルギー", "熱力学", "断熱", "等温", "pV", "p-V", "熱機関", "熱効率"],
-  },
-  {
-    terms: ["原子", "電子", "原子核", "放射線", "半減期", "X線", "光電効果", "光電子", "物質波", "ド・ブロイ波", "ボーア模型", "エネルギー準位", "核反応", "核分裂", "核融合"],
-    support: ["原子", "電子", "光子", "X線", "放射線", "半減期", "原子核", "核", "光電効果", "物質波", "ド・ブロイ", "ボーア", "エネルギー準位"],
-  },
-  {
-    terms: ["干渉", "ヤングの実験", "ニュートンリング", "薄膜干渉", "回折格子", "明線", "暗線"],
-    support: ["波動", "光", "干渉", "回折", "スリット", "レンズ", "ニュートンリング", "ヤング"],
-  },
-  {
-    terms: ["ドップラー", "ドップラー効果", "うなり", "音波の干渉", "クインケ管", "気柱共鳴"],
-    support: ["波動", "音", "音波", "振動数", "波長", "共鳴", "気柱", "ドップラー"],
-  },
-  {
-    terms: ["単振り子", "単振動", "ばね振り子"],
-    support: ["力学", "単振動", "単振り子", "振り子", "周期", "ばね"],
-  },
-  {
-    terms: ["速度交換", "弾性衝突", "衝突"],
-    support: ["力学", "衝突", "運動量", "速度交換", "反発係数"],
-  },
-  {
-    terms: ["フィゾーの実験", "光速測定"],
-    support: ["波動", "光", "光速", "フィゾー", "歯車"],
-  },
-];
-
-function structuredSearchText(question) {
-  return normalize([
-    question.year,
-    question.subject,
-    question.unit,
-    question.major_no,
-    question.middle_no,
-    question.minor_no,
-    question.answer_no,
-    question.typicality,
-    question.summary,
-    ...trustedInferredSearchKeywords(question),
-    ...(question.keywords ?? []),
-  ].join(" "));
-}
-
-function bodySearchText(question) {
-  return normalize([
-    question.problem_text,
-    question.masked_problem_text,
-  ].join(" "));
-}
-
-function termMatchInfo(question, term) {
-  let score = 0;
-  let matched = false;
-  const structuredText = structuredSearchText(question);
-  const bodyText = bodySearchText(question);
-
-  for (const variant of expandTermVariants(term)) {
-    const structuredHit = structuredText.includes(variant);
-    const unitHit = normalize(question.unit).includes(variant);
-    const keywordHit = (question.keywords ?? []).some((keyword) => normalize(keyword).includes(variant));
-    const summaryHit = normalize(question.summary).includes(variant);
-    const bodyHit = bodyText.includes(variant);
-
-    if (structuredHit) {
-      matched = true;
-      score += 4;
-    }
-    if (unitHit) score += 3;
-    if (keywordHit) score += 5;
-    if (summaryHit) score += 2;
-    if (bodyHit && bodyMatchIsReliable(question, variant, structuredText)) {
-      matched = true;
-      score += 2;
-    }
-  }
-
-  return { matched, score };
-}
-
-function bodyMatchIsReliable(question, variant, structuredText) {
-  const guard = guardedSearchConcepts.find((concept) => {
-    const conceptTerms = concept.terms.map((term) => normalize(term));
-    return conceptTerms.some((term) => term.includes(variant) || variant.includes(term));
-  });
-  if (!guard) return true;
-
-  const supportText = structuredText || structuredSearchText(question);
-  return guard.support.some((support) => supportText.includes(normalize(support)));
-}
+const { splitTerms, matchQuestion } = PhysicsSearch;
 
 function getFilteredQuestions() {
   const terms = splitTerms(elements.query.value);
-  const sortOrder = elements.sortOrder.value;
   const filters = {
     subject: elements.subject.value,
     exam_system: elements.examSystem.value,
@@ -516,21 +80,24 @@ function getFilteredQuestions() {
     typicality: elements.typicality.value,
     year: elements.year.value ? Number(elements.year.value) : null,
   };
-
   return questions
-    .map((question) => ({ question, score: scoreQuestion(question, terms) }))
-    .filter(({ question, score }) => {
-      if (terms.length > 0 && score === 0) return false;
-      if (terms.length > 1 && terms.some((term) => !termMatchesQuestion(question, term))) return false;
-      if (filters.subject && question.subject !== filters.subject) return false;
-      if (filters.exam_system && question.exam_system !== filters.exam_system) return false;
-      if (filters.session && question.session !== filters.session) return false;
-      if (filters.typicality && question.typicality !== filters.typicality) return false;
-      if (filters.year && question.year !== filters.year) return false;
-      return true;
-    })
-    .sort((a, b) => compareResults(a, b, sortOrder))
+    .filter((q) => Object.entries(filters).every(([key, value]) => !value || q[key] === value))
+    .map((question) => ({ question, ...matchQuestion(question, terms) }))
+    .filter((item) => item.matched)
+    .sort((a, b) => compareResults(a, b, elements.sortOrder.value))
     .map(({ question }) => question);
+}
+
+function renderMatchReason(question) {
+  if (!elements.query.value.trim()) return "";
+  const result = matchQuestion(question, elements.query.value);
+  return `<p class="match-reason">${result.matches.map((match) =>
+    `<span class="pill match-${match.tier}">${escapeHtml(match.label)}：${escapeHtml(match.term)}</span>`
+  ).join(" ")}</p>`;
+}
+
+function renderTags(tags, className = "") {
+  return (tags ?? []).map((tag) => `<span class="pill ${className}">${escapeHtml(tag)}</span>`).join(" ");
 }
 
 function compareResults(a, b, sortOrder) {
@@ -542,7 +109,7 @@ function compareResults(a, b, sortOrder) {
     return b.question.year - a.question.year || compareQuestionOrder(a.question, b.question);
   }
 
-  return b.score - a.score || b.question.year - a.question.year || compareQuestionOrder(a.question, b.question);
+  return b.tier - a.tier || b.score - a.score || b.question.year - a.question.year || compareQuestionOrder(a.question, b.question);
 }
 
 function compareQuestionOrder(a, b) {
@@ -579,6 +146,7 @@ function render() {
       </div>
       <h2 class="title">${escapeHtml(question.unit)} / 第${question.major_no}問 ${escapeHtml(question.middle_no)} ${escapeHtml(question.minor_no)}</h2>
       <p class="summary">${escapeHtml(question.summary)}</p>
+      ${renderMatchReason(question)}
     `;
     card.addEventListener("click", () => selectQuestion(question.id));
     card.addEventListener("keydown", (event) => {
@@ -605,7 +173,7 @@ function selectQuestion(id) {
 }
 
 function renderDetail(question) {
-  const pdfHref = resolveAssetPath(question.pdf_path);
+  const pdfHref = resolveAssetPath(question.pdf_path) + (question.source_location ? `#page=${question.source_location.pdf_page}` : "");
   const sourceLinks = renderSourceLinks(question);
   const correctRate = renderCorrectRate(question);
   const imageContent = renderQuestionImages(question);
@@ -625,13 +193,17 @@ function renderDetail(question) {
       <dt>正答</dt><dd>${renderAnswerReveal(question)}</dd>
       <dt>配点</dt><dd>${question.points == null ? "未登録" : `${question.points}点`}</dd>
       <dt>正答率</dt><dd>${correctRate}</dd>
-      <dt>掲載ページ</dt><dd>${escapeHtml(question.page || "未登録")}</dd>
+      <dt>PDFページ</dt><dd>${escapeHtml(question.source_location?.pdf_page || "未登録")}</dd>
       <dt>要約</dt><dd>${escapeHtml(question.summary)}</dd>
-      <dt>キーワード</dt>
-      <dd class="keywords">${(question.keywords ?? []).map((keyword) => `<span class="pill">${escapeHtml(keyword)}</span>`).join("")}</dd>
+      <dt>分野</dt><dd class="keywords">${renderTags(question.search_metadata?.domains)}</dd>
+      <dt>直接の内容</dt><dd class="keywords">${renderTags(question.search_metadata?.direct_tags, "match-3")}</dd>
+      <dt>状況・文脈</dt><dd class="keywords">${renderTags(question.search_metadata?.context_tags, "match-2") || "追加の文脈タグなし"}</dd>
     </dl>
     <div class="link-row">${pdfLink}</div>
-    <div class="image-box${hasQuestionImages(question) ? " has-images" : ""}">${imageContent}</div>
+    ${renderContextImages(question)}
+    <section aria-label="選択した小問"><h3 class="image-heading">選択した小問</h3>
+      <div class="image-box${hasQuestionImages(question) ? " has-images" : ""}">${imageContent}</div>
+    </section>
     ${sourceLinks}
     ${question.notes ? `<div class="note">${escapeHtml(question.notes)}</div>` : ""}
   `;
@@ -656,6 +228,19 @@ function getQuestionImages(question) {
   if (Array.isArray(question.image_paths)) images.push(...question.image_paths);
   if (question.image_path) images.push(question.image_path);
   return [...new Set(images.filter(Boolean))];
+}
+
+function renderContextImages(question) {
+  const images = question.context_images ?? [];
+  if (!images.length) return "";
+  return `<section class="context-section" aria-label="状況設定と前の設問">
+    <h3 class="image-heading">状況設定・前の設問</h3>
+    <p>この小問より前にある共通の条件や図を掲載しています。</p>
+    <div class="image-box has-images">${images.map((asset) => `<figure>
+      <img src="${escapeAttribute(resolveAssetPath(asset.path))}" alt="共通の状況設定・PDF ${asset.pdf_page}ページ" loading="lazy">
+      <figcaption>PDF ${asset.pdf_page}ページ</figcaption>
+    </figure>`).join("")}</div>
+  </section>`;
 }
 
 function renderQuestionImages(question) {
