@@ -1,0 +1,5658 @@
+[
+  {
+    "path": "data/images/selected/2024_common_main_physics-1-2626-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-2-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-3-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-4-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-5-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-6-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-8-1809-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.1809031194033652,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-9-600-7388.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.06,
+    "bottom": 0.7388304467656143
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-9-7388-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.7388304467656143,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-10-600-3268.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.06,
+    "bottom": 0.32675083530611915
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-10-3268-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.32675083530611915,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-11-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-12-979-3707.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.09788322135595402,
+    "bottom": 0.3707041699285775
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-12-3707-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.3707041699285775,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-14-985-4136.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.09854211409024859,
+    "bottom": 0.413600532317047
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-14-4136-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.413600532317047,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-15-600-5096.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.06,
+    "bottom": 0.5096197666437886
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-15-5096-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.5096197666437886,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-16-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-17-600-3868.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.06,
+    "bottom": 0.38680576359546587
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-17-3868-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.38680576359546587,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-18-2352-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.23515166478101407,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-19-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-21-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-22-600-6008.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.6007796893096903
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-22-6008-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.6007796893096903,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-23-600-1802.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.06,
+    "bottom": 0.18024423714181537
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics-23-1802-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.18024423714181537,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-1-2626-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-3-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-4-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-5-2893-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.2893287650941575,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-7-1534-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.1534494579474895,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-8-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-9-2084-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.20835679133198567,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-10-600-2619.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.06,
+    "bottom": 0.26189528461736444
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-10-2619-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.26189528461736444,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-11-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-12-1809-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.1809031194033652,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-13-600-1528.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.1527906489951527
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-13-1528-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.1527906489951527,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-14-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-15-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-16-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_main_physics_basic-17-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_main_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-1-2633-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.2632641351892266,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-2-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-3-979-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-4-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-5-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-6-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-8-979-2718.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.09788322135595402,
+    "bottom": 0.27184340766692044
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-8-2718-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.27184340766692044,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-9-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-12-979-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-13-600-2358.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.23581046326060612
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-13-2358-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.23581046326060612,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-14-2077-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.2076979090704358,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-15-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-16-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-17-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-19-979-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-20-600-1802.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.18024423714181537
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-20-1802-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.18024423714181537,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-21-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-22-3450-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.3449663524954959,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-24-979-4411.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.09788322135595402,
+    "bottom": 0.44105407857273077
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-24-4411-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.44105407857273077,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-25-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-26-979-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-27-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-28-979-2924.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.09788322135595402,
+    "bottom": 0.2924200260997555
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-28-2924-6972.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.2924200260997555,
+    "bottom": 0.697197013608871
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics-28-6972-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.697197013608871,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-1-2633-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2632641351892266,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-3-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-4-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-6-1528-3542.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.1527906489951527,
+    "bottom": 0.3542319667714053
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-6-3542-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.3542319667714053,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-7-600-7048.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.06,
+    "bottom": 0.7048291310537491
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-7-7048-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.7048291310537491,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-8-979-5478.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09788322135595402,
+    "bottom": 0.5477940941092571
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-8-5478-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.5477940941092571,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-9-1809-6332.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.1809031194033652,
+    "bottom": 0.6332299077460106
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-9-6332-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.6332299077460106,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-10-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-11-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_main_physics_basic-12-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-1-2529-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.25288665055148635,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-2-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-3-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-4-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-5-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-6-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-8-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-9-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-10-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-11-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-12-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-13-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-14-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-16-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-17-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-18-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-19-2084-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.20835679133198567,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-21-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-23-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-24-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-26-1802-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.18024423714181537,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-27-985-3683.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.09854211409024859,
+    "bottom": 0.3683441159595916
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-27-3683-5968.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.3683441159595916,
+    "bottom": 0.596760626903526
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-27-5968-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.596760626903526,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics-28-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-1-2523-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2522826664177784,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-2-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-3-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-4-979-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-5-1809-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-7-5002-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.5002442304392587,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-8-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-9-979-2626.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.09788322135595402,
+    "bottom": 0.2626052529276767
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-9-2626-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-10-979-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-11-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-12-5129-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.5129279391381049,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-13-600-4991.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.4990638264359557
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-13-4991-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.4990638264359557,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-14-985-9850.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-15-600-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-16-1809-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2025_common_makeup_physics_basic-17-985-9730.jpg",
+    "source_pdf": "data/pdf/2025_common_makeup_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-1-2626-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-3-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-4-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-5-979-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-6-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-7-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-8-3456-5388.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.3456251300295985,
+    "bottom": 0.5388303462272649
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-8-5388-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.5388303462272649,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-9-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-10-985-4610.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.09854211409024859,
+    "bottom": 0.46095811639391726
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-10-4610-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.46095811639391726,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-11-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-12-3731-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.37307892763115563,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-13-600-4548.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.45478104020997767
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-13-4548-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.45478104020997767,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-14-600-3456.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.3456251719205774
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-14-3456-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.3456251719205774,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-15-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-16-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-17-3731-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.3730788438491978,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-18-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-19-1809-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-20-979-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-21-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-22-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-23-985-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics-24-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-1-2633-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2632641351892266,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-3-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-4-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-6-979-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-7-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-8-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-9-1528-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.1527906489951527,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-10-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-11-979-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-14-979-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-15-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-16-2907-9850.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.29071776522686815,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-17-600-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-18-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2024_common_makeup_physics_basic-19-985-9730.jpg",
+    "source_pdf": "data/pdf/2024_common_makeup_physics_basic.pdf",
+    "pdf_page": 19,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-1-2633-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.2632641351892266,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-2-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-3-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-4-979-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-5-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-6-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-7-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-8-1809-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-10-5920-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.5920492741801433,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-11-600-4538.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.45384762541823953
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-11-4538-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.45384762541823953,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-12-600-5564.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.5563596263458733
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-12-5564-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.5563596263458733,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-13-600-3182.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.06,
+    "bottom": 0.31817156282842524
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-13-3182-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.31817156282842524,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-14-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-16-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-17-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-18-979-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.09788322135595402,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-19-600-4520.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.06,
+    "bottom": 0.4520494132581932
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-19-4520-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.4520494132581932,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-20-600-1802.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.18024423714181537
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-20-1802-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.18024423714181537,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-21-5437-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.5437445769614362,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-24-3576-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.3576499774123842,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-25-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-26-600-1809.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.06,
+    "bottom": 0.1809031194033652
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-26-1809-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-27-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics-28-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-1-2626-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-3-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-4-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-5-6549-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.6548678131836607,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-6-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-7-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-8-600-5250.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.5249938396802076
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-8-5250-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.5249938396802076,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-9-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-10-5724-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.5723838054837637,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-11-600-4747.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.47468482668529083
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-11-4747-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.47468482668529083,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-13-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-14-600-4126.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.4125847598608013
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-14-4126-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.4125847598608013,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_main_physics_basic-15-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-1-2601-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 1,
+    "top": 0.2600644184392695,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-2-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 2,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-3-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 3,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-4-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 4,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-5-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-6-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-7-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-10-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-11-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-13-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-14-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-15-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-17-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-18-600-1809.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.1809031194033652
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-18-1809-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-19-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-20-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-21-2084-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.20835679133198567,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-23-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-24-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-26-4936-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.493572966377295,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-27-985-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.09854211409024859,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-28-600-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics-29-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-1-2626-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 1,
+    "top": 0.2626052529276767,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-2-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 2,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-3-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-4-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-5-5026-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.5025641528504633,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-6-600-4424.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.06,
+    "bottom": 0.442440628083176
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-6-4424-6855.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.442440628083176,
+    "bottom": 0.6854605018338195
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-6-6855-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.6854605018338195,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-7-5316-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.5315689639456074,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-8-979-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09788322135595402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-11-985-4348.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09854211409024859,
+    "bottom": 0.43484968947055164
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-11-4348-9850.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.43484968947055164,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-12-600-1809.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.1809031194033652
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-12-1809-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.1809031194033652,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2023_common_makeup_physics_basic-13-985-9730.jpg",
+    "source_pdf": "data/pdf/2023_common_makeup_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.09854211409024859,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-5-2563-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.25626394344069126,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-7-1011-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.10111861743912019,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-8-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-9-1023-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.10229693637077769,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-10-1019-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.10190416339355853,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-11-1007-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.10072584446190103,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-13-3761-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.3760597014925373,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-14-600-5155.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.5154941084053417
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-14-5155-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.5154941084053417,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-15-600-7005.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.06,
+    "bottom": 0.7004901806755696
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-15-7005-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.7004901806755696,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-16-600-2445.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.06,
+    "bottom": 0.24448075412411624
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-16-2445-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.24448075412411624,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-17-600-1844.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.06,
+    "bottom": 0.18438648860958365
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-17-1844-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.18438648860958365,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-18-984-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.09836920659858601,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-20-960-3600.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.09601256873527102,
+    "bottom": 0.3599560094265514
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-20-3600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.3599560094265514,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-21-988-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.09876197957580518,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-23-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-24-1003-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.10033307148468186,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-25-995-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.09954752553024353,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-26-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-28-992-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.09915475255302436,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-29-964-3780.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.09640534171249018,
+    "bottom": 0.37802356637863316
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-29-3780-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.37802356637863316,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics-30-944-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.09444147682639435,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-5-2660-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.2659740871613663,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-6-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-7-971-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.09714801727522576,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-8-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-9-983-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.09832587357675697,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-10-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-11-999-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09989634864546526,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-13-2726-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.2726486062033765,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-14-1011-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.10107420494699647,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-15-6350-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.6350357283078131,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-16-987-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.09871849234393404,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-18-979-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.0979332548095799,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-19-968-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 19,
+    "top": 0.09675539850804869,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-21-975-9850.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 21,
+    "top": 0.09754063604240283,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2022_common_main_physics_basic-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2022_common_main_physics_basic.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-5-2673-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.26726158680282797,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-6-999-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.0999402985074627,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-7-1019-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.10190416339355853,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-8-1047-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.1046535742340927,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-9-980-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.09797643362136685,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-10-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-12-1031-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.10308248232521602,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-13-1019-4322.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.10190416339355853,
+    "bottom": 0.43222623723487824
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-13-4322-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.43222623723487824,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-15-5312-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.5312050274941084,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-16-1043-3533.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.10426080125687354,
+    "bottom": 0.3532788688138256
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-16-3533-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.3532788688138256,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-17-4075-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.40748153967007067,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-18-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-19-1007-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.10072584446190103,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-21-1023-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.10229693637077769,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-22-600-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-23-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-25-4978-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.49781932443047916,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-27-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-28-1035-4201.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.10347525530243519,
+    "bottom": 0.42005027494108405
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-28-4201-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.42005027494108405,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-29-5226-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.5225640219952867,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-30-1023-3364.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.10229693637077769,
+    "bottom": 0.3363896307934014
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-30-3364-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.3363896307934014,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics-31-1007-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.10072584446190103,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-5-2704-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.2704037706205813,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-6-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-7-1039-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.10386802827965436,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-8-1050-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.10504634721131187,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-9-1031-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.10308248232521602,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-12-2492-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.24919402985074623,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-13-1035-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.10347525530243519,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-14-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-15-4028-6294.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.4027682639434407,
+    "bottom": 0.6293982717989002
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-15-6294-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.6293982717989002,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-16-1035-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.10347525530243519,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-18-1027-3242.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.10268970934799686,
+    "bottom": 0.3242136684996072
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-18-3242-9850.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.3242136684996072,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-19-600-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 19,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-20-1035-4075.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.10347525530243519,
+    "bottom": 0.40748153967007067
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-20-4075-6278.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.40748153967007067,
+    "bottom": 0.6278271798900236
+  },
+  {
+    "path": "data/images/selected/2021_common_main_physics_basic-20-6278-9730.jpg",
+    "source_pdf": "data/pdf/2021_common_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.6278271798900236,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-5-2715-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.2714707499018453,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-6-1525-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.15250726344719276,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-7-1521-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.1521146446800157,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-8-1537-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.15368511974872398,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-9-1525-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.15250726344719276,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-12-1521-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.1521146446800157,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-13-1509-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.15093678837848448,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-16-1474-4273.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.14740321947389085,
+    "bottom": 0.4273404004711425
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-16-4273-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.4273404004711425,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-17-3893-9850.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.3892563800549666,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-18-600-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-19-1505-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.1505441696113074,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-21-1981-9850.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.198051040439733,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-23-1502-9850.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.15015155084413034,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-24-600-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-25-6307-7493.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.6307169218688653,
+    "bottom": 0.7492877895563408
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-25-7493-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.7492877895563408,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-27-5008-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.5007601099332548,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-28-1509-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.15093678837848448,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-29-6606-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.6605559481743227,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-30-1505-6484.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.1505441696113074,
+    "bottom": 0.6483847663918335
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-30-6484-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.6483847663918335,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-31-2699-6386.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.269900274833137,
+    "bottom": 0.6385692972124067
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-31-6386-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.6385692972124067,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics-32-1513-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics.pdf",
+    "pdf_page": 32,
+    "top": 0.15132940714566157,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-5-2974-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.297383588535532,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-6-1537-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.15368511974872398,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-7-1533-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.1532925009815469,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-8-1541-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.15407773851590104,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-9-1521-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.1521146446800157,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-11-6433-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.6432807224185316,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-12-1509-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.15093678837848448,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-13-4580-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.45796466431095406,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-14-1462-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.14622536317235962,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-16-1482-3351.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.14818845700824498,
+    "bottom": 0.3350749901845308
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-16-3351-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.3350749901845308,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-18-1478-3575.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.1477958382410679,
+    "bottom": 0.35745425991362384
+  },
+  {
+    "path": "data/images/selected/2020_center_main_physics_basic-18-3575-9730.jpg",
+    "source_pdf": "data/pdf/2020_center_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.35745425991362384,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-5-2766-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.2765747938751472,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-6-1517-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.15172202591283862,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-7-1513-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.15132940714566157,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-8-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-9-1560-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.1560408323517864,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-10-1556-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 10,
+    "top": 0.15564821358460934,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-12-1517-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.15172202591283862,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-13-1549-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.1548629760502552,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-14-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-16-1513-3924.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.15132940714566157,
+    "bottom": 0.3923973301923832
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-16-3924-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.3923973301923832,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-17-3123-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.3123031016882607,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-18-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-19-1498-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.14975893207695326,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-22-1513-4073.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.15132940714566157,
+    "bottom": 0.40731684334511187
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-22-4073-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.40731684334511187,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-24-1498-3484.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.14975893207695326,
+    "bottom": 0.34842402826855123
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-24-3484-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.34842402826855123,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-26-1513-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.15132940714566157,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-27-1505-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.1505441696113074,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-30-1450-4705.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.1450475068708284,
+    "bottom": 0.47052846486062033
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-30-4705-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.47052846486062033,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-31-1494-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.1493663133097762,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-34-1502-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 34,
+    "top": 0.15015155084413034,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-35-1509-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 35,
+    "top": 0.15093678837848448,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-36-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 36,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics-37-1502-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics.pdf",
+    "pdf_page": 37,
+    "top": 0.15015155084413034,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-5-2657-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.26573406766325725,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-6-981-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.09814948859166012,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-7-981-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.09814948859166012,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-8-985-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-9-989-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.09893627065302911,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-11-2382-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.23819669551534223,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-13-985-9850.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.09854287962234462,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-14-600-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-15-1552-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.15519118804091267,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-16-974-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.09736270653029111,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-17-5387-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.5387474429583006,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-18-985-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-20-1005-5006.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.10050983477576711,
+    "bottom": 0.500588512981904
+  },
+  {
+    "path": "data/images/selected/2019_center_main_physics_basic-20-5006-9730.jpg",
+    "source_pdf": "data/pdf/2019_center_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.500588512981904,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-5-2406-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.24063981228001563,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-6-932-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09320140789988268,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-7-959-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.09593899100508409,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-8-991-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.09906765741102855,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-9-979-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.09789440750879938,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-11-6450-9850.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.6450199452483378,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-13-975-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.09750332420805632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-16-1018-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.10180524051622997,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-17-998-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.09984982401251467,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-19-2747-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.2746640594446617,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-20-987-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.09867657411028549,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-21-971-9850.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.09711224090731325,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-23-4733-9850.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.4733343762221353,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-24-600-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-25-991-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.09906765741102855,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-27-5527-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.5527242862729761,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-28-987-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.09867657411028549,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-30-991-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.09906765741102855,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-31-967-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.0967211576065702,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-32-1018-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 32,
+    "top": 0.10180524051622997,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-33-6611-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 33,
+    "top": 0.6610543605788033,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-34-998-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 34,
+    "top": 0.09984982401251467,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-35-971-9850.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 35,
+    "top": 0.09711224090731325,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-36-600-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 36,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-37-2375-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 37,
+    "top": 0.23751114587407116,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-38-975-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 38,
+    "top": 0.09750332420805632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-39-936-9850.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 39,
+    "top": 0.09359249120062574,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics-40-600-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics.pdf",
+    "pdf_page": 40,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-5-2653-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.2652780602268283,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-6-967-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.0967211576065702,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-7-952-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.09515682440359798,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-8-975-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09750332420805632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-9-971-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.09711224090731325,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-12-952-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.09515682440359798,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-13-975-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.09750332420805632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-15-1538-3498.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.1538193195150567,
+    "bottom": 0.3497520531873289
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-15-3498-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.3497520531873289,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-17-4749-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.47489870942510753,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-18-975-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.09750332420805632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-19-1808-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 19,
+    "top": 0.18080406726632772,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2018_center_main_physics_basic-20-983-9730.jpg",
+    "source_pdf": "data/pdf/2018_center_main_physics_basic.pdf",
+    "pdf_page": 20,
+    "top": 0.09828549080954244,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-5-2398-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.23977025963808024,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-6-989-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09893627065302911,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-7-1001-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.10011644374508262,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-8-946-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.09460896931549961,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-9-1001-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.10011644374508262,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-11-7193-9850.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.7193139260424862,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-13-997-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.09972305271439812,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-15-5293-9850.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.5293060582218725,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-16-600-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-17-954-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.0953957513768686,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-20-966-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.09657592446892212,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-21-985-9850.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.09854287962234462,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-23-6159-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.6158520849724626,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-24-954-2803.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.0953957513768686,
+    "bottom": 0.2802895357985838
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-24-2803-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.2802895357985838,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-26-974-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.09736270653029111,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-27-966-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.09657592446892212,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-28-978-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-29-5313-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.531273013375295,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-30-958-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.09578914240755311,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-31-3444-9850.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.3444122738001573,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-32-600-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 32,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-33-966-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 33,
+    "top": 0.09657592446892212,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-34-978-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 34,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-35-2327-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 35,
+    "top": 0.23268922108575923,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-36-978-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 36,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics-37-978-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics.pdf",
+    "pdf_page": 37,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-3-2646-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.26455389457120376,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-4-981-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.09814948859166012,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-5-974-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.09736270653029111,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-6-1021-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.10208339889850512,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-7-1017-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.10169000786782062,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-8-2378-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.23780330448465775,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-9-970-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.0969693154996066,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-10-1532-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.15322423288749015,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-11-981-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.09814948859166012,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-12-2366-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.23662313139260424,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-13-985-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-14-3322-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.33221715184893785,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2017_center_main_physics_basic-15-1001-9730.jpg",
+    "source_pdf": "data/pdf/2017_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.10011644374508262,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-5-2442-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.24415956198670313,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-6-1026-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.10258740711771608,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-7-1018-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.10180524051622997,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-8-1042-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.10415174032068832,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-9-1042-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.10415174032068832,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-11-3009-9850.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 11,
+    "top": 0.3008666405944466,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-13-1018-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 13,
+    "top": 0.10180524051622997,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-15-4432-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 15,
+    "top": 0.44322096206491984,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-16-995-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.0994587407117716,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-18-1049-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.10493390692217443,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-19-1034-9850.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.10336957371920219,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-21-5367-9850.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.5366898709425107,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-23-1034-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 23,
+    "top": 0.10336957371920219,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-25-7475-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.7474837700430191,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-26-1010-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 26,
+    "top": 0.10102307391474384,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-27-5038-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.5038388736800938,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-28-1002-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.10024090731325773,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-29-6094-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.6094313648807196,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-30-1006-3239.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.10063199061400079,
+    "bottom": 0.32394055533828703
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-30-3239-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.32394055533828703,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-31-2426-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 31,
+    "top": 0.2425952287837309,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-32-1006-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 32,
+    "top": 0.10063199061400079,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics-33-1018-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics.pdf",
+    "pdf_page": 33,
+    "top": 0.10180524051622997,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-3-2715-9850.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 3,
+    "top": 0.2715353930387172,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-4-600-3963.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.06,
+    "bottom": 0.3962909659757528
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-4-3963-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 4,
+    "top": 0.3962909659757528,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-5-1006-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.10063199061400079,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-6-1022-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.10219632381697302,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-7-1022-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.10219632381697302,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-9-5011-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.5011012905748924,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-10-1002-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 10,
+    "top": 0.10024090731325773,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-11-1573-3830.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.15733906922174423,
+    "bottom": 0.38299413375048885
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-11-3830-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 11,
+    "top": 0.38299413375048885,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-13-5281-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.5280860383261634,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-14-971-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.09711224090731325,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-15-2097-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.20974423152131402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2016_center_main_physics_basic-16-1010-9730.jpg",
+    "source_pdf": "data/pdf/2016_center_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.10102307391474384,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-5-2394-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 5,
+    "top": 0.23937686860739577,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-6-978-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 6,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-7-985-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 7,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-8-1009-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 8,
+    "top": 0.10090322580645161,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-9-997-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 9,
+    "top": 0.09972305271439812,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-12-981-7032.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.09814948859166012,
+    "bottom": 0.7031848937844217
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-12-7032-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 12,
+    "top": 0.7031848937844217,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-14-981-3043.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.09814948859166012,
+    "bottom": 0.3042863886703383
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-14-3043-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 14,
+    "top": 0.3042863886703383,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-16-993-3401.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.09932966168371361,
+    "bottom": 0.34008497246262787
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-16-3401-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 16,
+    "top": 0.34008497246262787,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-17-5140-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 17,
+    "top": 0.513963808025177,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-18-985-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 18,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-19-7260-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 19,
+    "top": 0.726,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-20-970-2830.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.0969693154996066,
+    "bottom": 0.2830432730133753
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-20-2830-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 20,
+    "top": 0.2830432730133753,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-21-2071-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 21,
+    "top": 0.2071188040912667,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-22-966-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 22,
+    "top": 0.09657592446892212,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-24-915-5785.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.0914618410700236,
+    "bottom": 0.5784799370574351
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-24-5785-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 24,
+    "top": 0.5784799370574351,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-25-958-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 25,
+    "top": 0.09578914240755311,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-27-2350-9850.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 27,
+    "top": 0.23504956726986623,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-28-600-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 28,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-29-922-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 29,
+    "top": 0.09224862313139261,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics-30-962-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics.pdf",
+    "pdf_page": 30,
+    "top": 0.09618253343823761,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-5-2673-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 5,
+    "top": 0.26730763178599526,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-6-981-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 6,
+    "top": 0.09814948859166012,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-7-989-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 7,
+    "top": 0.09893627065302911,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-8-993-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 8,
+    "top": 0.09932966168371361,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-9-954-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 9,
+    "top": 0.0953957513768686,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-12-966-2618.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.09657592446892212,
+    "bottom": 0.26180015735641227
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-12-2618-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 12,
+    "top": 0.26180015735641227,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-13-1827-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 13,
+    "top": 0.1827285601888277,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-14-985-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 14,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-15-3531-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 15,
+    "top": 0.35306687647521634,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-16-978-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 16,
+    "top": 0.09775609756097561,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-17-1815-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 17,
+    "top": 0.18154838709677418,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2015_center_main_physics_basic-18-985-9730.jpg",
+    "source_pdf": "data/pdf/2015_center_main_physics_basic.pdf",
+    "pdf_page": 18,
+    "top": 0.09854287962234462,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-3-2589-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.25886614173228345,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-4-943-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.0942992125984252,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-5-931-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09311811023622048,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-6-915-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.09154330708661418,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-7-955-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09548031496062992,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-8-935-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09351181102362205,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-9-2577-9850.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.25768503937007875,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-10-600-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-11-872-9850.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.08721259842519685,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-14-951-3841.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.09508661417322835,
+    "bottom": 0.3840629921259842
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-14-3841-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.3840629921259842,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-16-955-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.09548031496062992,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-17-931-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.09311811023622048,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-19-3884-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.38839370078740154,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-20-955-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.09548031496062992,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-22-955-3014.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.09548031496062992,
+    "bottom": 0.30138582677165354
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-22-3014-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.30138582677165354,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-23-3136-4510.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.31359055118110235,
+    "bottom": 0.450992125984252
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-23-4510-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.450992125984252,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-25-5872-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 25,
+    "top": 0.5872125984251968,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-26-967-2427.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.09666141732283465,
+    "bottom": 0.2427244094488189
+  },
+  {
+    "path": "data/images/selected/2014_center_main_physics1-26-2427-9730.jpg",
+    "source_pdf": "data/pdf/2014_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.2427244094488189,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-3-2552-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.255221801665405,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-4-913-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.09133080999242998,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-5-894-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.08943830431491295,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-6-906-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.09057380772142316,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-7-913-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09133080999242998,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-8-902-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09019530658591976,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-10-925-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.0924663133989402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-11-917-9850.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.09170931112793339,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-12-600-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-13-4127-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.4126782740348221,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-14-883-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.08830280090840273,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-15-4725-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.4724814534443603,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-16-891-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.08905980317940954,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-18-928-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.09284481453444361,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-19-928-9850.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.09284481453444361,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-20-600-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-22-970-3298.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.09700832702498108,
+    "bottom": 0.3297865253595761
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-22-3298-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.3297865253595761,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-23-910-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.09095230885692658,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-25-4774-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 25,
+    "top": 0.4774019682059046,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-26-959-3294.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.09587282361847085,
+    "bottom": 0.32940802422407267
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-26-3294-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.32940802422407267,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-28-928-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 28,
+    "top": 0.09284481453444361,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2013_center_main_physics1-29-925-9730.jpg",
+    "source_pdf": "data/pdf/2013_center_main_physics1.pdf",
+    "pdf_page": 29,
+    "top": 0.0924663133989402,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-3-2570-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.2569908256880734,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-4-871-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.08708256880733946,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-5-948-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09478899082568808,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-6-908-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.09075229357798166,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-7-933-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09332110091743119,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-8-904-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09038532110091743,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-9-2030-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.20304587155963302,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-10-911-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.09111926605504587,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-11-3884-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.3883669724770642,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-12-915-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.09148623853211009,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-14-915-2845.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.09148623853211009,
+    "bottom": 0.2845137614678899
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-14-2845-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.2845137614678899,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-15-1766-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.17662385321100915,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-16-937-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.09368807339449542,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-17-6269-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.6268990825688073,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-18-952-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.09515596330275229,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-19-4434-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.44341284403669723,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-20-922-3021.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.09222018348623853,
+    "bottom": 0.30212844036697245
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-20-3021-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.30212844036697245,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-22-941-2772.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.09405504587155963,
+    "bottom": 0.2771743119266055
+  },
+  {
+    "path": "data/images/selected/2012_center_main_physics1-22-2772-9730.jpg",
+    "source_pdf": "data/pdf/2012_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.2771743119266055,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-3-2585-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.25851330086174595,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-4-993-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.09927763207193706,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-5-948-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09478156612963658,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-6-982-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.09815361558636193,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-7-944-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.0944068939677782,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-8-963-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09628025477707007,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-10-1000-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.1000269763956538,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-11-952-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.09515623829149494,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-13-1487-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.1487343574372424,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-14-978-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.09777894342450356,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-15-2300-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.23003821656050955,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-16-959-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.09590558261521169,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-18-974-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.09740427126264518,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-19-940-3833.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.09403222180591983,
+    "bottom": 0.38327913076058445
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-19-3833-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.38327913076058445,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-22-963-3462.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.09628025477707007,
+    "bottom": 0.34618658673660546
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-22-3462-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.34618658673660546,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-23-3971-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.3971420007493443,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-24-997-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 24,
+    "top": 0.09965230423379544,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-25-5384-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 25,
+    "top": 0.5383934057699513,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2011_center_main_physics1-26-978-9730.jpg",
+    "source_pdf": "data/pdf/2011_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.09777894342450356,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-4-2690-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.26900412139378044,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-5-1026-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.10264968152866243,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-6-1049-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.10489771449981267,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-7-1026-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.10264968152866243,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-8-1038-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.10377369801423754,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-9-1015-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.1015256650430873,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-10-2668-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.2667560884226302,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-11-967-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.09665492693892844,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-12-1555-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.15547845635069313,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-13-997-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.09965230423379544,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-15-997-4863.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.09965230423379544,
+    "bottom": 0.48631397527163733
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-15-4863-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.48631397527163733,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-16-2664-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.26638141626077183,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-17-1012-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.10115099288122893,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-19-1019-5125.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.10190033720494568,
+    "bottom": 0.5125410266017235
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-19-5125-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.5125410266017235,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-20-1004-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.10040164855751219,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-22-4739-6815.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.47394979393031095,
+    "bottom": 0.6815181715998502
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-22-6815-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.6815181715998502,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-23-1030-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.10302435369052079,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-24-4638-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 24,
+    "top": 0.46383364556013484,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2010_center_main_physics1-25-1030-9730.jpg",
+    "source_pdf": "data/pdf/2010_center_main_physics1.pdf",
+    "pdf_page": 25,
+    "top": 0.10302435369052079,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-3-2608-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.2607613338328962,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-4-918-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.09178418883476958,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-5-963-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09628025477707007,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-6-944-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.0944068939677782,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-7-982-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09815361558636193,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-8-937-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09365754964406145,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-10-933-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.09328287748220307,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-11-948-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.09478156612963658,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-12-937-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.09365754964406145,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-13-1517-3994.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.15173173473210938,
+    "bottom": 0.39939003372049453
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-13-3994-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.39939003372049453,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-16-865-3076.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.08653877856875235,
+    "bottom": 0.30759535406519295
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-16-3076-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.30759535406519295,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-17-907-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.09066017234919446,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-19-5331-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.5331479955039341,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-20-877-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.08766279505432746,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-21-6617-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 21,
+    "top": 0.6616605470213563,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-22-880-2698.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.08803746721618584,
+    "bottom": 0.2697534657174972
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-22-2698-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.2697534657174972,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-24-922-3810.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 24,
+    "top": 0.09215886099662796,
+    "bottom": 0.3810310977894342
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-24-3810-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 24,
+    "top": 0.3810310977894342,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-25-5358-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 25,
+    "top": 0.5357707006369427,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2009_center_main_physics1-26-940-9730.jpg",
+    "source_pdf": "data/pdf/2009_center_main_physics1.pdf",
+    "pdf_page": 26,
+    "top": 0.09403222180591983,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-3-2570-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.2570146122143125,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-4-895-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.08953615586361933,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-5-959-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09590558261521169,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-6-925-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.09253353315848632,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-7-985-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09852828774822031,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-8-918-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09178418883476958,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-10-888-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.08878681153990259,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-11-922-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.09215886099662796,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-12-895-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.08953615586361933,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-13-5365-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.5365200449606594,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-14-918-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.09178418883476958,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-15-4931-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.49305807418508807,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-16-877-2533.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.08766279505432746,
+    "bottom": 0.25326789059572874
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-16-2533-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.25326789059572874,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-17-3878-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.38777519670288496,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-18-884-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.08841213937804421,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-19-6321-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.6320614462345447,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-20-858-3203.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.0857894342450356,
+    "bottom": 0.32033420756837766
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-20-3203-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.32033420756837766,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-22-907-6261.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.09066017234919446,
+    "bottom": 0.6260666916448108
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-22-6261-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.6260666916448108,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-23-963-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.09628025477707007,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2008_center_main_physics1-24-907-9730.jpg",
+    "source_pdf": "data/pdf/2008_center_main_physics1.pdf",
+    "pdf_page": 24,
+    "top": 0.09066017234919446,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-3-2623-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.2622600224803297,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-4-922-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.09215886099662796,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-5-963-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09628025477707007,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-6-944-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.0944068939677782,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-7-974-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.09740427126264518,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-8-940-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 8,
+    "top": 0.09403222180591983,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-9-4129-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.412878231547396,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-10-940-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.09403222180591983,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-11-4556-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.45559085799925064,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-12-922-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.09215886099662796,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-13-5257-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.5256545522667666,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-14-955-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.09553091045335332,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-15-5796-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.5796073435743724,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-16-914-4365.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.09140951667291121,
+    "bottom": 0.4364825777444736
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-16-4365-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.4364825777444736,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-17-5654-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.5653698014237543,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-18-937-3458.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.09365754964406145,
+    "bottom": 0.3458119145747471
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-18-3458-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.3458119145747471,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-19-6085-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 19,
+    "top": 0.6084571000374672,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-20-914-3016.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.09140951667291121,
+    "bottom": 0.301600599475459
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-20-3016-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 20,
+    "top": 0.301600599475459,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-21-1514-9850.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 21,
+    "top": 0.15135706257025103,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-22-600-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 22,
+    "top": 0.06,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2007_center_main_physics1-23-967-9730.jpg",
+    "source_pdf": "data/pdf/2007_center_main_physics1.pdf",
+    "pdf_page": 23,
+    "top": 0.09665492693892844,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-1-2577-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 1,
+    "top": 0.2576673189823875,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-2-945-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 2,
+    "top": 0.09445792563600783,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-3-905-3727.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.0905440313111546,
+    "bottom": 0.3727358121330724
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-3-3727-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 3,
+    "top": 0.3727358121330724,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-4-948-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 4,
+    "top": 0.09484931506849316,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-5-937-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 5,
+    "top": 0.09367514677103718,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-6-2553-4189.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.2553189823874755,
+    "bottom": 0.4189197651663405
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-6-4189-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 6,
+    "top": 0.4189197651663405,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-7-4326-5994.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.4326183953033268,
+    "bottom": 0.5993502935420744
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-7-5994-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 7,
+    "top": 0.5993502935420744,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-9-941-4628.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.09406653620352251,
+    "bottom": 0.46275538160469665
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-9-4628-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 9,
+    "top": 0.46275538160469665,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-10-3520-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 10,
+    "top": 0.35199217221135026,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-11-905-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 11,
+    "top": 0.0905440313111546,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-12-4898-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 12,
+    "top": 0.48976125244618396,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-13-909-6369.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.09093542074363993,
+    "bottom": 0.6369236790606654
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-13-6369-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 13,
+    "top": 0.6369236790606654,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-14-4033-6494.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.4032641878669276,
+    "bottom": 0.6494481409001956
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-14-6494-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 14,
+    "top": 0.6494481409001956,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-15-909-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 15,
+    "top": 0.09093542074363993,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-16-3496-5269.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.34964383561643836,
+    "bottom": 0.5269432485322896
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-16-5269-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 16,
+    "top": 0.5269432485322896,
+    "bottom": 0.973
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-17-921-9850.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 17,
+    "top": 0.0921095890410959,
+    "bottom": 0.985
+  },
+  {
+    "path": "data/images/selected/2006_center_main_physics1-18-600-9730.jpg",
+    "source_pdf": "data/pdf/2006_center_main_physics1.pdf",
+    "pdf_page": 18,
+    "top": 0.06,
+    "bottom": 0.973
+  }
+]

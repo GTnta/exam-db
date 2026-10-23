@@ -31,9 +31,15 @@
 
 ## 前提の画像
 
-562件に共通条件・図・先行設問の画像を追加しています。A/B/Cの別のまとまりは含めず、その小問より後の設問も含めません。A/B共通の条件は大問冒頭から補います。共通部分が不要な独立小問は、既存の小問画像を表示します。前提の最小範囲を人手で選び切ったものではないため、同じまとまりの先行設問が多めに表示される場合があります。
+562件に共通条件・図・先行設問の画像を追加しています。A/B/Cの別のまとまりは含めず、その小問より後の設問も含めません。A/B共通の条件は大問冒頭から補います。共通部分が不要な独立小問は、小問画像を表示します。前提の最小範囲を人手で選び切ったものではないため、同じまとまりの先行設問が多めに表示される場合があります。
 
-`context_images` と `data/context-image-crops.json` に、PDFの実際のページ番号・切り出し上下位置を記録しています。旧 `page` や復元された `image-crops.json` のページは原本とずれる場合があるため、新しい前提画像の位置には使いません。画面の「PDFページ」とPDFリンクの開始位置は `source_location` を使います。
+`context_images` と `data/context-image-crops.json` に、PDFの実際のページ番号・切り出し上下位置を記録しています。小問画像も全件を `question_images` と `data/question-image-crops.json` の原本位置から生成し、表示用の `image_path` / `image_paths` を揃えています。小問本文の終端は次の小問・A/B/C・大問の手前とし、末尾の下書き用紙や次の大問のページ上端だけの画像は除きます。途中の続きのページや、図だけのページは文字数を理由に除きません。
+
+例: 2019年度センター物理本試の第4問B問4は、原本PDFの27ページだけが小問画像です。後ろの28ページ（下書き用紙）と29ページ（第5問）は表示せず、25〜26ページの状況設定・先行設問は前提画像に残します。
+
+次の問番号より前に次問用の説明が始まる場合は、確認済みの終端を `search-overrides.json` の `question_ends` に根拠とともに記録します。小問より後ろにあっても、その小問が参照する図や選択肢は残します。全件の意味上の終端を人手で精査済みではないため、番号や見出しだけで切れない境界は、原本で確認して補正してください。
+
+旧 `page` や復元された `image-crops.json` のページは原本とずれる場合があるため、新しい画像の位置には使いません。画面の「PDFページ」とPDFリンクの開始位置は `source_location` を使います。
 
 ## 再分類と確認
 
@@ -43,6 +49,7 @@
 node scripts/build-context-metadata.mjs --analyze
 node scripts/build-context-metadata.mjs
 python scripts/render-context-images.py
+python scripts/render-context-images.py --kind question
 node scripts/test-context-search.mjs
 node scripts/check-db.mjs
 ```
@@ -121,7 +128,9 @@ powershell -ExecutionPolicy Bypass -File scripts/download-public-pdfs.ps1
 
 ## 設問画像の作成
 
-設問画像は `data/image-crops.json` で管理します。`box` が `null` の行はページ全体の仮画像として生成されます。設問単位に詰めるときは、`box` にPDFページ内の切り出し範囲を0〜1の正規化座標で入れます。
+現在の設問画像は `data/question-image-crops.json` の原本PDFページと上下位置で管理し、`data/images/selected/` に生成します。GitHub Actionsの `Build question images` は、登録済みの範囲から前提画像・小問画像を生成し、検索・画像範囲の回帰テストを実行します。再分類や範囲の変更は上記「再分類と確認」の手順で行います。
+
+以下は旧形式の記録です。`data/image-crops.json` と `build-question-images.mjs` は過去の作業用に残していますが、現在の画像参照を更新する目的には使いません。旧形式では `box` が `null` の行はページ全体の仮画像になります。
 
 ```json
 {
@@ -140,4 +149,4 @@ powershell -ExecutionPolicy Bypass -File scripts/download-public-pdfs.ps1
 node scripts/init-full-page-crops.mjs
 ```
 
-画像生成はGitHub Actionsの `Build question images` で実行できます。ローカルで行う場合は `pdftoppm`, ImageMagick, `cwebp` が必要です。
+旧形式の画像生成には `pdftoppm`, ImageMagick, `cwebp` が必要です。

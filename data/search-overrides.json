@@ -58,6 +58,18 @@
     "2006_center_main_physics1_a18": { "fields": { "middle_no": "B" }, "evidence": "原本PDF第14ページからばねのB、問4-6。" },
     "2006_center_main_physics1_a21": { "fields": { "middle_no": "C" }, "evidence": "原本PDF第16ページから熱のC、問7-9。" }
   },
+  "question_ends": {
+    "2024_common_main_physics_basic_a05": { "page": 5, "y": 0.985, "evidence": "原本5ページで問1の全選択肢が完結。6ページからは問2以降の実験。" },
+    "2024_common_main_physics_basic_a06": { "page": 8, "y": 0.985, "evidence": "問2は8ページの図2を参照するためそこまで必要。9ページ冒頭は問3に向けた会話。" },
+    "2025_common_main_physics_a08": { "page": 9, "y": 0.985, "evidence": "原本9ページで問3の全選択肢が完結。10〜11ページのレーザー・光センサーは問4以降の設定。" },
+    "2025_common_main_physics_a15": { "page": 21, "y": 0.985, "evidence": "原本21ページは問5の波形の全選択肢。22ページ冒頭の式の説明は問6の前提。" },
+    "2025_common_makeup_physics_basic_a106": { "page": 5, "y": 0.985, "evidence": "原本5ページで問1の全選択肢が完結。6〜7ページの摩擦実験は問2以降の設定。" },
+    "2024_common_makeup_physics_a16": { "page": 18, "y": 0.985, "evidence": "問1の解答番号16・17は18ページの選択肢まで必要。19ページ冒頭の豆電球は問2の設定。" },
+    "2023_common_main_physics_a08": { "page": 8, "y": 0.985, "evidence": "原本8ページで問1の全選択肢が完結。9〜10ページのアルミカップ実験は問2以降の設定。" },
+    "2023_common_main_physics_a21": { "page": 22, "y": 0.985, "evidence": "原本22ページに問1の全選択肢。23〜24ページの回路・電流のグラフは問2以降の設定。" },
+    "2023_common_makeup_physics_a06": { "page": 11, "y": 0.985, "evidence": "問1の解答番号6・7の選択肢は11ページまで。12ページのダイオードは問2以降の設定。" },
+    "2023_common_makeup_physics_a16": { "page": 24, "y": 0.985, "evidence": "原本24ページで問2の会話・選択肢が完結。25〜26ページの平面上の波は問3以降の設定。" }
+  },
   "anchors": {
     "2015_center_main_physics_a14": { "page": 19, "y": 0.738, "evidence": "原本の問1はOCRが問番号を認識できない。" }
   }

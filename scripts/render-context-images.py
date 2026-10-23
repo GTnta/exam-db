@@ -1,11 +1,16 @@
-"""Render registered source ranges; existing small-question images stay intact."""
+"""Render the registered context or selected-question source ranges."""
+import argparse
 import json
 from collections import defaultdict
 from pathlib import Path
 import pymupdf
 
 ROOT = Path(__file__).resolve().parent.parent
-rows = json.loads((ROOT / 'data/context-image-crops.json').read_text(encoding='utf-8'))
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--kind', choices=['context', 'question'], default='context')
+args = parser.parse_args()
+rows = json.loads((ROOT / f'data/{args.kind}-image-crops.json').read_text(encoding='utf-8'))
+output_dir = (ROOT / 'data/images' / ('selected' if args.kind == 'question' else 'context')).resolve()
 by_pdf = defaultdict(list)
 for row in rows:
     by_pdf[row['source_pdf']].append(row)
@@ -14,8 +19,8 @@ for source, assets in by_pdf.items():
     doc = pymupdf.open(ROOT / source)
     for asset in assets:
         target = (ROOT / asset['path']).resolve()
-        if not target.is_relative_to(ROOT / 'data/images/context'):
-            raise ValueError('Output path escapes context directory')
+        if not target.is_relative_to(output_dir):
+            raise ValueError('Output path escapes registered image directory')
         if target.exists():
             continue
         page = doc[asset['pdf_page'] - 1]

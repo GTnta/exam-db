@@ -11,26 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Install PDF and image tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y poppler-utils imagemagick webp tesseract-ocr tesseract-ocr-jpn
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install PDF renderer
+        run: python -m pip install pymupdf==2.0.0
       - name: Build images
         run: |
-          node scripts/infer-pages-from-pdf-text.mjs
-          node scripts/init-full-page-crops.mjs
-          node scripts/sync-question-image-pages.mjs
-          node scripts/heuristic-vertical-crop-boxes.mjs
-          node scripts/fallback-tiny-crops-to-full-page.mjs
-          node scripts/extract-search-text-from-pdf.mjs
-          node scripts/build-question-images.mjs
-          node scripts/prune-tiny-question-images.mjs
-          node scripts/ocr-search-text-from-images.mjs
+          python scripts/render-context-images.py
+          python scripts/render-context-images.py --kind question
+          node scripts/test-context-search.mjs
           node scripts/check-db.mjs
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/images data/questions.json data/image-crops.json data/image-page-audit.json
+          git add data/images/context data/images/selected
           git diff --cached --quiet || git commit -m "Build question images"
           git push

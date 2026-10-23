@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { createRequire } from 'node:module';
+import { isScratchPage, trimQuestionEnd } from './source-image-bounds.mjs';
 const require = createRequire(import.meta.url);
 const search = require('../app/search.js');
 const root = path.resolve(import.meta.dirname, '..');
@@ -38,6 +39,7 @@ const contexts = [];
 const missing = [];
 const anchorReport = [];
 const segments = new Map();
+const questionSegments = new Map();
 const contextualHints=new Map();
 
 function sliceLines(pages, start, end) {
@@ -50,18 +52,17 @@ function sliceLines(pages, start, end) {
   }
   return lines.join(' ').replace(/[\x00-\x08\x0B-\x1F]/g, ' ').replace(/\s+/g, ' ').trim();
 }
-function imageSegments(pdf, start, end, pages) {
+function imageSegments(pdf, start, end, pages, kind = 'context') {
   const result = [];
   for (let p = start.page; p <= end.page; p++) {
     const top = p === start.page ? Math.max(0.04, start.y - 0.012) : 0.06;
     const bottom = p === end.page ? Math.min(0.985, end.y - 0.012) : 0.985;
     if (bottom - top < 0.025) continue;
-    const pageText=compact((pages[p-1]?.lines ?? []).map((l) => l.text).join(' '));
-    if (/下書き用紙/.test(pageText) && /試験問題は次に続く/.test(pageText)) continue;
+    if (isScratchPage(pages[p-1])) continue;
     if (bottom < 0.15 && !(pages[p-1]?.lines ?? []).some((l) => l.y>=top && l.y<bottom && !/^物理(?:基礎|I|Ⅰ)?$/.test(compact(l.text)))) continue;
-    const rel = `data/images/context/${path.basename(pdf, '.pdf')}-${p}-${Math.round(top*10000)}-${Math.round(bottom*10000)}.jpg`;
+    const rel = `data/images/${kind === 'question' ? 'selected' : 'context'}/${path.basename(pdf, '.pdf')}-${p}-${Math.round(top*10000)}-${Math.round(bottom*10000)}.jpg`;
     const asset = { path: rel, source_pdf: pdf, pdf_page: p, top, bottom };
-    segments.set(rel, asset);
+    (kind === 'question' ? questionSegments : segments).set(rel, asset);
     result.push(asset);
   }
   return result;
@@ -188,8 +189,15 @@ for (const [pdf, records] of byPdf) {
       const nextKey = next && sectionKey(next.records[0]);
       let end = next ? (nextKey !== key ? sectionStarts.get(nextKey) : aligned.get(next.key)) : {page:pages.length,y:0.985};
       if (next && next.records[0].major_no !== group.records[0].major_no) {
-        const majorEnd=headers.find((h) => h.major===number(next.records[0].major_no) && earlier(mark,h) && !earlier(end,h));
+        const majorEnd=headers.filter((h) => h.major===number(next.records[0].major_no) && earlier(mark,h) && !earlier(end,h))
+          .sort((a,b) => position(a)-position(b))[0];
         if (majorEnd) end=majorEnd;
+      }
+      end = trimQuestionEnd(pages, mark, end);
+      const reviewedEnd = overrides.question_ends?.[group.records[0].id];
+      if (reviewedEnd) {
+        if (earlier(end,reviewedEnd)) throw new Error(`Reviewed end exceeds structural boundary: ${group.key}`);
+        end = {page:reviewedEnd.page,y:reviewedEnd.y};
       }
       if (!earlier(mark,end)) throw new Error(`Reversed source bounds: ${group.key}`);
       const bodyText = sliceLines(pages,mark,end);
@@ -198,6 +206,8 @@ for (const [pdf, records] of byPdf) {
       const contiguous=sharedIntro && Math.abs(position(sharedIntro.end)-position(start))<0.001;
       const assets = contiguous ? imageSegments(pdf,sharedIntro.start,mark,pages) :
         [...(sharedIntro ? imageSegments(pdf,sharedIntro.start,sharedIntro.end,pages) : []), ...imageSegments(pdf,start,mark,pages)];
+      const selectedAssets = imageSegments(pdf,mark,end,pages,'question');
+      if (!selectedAssets.length) throw new Error(`Empty question image range: ${group.key}`);
       for (const q of group.records) {
         const direct=q.search_metadata.direct_tags;
         q.search_metadata.context_tags=unique([...contextual,...precedingTopics,...(contextualHints.get(q.id)??[])]).filter((tag) => !direct.includes(tag));
@@ -205,6 +215,9 @@ for (const [pdf, records] of byPdf) {
         q.search_metadata.body_text=bodyText;
         q.search_metadata.context_text=precedingText;
         q.context_images=assets;
+        q.question_images=selectedAssets;
+        q.image_paths=selectedAssets.map((asset) => asset.path);
+        q.image_path=q.image_paths[0];
         q.source_location={pdf_page:mark.page,y:mark.y,end_pdf_page:end.page,end_y:end.y};
         anchorReport.push({id:q.id,marker:mark,end,context_start:start});
       }
@@ -228,11 +241,12 @@ function inferDomains(text, fallback) {
   if (found.length) return found;
   return unique(compact(fallback).split(/[・/]/).map((x) => x==='波'?'波動':x==='電気'?'電磁気':x).filter((x) => tests.some(([name]) => name===x)));
 }
-write('worklogs/context-metadata-audit.json',{questions:questions.length,contexts:contexts.length,segments:segments.size,missing,anchors:anchorReport});
-console.log(JSON.stringify({questions:questions.length,contexts:contexts.length,segments:segments.size,missing},null,2));
+write('worklogs/context-metadata-audit.json',{questions:questions.length,contexts:contexts.length,segments:segments.size,question_segments:questionSegments.size,missing,anchors:anchorReport});
+console.log(JSON.stringify({questions:questions.length,contexts:contexts.length,segments:segments.size,question_segments:questionSegments.size,missing},null,2));
 if (missing.length) process.exitCode=1;
 if (!process.argv.includes('--analyze') && !missing.length) {
   write('data/questions.json',questions);
   write('data/contexts.json',contexts);
   write('data/context-image-crops.json',[...segments.values()]);
+  write('data/question-image-crops.json',[...questionSegments.values()]);
 }
